@@ -1,0 +1,266 @@
+Publisher and Series		Books in Corpus	Books in ERF Lists	%
+AAS Press
+	Awesome Adventure Series	0	10	0.0%
+	TOTAL	0	10	0.0%
+Abax
+	Global Issues Narratives	9	9	100.0%
+	TOTAL	9	9	100.0%
+Atama-ii Books
+	Atama-ii Books	10	11	90.9%
+	TOTAL	10	11	90.9%
+Black Cat-Cideb
+	EarlyReads	0	43	0.0%
+	EasyReads	0	13	0.0%
+	Green Apple	0	68	0.0%
+	Green Apple Drama	0	2	0.0%
+	Interact with Literature	0	12	0.0%
+	Reading and Training	0	153	0.0%
+	Reading and Training Discovery	0	7	0.0%
+	Reading and Training Professional	0	3	0.0%
+	Reading Classics	0	22	0.0%
+	TOTAL	0	323	0.0%
+Burlington Books
+	Activity Readers	0	76	0.0%
+	International Readers	0	16	0.0%
+	Original Readers	0	149	0.0%
+	TOTAL	0	241	0.0%
+Cambridge University Press
+	Cambridge Discovery Education Interactive Readers	0	96	0.0%
+	Cambridge English Readers	80	95	84.2%
+	Cambridge Experience Readers (formerly Discovery Readers)	25	30	83.3%
+	Cambridge Storybooks	0	70	0.0%
+	Cambridge Young Readers: Factbooks: Why is it so?	0	20	0.0%
+	Readers for Teens	0	12	0.0%
+	TOTAL	105	323	32.5%
+Cengage / Heinle / National Geographic
+	Classical Comics / Classic Graphic Novel Collection	0	12	0.0%
+	DELTA Adventures in English	0	6	0.0%
+	Footprints Reading Library	100	100	100.0%
+	Foundations Reading Library	42	42	100.0%
+	Heinle Reading Library: Academic Content Colledtion, The	0	18	0.0%
+	Heinle Reading Library: Biography Collection, The	0	7	0.0%
+	Heinle Reading Library: Illustrated Classics Collection, The	0	49	0.0%
+	Look Anthology	0	7	0.0%
+	Our World Readers	0	54	0.0%
+	Page Turners	50	51	98.0%
+	Summertown Readers	0	9	0.0%
+	TOTAL	192	355	54.1%
+Collins
+	Amazing People	15	15	100.0%
+	TOTAL	15	15	100.0%
+Compass
+	Classic Readers (Compass)	60	60	100.0%
+	Compass Readers	0	70	0.0%
+	Famous Korean Folktales	0	3	0.0%
+	Katie and TC Mysteries Readers	0	10	0.0%
+	Sounds Great Readers	0	20	0.0%
+	Sunshine Readers	59	60	98.3%
+	Tip Top Readers	0	30	0.0%
+	Young Learners Classic Readers	60	60	100.0%
+	TOTAL	179	313	57.2%
+Delta Publishing
+	Adventure	0	1	0.0%
+	Crime and Thriller	0	5	0.0%
+	Delta Adventures in English	0	6	0.0%
+	Fairy Tales	0	7	0.0%
+	History	0	4	0.0%
+	Me and my World	0	7	0.0%
+	TOTAL	0	30	0.0%
+e-Future
+	Art Classic Stories	0	30	0.0%
+	Classic Readers (e-Future)	180	180	100.0%
+	Magic Adventures	0	18	0.0%
+	School Adventures	0	18	0.0%
+	Vera the Alien Hunter	0	18	0.0%
+	TOTAL	180	264	68.2%
+Egmont Easy Readers
+	Easy Reader	0	61	0.0%
+	Read On	0	15	0.0%
+	Teen Reader	0	59	0.0%
+	TOTAL	0	135	0.0%
+ELI
+	ELI Classics	0	6	0.0%
+	ELI Readers - White	0	9	0.0%
+	First ELI Readers	0	2	0.0%
+	New English Fiction Series	0	6	0.0%
+	Ready to Read Green Series	0	16	0.0%
+	Ready to Read The Fab Fables	0	6	0.0%
+	Teen Beat Series	0	6	0.0%
+	Teen ELI Readers	24	40	60.0%
+	Young Adult ELI Readers	32	38	84.2%
+	Young ELI Readers	16	67	23.9%
+	TOTAL	72	196	36.7%
+Express Publishing
+	Big Story Books	0	3	0.0%
+	Christmas-time Readers	0	3	0.0%
+	Discover our Amazing World CLIL Readers	0	24	0.0%
+	ELT Classic Readers	0	16	0.0%
+	ELT Favourite Classic Readers	0	4	0.0%
+	ELT Graded Readers	0	23	0.0%
+	ELT Illustrated Readers	0	19	0.0%
+	ELT Showtime Readers	0	11	0.0%
+	Explore our World CLIL Readers	0	15	0.0%
+	Storytime Readers	0	26	0.0%
+	TOTAL	0	144	0.0%
+Foxton
+	Foxton Readers	50	50	100.0%
+	TOTAL	50	50	100.0%
+Garnet
+	Oracle Readers	16	16	100.0%
+	TOTAL	16	16	100.0%
+Gateford Press
+	Life in Britain	0	1	0.0%
+	TOTAL	0	1	0.0%
+Grass Roots
+	Biographies	48	48	100.0%
+	Good Reads	17	17	100.0%
+	Photostories	46	46	100.0%
+	TOTAL	111	111	100.0%
+HALICO
+	Pocket Readers	16	16	100.0%
+	Pocket Readers - 10 Ways	30	40	75.0%
+	Pocket Readers - Business	10	10	100.0%
+	TOTAL	56	66	84.8%
+Hamilton House Publishers
+	Aesop's Fables	0	12	0.0%
+	Fun with Fizz	0	1	0.0%
+	Non-Fiction Graded Readers	0	24	0.0%
+	Primary Classic Readers	0	15	0.0%
+	The Shooting Stars	0	3	0.0%
+	TOTAL	0	55	0.0%
+Helbling
+	Helbling Classics - Blue	10	25	40.0%
+	Helbling Classics - Red	8	35	22.9%
+	Helbling Fiction - Blue	9	14	64.3%
+	Helbling Fiction - Red	9	14	64.3%
+	Helbling Fiction Graphic Stories - Red	0	12	0.0%
+	Helbling Fiction Maze Stories - Red	0	9	0.0%
+	Helbling Fiction Short Reads - Red	4	6	66.7%
+	Helbling Fiction the Time Detectives - Red	0	6	0.0%
+	Helbling Young Readers	0	30	0.0%
+	Rudyard Kipling	1	1	100.0%
+	The Thinking Train	0	24	0.0%
+	TOTAL	41	176	23.3%
+Hueber Verlag
+	Hueber Lekturen	0	71	0.0%
+	TOTAL	0	71	0.0%
+I Talk-You Talk Press
+	English Graded Readers	90	102	88.2%
+	TOTAL	90	102	88.2%
+IBC Ladder
+	Ladder Series	0	190	0.0%
+	TOTAL	0	190	0.0%
+ILTS
+	Robin Readers	65	65	100.0%
+	TOTAL	65	65	100.0%
+Independent
+	Mid-frequency Readers	27	42	64.3%
+	Special	2	8	25.0%
+	TOTAL	29	50	58.0%
+Ladybird Readers
+	Do You Know?	0	28	0.0%
+	Ladybird Readers	0	159	0.0%
+	TOTAL	0	187	0.0%
+Macmillan
+	Macmillan Children's Readers	0	59	0.0%
+	Macmillan Cultural Readers	0	6	0.0%
+	Macmillan English Explorers	0	54	0.0%
+	Macmillan Explorers Phonics	0	16	0.0%
+	Macmillan Factual Readers 	0	40	0.0%
+	Macmillan Heinemann ELT Children's Readers	0	17	0.0%
+	Macmillan Literature Collection	0	12	0.0%
+	Macmillan Natural and Social Science Spain Reader	0	48	0.0%
+	Macmillan Readers	119	209	56.9%
+	New Wave Readers	0	30	0.0%
+	Read Smart Readers	8	17	47.1%
+	TOTAL	127	508	25.0%
+McGraw-Hill Asia
+	Choose Your Own Adventure	0	30	0.0%
+	Password Readers	0	28	0.0%
+	TOTAL	0	58	0.0%
+MM Publications
+	Graded Readers - Classic Stories	0	17	0.0%
+	Graded Readers - Original Stories	0	8	0.0%
+	Little Books	0	18	0.0%
+	Primary Readers	0	44	0.0%
+	Top Readers	0	24	0.0%
+	TOTAL	0	93	0.0%
+MPI
+	Building Blocks Library	57	82	69.5%
+	TOTAL	57	82	69.5%
+Oxford University Press
+	Classic Tales 2nd Edition	0	42	0.0%
+	Content Area Readers	0	10	0.0%
+	Dolphin Readers	0	40	0.0%
+	Dominoes 2nd Edition	7	108	6.5%
+	English Today Readers	0	12	0.0%
+	Oxford Bookworms Collection	0	6	0.0%
+	Oxford Bookworms Library	135	256	52.7%
+	Oxford Bookworms Library: Factfiles	1	59	1.7%
+	Oxford Bookworms Library: Playscripts	0	10	0.0%
+	Oxford Progressive English Readers	0	53	0.0%
+	Oxford Read and Discover	0	60	0.0%
+	Oxford Read and Imagine	0	68	0.0%
+	Oxford Storyland Readers	0	48	0.0%
+	Start with English Readers	0	24	0.0%
+	Storylines	0	19	0.0%
+	Up and Away Readers	0	24	0.0%
+	TOTAL	143	839	17.0%
+Penguin / Pearson
+	Pearson Disney Kids Readers	0	38	0.0%
+	Pearson English Active Readers	16	71	22.5%
+	Pearson English Kids Readers	1	86	1.2%
+	Pearson English Readers	55	302	18.2%
+	Penguin Active Reading	1	91	1.1%
+	Penguin Kids	0	88	0.0%
+	Penguin Readers (New)	0	100	0.0%
+	Penguin Readers (Old)	33	492	6.7%
+	Penguin Young Readers	0	81	0.0%
+	TOTAL	106	1349	7.9%
+Pomaka
+	No Series Name	0	4	0.0%
+	Stranger in Japan: A story about language and culture	0	3	0.0%
+	Tips for English Language Learners	1	2	50.0%
+	University diaries	5	5	100.0%
+	TOTAL	6	11	54.5%
+Prolingua
+	Hopes and Dreams	12	12	100.0%
+	TOTAL	12	12	100.0%
+Read Stories - Learn English
+	No Series Name	0	4	0.0%
+	The Kate Redman Mysteries	0	3	0.0%
+	TOTAL	0	6	0.0%
+Richmond Publishing
+	Primary Readers	0	44	0.0%
+	Richmond Mazes	0	4	0.0%
+	Richmond Readers	0	22	0.0%
+	Richmond Robin Readers	0	60	0.0%
+	Richmond Spotlight Readers	0	55	0.0%
+	TOTAL	0	159	0.0%
+Scholastic ELT
+	Scholastic DVD Readers	0	11	0.0%
+	Scholastic ELT Secondary Readers	0	111	0.0%
+	Scholastic Popcorn ELT Readers	0	74	0.0%
+	TOTAL	0	196	0.0%
+Seed Learning
+	Culture Readers: Holidays	0	20	0.0%
+	Future Job Readers	20	20	100.0%
+	World History Readers 	60	60	100.0%
+	TOTAL	80	100	80.0%
+StandFor Readers
+	StandFor Bright Readers	0	1	0.0%
+	StandFor Graded Readers	0	29	0.0%
+	StandFor Young Readers	0	35	0.0%
+	TOTAL	0	65	0.0%
+Sunshine Books
+	Sunshine Books	73	73	100.0%
+	TOTAL	73	73	100.0%
+Usborne
+	Usborne English Readers	0	54	0.0%
+	TOTAL	0	54	0.0%
+WAO Corporation
+	WAO Waochi Picture Books	19	19	100.0%
+	TOTAL	19	19	100.0%
+Wayzgoose Press
+	Wayzgoose Press	29	29	100.0%
+	TOTAL	29	29	100.0%

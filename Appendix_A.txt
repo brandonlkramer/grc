@@ -1,0 +1,1951 @@
+(Location) Publisher, Series, and Title	Words	Standard Words	Flesch Kincaid Grade Level	Flesch Reading Ease
+Abax
+	Global Issues Narratives
+(X)		Trafficked: Taken - Anya's Story	0	2620.50	1.6	97.4
+(X)		Identity: Lost - Tama's Story	0	3239.83	2.1	96.18
+(X)		Identity: Pride - Hone's Story	0	3264.00	2.2	95.98
+(X)		Identity: Roots - Kylie's Story	0	3446.17	1.9	96.69
+(X)		Mine: The Boy - Clem's Story	0	2594.17	1.1	98.62
+(X)		Mine: The Chief - Winnie's Story	0	2494.00	1.5	97.8
+(X)		Mine: The Village - Deepa's Story	0	2528.67	1.6	97.5
+(X)		Trafficked: Haven - Ruth's Story	0	2393.50	1.7	97.09
+(X)		Trafficked: Mission - Magda's Story	0	2756.17	1.7	97.2
+Atama-ii Books
+	Atama-ii Books
+(X)		Backstage Pass	0	1945.00	1.8	96.89
+(X)		Brainstorm	0	2438.17	1.5	97.6
+(X)		Hunter in the Darkness	0	2287.50	0.2	106.57
+(X)		Journey to Mars	0	2499.83	1.4	97.91
+(X)		Lost Cup_ The	0	2373.00	1.4	97.91
+(X)		North Fence_ The	0	2271.50	0.9	104.74
+(X)		Ooze_ The	0	2372.83	1.4	97.91
+(X)		Test of Time, The	0	2485.83	1.8	96.99
+(X)		Tornado Alley	0	2324.33	1.5	97.8
+(X)		Zombies in Tokyo	0	2227.17	1.3	98.11
+Cambridge University Press
+	Cambridge English Readers
+(X)		Death in Oxford, A	12016	2297.00	1.3	98.31
+(B)		Matter of Chance, A	2261	14971.00	4.4	84.88
+(B)		Picture to Remember, A	1318	8108.17	3.8	86.4
+(X)		Puzzle for Logan, A	2398	12938.67	2.6	94.86
+(X)		Tangled Web, A	1974	20604.17	3.8	86.2
+(X)		All I Want	1074	21211.33	2.7	94.56
+(X)		Apollo's Gold	4324	7555.83	1.5	97.6
+(X)		Arman's Journey	25720	1750.33	1.3	98.11
+(X)		Bad Company	2074	8442.50	1.9	96.69
+(X)		Bad Love	8238	3453.67	1.6	97.4
+(X)		Berlin Express	2982	18162.00	3.7	86.71
+(B)		Big Hair Day	8216	1716.17	0.1	106.67
+(X)		Blood Diamonds	7605	4323.67	1.7	97.3
+(B)		Book Boy	4356	2155.33	1.1	98.62
+(X)		Circle Games	1289	8103.67	2.1	96.08
+(X)		Dead Cold	1357	8211.50	1.8	96.89
+(X)		Death in the Dojo	1046	17760.67	4.6	84.17
+(X)		Different Worlds	2930	7112.17	2.3	95.57
+(X)		Dirty Money	12888	1790.50	1.5	97.8
+(X)		Dolphin Music	1624	20574.50	2.2	95.98
+(X)		Don't Stop Now!	2404	3768.00	1.6	97.5
+(B)		Double Cross	4109	13545.17	2.0	96.28
+(X)		Dragon's Eggs	2052	21473.67	2.6	94.76
+(X)		East 43rd Street	4358	20200.17	3.3	87.72
+(X)		Emergency Murder	1640	19145.33	3.3	87.72
+(X)		Eye of the Storm, The	1490	12085.33	2.8	94.25
+(X)		Forget to Remember	977	22608.00	3.5	87.01
+(X)		Frozen Pizza and Other Slices of Life	1972	23451.17	4.2	85.18
+(X)		He Knows Too Much	3159	25332.83	4.4	84.68
+(X)		High Life, Low Life	1913	16291.00	3.1	88.23
+(X)		Hotel Casanova	12027	3194.33	1.8	96.99
+(B)		How I Met Myself	3186	11653.67	3.1	93.44
+(X)		In the House	1243	17374.00	2.4	95.47
+(X)		In the Shadow of the Mountain	1455	20401.83	4.6	84.27
+(B)		Inspector Logan	11702	3650.00	1.6	97.4
+(X)		John Doe	4311	3751.33	1.1	98.72
+(B)		Jojo's Story	2391	7608.00	1.8	96.89
+(B)		Jungle Love	1698	20309.17	4.5	84.47
+(X)		Just Like a Movie	12589	3140.33	1.2	98.51
+(X)		Let Me Out!	8268	1673.17	0.7	99.73
+(B)		Logan's Choice	2075	8583.83	2.2	95.98
+(X)		Murder by Art	2561	20140.83	3.3	87.52
+(B)		Murder Maker	952	24699.50	4.9	83.36
+(X)		Next Door To Love	17635	3759.67	0.2	106.47
+(X)		No Place to Hide	2190	13331.00	3.7	86.71
+(X)		Not Above the Law	1448	12508.50	2.2	95.77
+(X)		One Day	1816	6735.17	2.1	96.08
+(B)		Parallel	23009	3441.50	1.3	98.11
+(X)		Solo Saxophone	1721	26091.83	3.7	86.5
+(X)		Strong Medicine	1240	11995.17	3.8	86.4
+(X)		Tales of the Supernatural	1192	13217.17	2.5	94.96
+(X)		Amsterdam Connection, The 	920	15309.00	2.7	94.66
+(B)		Beast, The	1485	11864.67	2.2	95.98
+(X)		Best of Times?, The	2046	25811.67	2.7	94.66
+(X)		Big Picture, The	8372	2886.67	1.5	97.7
+(X)		Black Pearls, The	2338	2331.17	1.4	97.91
+(X)		Caribbean File, The	8146	3687.33	1.3	98.21
+(X)		Dark Side of the City, The	1746	8217.00	2.5	94.96
+(X)		Double Bass Mystery, The	1157	7129.50	1.2	98.41
+(X)		Fruitcake Special and Other Stories, The	2908	15552.50	3.8	86.2
+(B)		Girl at the Window, The	2797	1855.67	0.9	99.12
+(X)		House by the Sea, The	985	12990.83	2.2	95.88
+(B)		Ironing Man, The	2772	12837.00	3.4	92.83
+(X)		Lady in White, The	1072	17966.17	3.1	93.64
+(X)		Lahti File, The	1556	11639.83	2.8	94.25
+(X)		Man from Nowhere, The	764	7062.83	2.0	96.28
+(X)		New Zealand File, The	1754	8987.50	2.2	95.77
+(B)		Penang File,The 	18727	1756.33	1.3	98.21
+(X)		University Murders, The	1671	17124.17	4.2	85.39
+(X)		Way Home, The	2080	26589.67	3.1	93.64
+(X)		This Time it's Personal	965	23925.00	3.8	86.2
+(X)		Three Tomorrows	19180	3394.00	1.4	98.01
+(B)		Two Lives	784	12435.83	2.7	94.66
+(X)		What a Lottery!	28097	1845.50	1.3	98.11
+(B)		When Summer Comes	1333	18340.17	4.1	85.49
+(X)		Why?	2133	1786.33	1.4	97.91
+(X)		Wild Country	3152	12680.00	2.4	95.27
+(X)		Windows of the Mind	1123	22596.00	4.6	84.27
+(L)		Nothing but the Truth	721	15070.33	3.3	87.62
+(L)		Staying Together	2349	16662.33	2.2	95.77
+	Cambridge Experience Readers (formerly Discovery Readers)
+(X)		Little Trouble in Amsterdam, A	1135	6983.33	2.2	95.98
+(X)		LIttle Trouble in California, A	2187	1987.33	1.3	98.21
+(X)		Little Trouble in Dublin, A	1008	3721.50	1.7	97.3
+(X)		Little Trouble in the Yorkshire Dales, A	3678	10206.33	2.7	94.56
+(X)		Alone	2852	11193.33	1.9	96.69
+(X)		Amazing Young Sports People	790	2556.67	3.7	86.5
+(X)		Ask Alice	790	6769.00	1.8	96.79
+(X)		Bullring Kid and Country Cowboy	691	16475.17	3.7	86.5
+(X)		Freddie's War	1511	25052.00	3.4	87.31
+(X)		Gone!	1485	1805.50	1.3	98.31
+(X)		Grandad's Magic Gadgets	2050	7254.50	3.3	87.62
+(X)		Killer Bees	1144	7020.67	1.4	97.91
+(X)		New Zealand	1200	6685.00	4.6	84.17
+(X)		Parties and Presents: Three Short Stories	1543	7031.67	2.0	96.38
+(X)		Quick Change	2116	1841.83	-0.2	107.28
+(X)		Robinson Crusoe	3139	15654.67	4.3	90.29
+(X)		Running Wild	763	9715.83	2.3	95.67
+(X)		Scotland	1410	10775.33	5.5	81.83
+(X)		Summer Sounds	3057	3619.83	1.1	98.62
+(X)		Tales of Terror	2223	10501.17	1.7	97.09
+(X)		Tasty Tales	1117	15027.17	2.4	95.37
+(X)		Mayor of Casterbridge, The	1501	20172.50	5.0	83.25
+(X)		Mind Map, The	3358	10519.50	3.8	86.3
+(X)		Two Worlds	1332	16012.17	4.3	85.08
+(X)		Vinnie's Vacation	3183	3724.17	1.4	97.91
+Cengage / Heinle / National Geographic
+	Footprints Reading Library
+(X)		Chinese Artist in Harlem, A	0	1959.83	7.5	71.24
+(B)		Disappearing World, A	0	1174.33	4.5	84.37
+(B)		Real Winner, A	0	1560.17	4.6	84.27
+(B)		Special Kind of Neighborhood, A	0	1290.00	6.0	75.3
+(B)		Afghanistans Heroic Artists	0	2860.33	8.0	70.13
+(B)		Alaskan Ice Climbing	0	1026.67	4.2	85.39
+(B)		Alternative Energy	0	2390.50	10.9	51.58
+(B)		Aquarium on Wheels	0	1985.83	7.7	70.73
+(B)		Arctic Whale Danger!	0	661.17	3.6	86.91
+(B)		Beagle Patrol	0	1561.67	5.7	81.33
+(B)		Bird Girl	0	1637.17	5.4	82.14
+(B)		Birds in Paradise	0	1224.50	4.6	84.27
+(B)		Blue Cows?	0	1274.67	4.8	83.76
+(B)		Butler School	0	1891.83	4.0	85.79
+(B)		Cambodia Animal Rescue	0	1329.67	4.6	84.17
+(B)		Canyaking Adventure	0	3847.00	8.1	69.72
+(B)		Capoeira: The Fighting Dance	0	1367.83	5.8	81.02
+(B)		Cheese-Rolling Races	0	868.50	4.1	85.59
+(B)		Cheetahs in Focus	0	3002.50	7.5	71.34
+(B)		Chuckwagon Racing	0	2502.00	5.2	82.75
+(B)		Columbus & New World	0	990.17	5.5	76.52
+(B)		Confucianism in China	0	1504.00	7.8	65.22
+(B)		Cupid the Dolphin	0	2082.50	6.4	74.08
+(B)		Dangerous Dining	0	1312.00	4.5	84.47
+(B)		Dinosaur Builder	0	2304.83	9.3	61.26
+(B)		Dinosaur Search	0	1158.17	3.8	86.4
+(B)		Don't Believe Your Eyes	0	1066.17	4.1	85.59
+(B)		Dreamtime Painters	0	753.00	5.4	76.82
+(B)		Extreme Sky Diving	0	2922.50	7.6	71.14
+(B)		Farley the Red Panda	0	830.67	5.2	77.23
+(B)		Firewalking	0	2878.67	7.8	70.43
+(B)		Flying Pumpkins	0	1096.00	5.6	76.22
+(B)		Giant Cave Crocs!	0	2633.00	4.6	84.27
+(B)		Gliding Across the Gobi	0	1727.00	5.3	82.44
+(B)		Gorilla Watching Tours	0	1174.33	5.3	76.93
+(B)		Happy Elephants	0	1005.00	5.3	77.13
+(B)		How's the Weather?	0	1167.17	6.4	74.29
+(X)		Killer Bees	0	1830.50	6.2	74.69
+(X)		Koalas	0	2180.67	8.6	68.4
+(X)		Life on the Orinoco	0	700.17	5.3	76.93
+(B)		Living in the Slow Lane	0	2266.50	8.7	68.1
+(B)		Living With a Volcano	0	1550.50	5.9	75.4
+(B)		Making a Deal 	0	1192.50	4.4	84.68
+(B)		Making a Thai Boxing Champion	0	965.67	5.2	77.33
+(B)		Mars on Earth	0	2870.33	8.4	68.91
+(B)		Monkey Party	0	944.33	4.0	85.89
+(B)		Mount Fuji	0	1490.50	6.5	73.78
+(B)		Mysterious Crop Circles	0	1964.17	7.1	72.26
+(X)		Natacha's Animal Rescue	0	4084.00	8.4	69.01
+(B)		Night Hunt	0	1446.83	4.2	85.39
+(B)		One Boy's Journey 	0	872.83	4.3	84.98
+(B)		One Village Makes a Difference 	0	1385.33	6.1	74.9
+(B)		One Woman's Choice	0	1516.17	5.4	82.04
+(B)		Opal Town, The	0	2298.33	6.2	80.11
+(B)		Orangutan Language	0	1467.83	6.9	72.76
+(X)		Para-Life Rescue	0	1804.83	7.6	70.94
+(B)		Peruvian Weavers	0	1025.33	5.7	75.91
+(B)		Polar Bears in Trouble	0	1962.67	8.2	69.41
+(B)		Puffin Rescue!	0	906.00	2.9	94.15
+(B)		Saving the Amazon Together	0	3620.17	10.0	59.33
+(B)		Saving the Pandas!	0	1857.33	6.7	73.37
+(B)		Shark Alley	0	2875.33	6.3	79.9
+(X)		Snake Detective	0	2951.50	7.0	72.66
+(B)		Snow Magic!	0	859.50	4.1	85.59
+(B)		Solar Cooking	0	1579.50	6.7	73.27
+(B)		Spacewalk	0	1740.50	9.8	59.84
+(X)		Taiko Master	0	917.00	6.0	75.3
+(B)		Adventure Capital of the World, The 	0	1304.83	4.8	83.76
+(B)		Amazing Human Body	0	1983.00	8.9	62.38
+(B)		Art of Silk Making, The	0	1367.00	6.9	72.87
+(B)		Black Diamonds of Provence, The	0	2121.00	6.9	72.87
+(B)		Exciting Streets of Barcelona, The	0	2020.67	6.7	73.37
+(B)		Future of a Village	0	733.00	5.3	76.93
+(B)		Gauchos of Argentina, The	0	2593.00	7.3	71.75
+(B)		Giant's Causeway, The	0	926.33	5.6	76.22
+(B)		Great Kite Fight, The	0	3121.00	7.7	70.73
+(B)		Hidden Treasures of Egypt, The	0	2886.50	7.7	70.84
+(B)		King of the Spiders, The	0	2910.83	7.4	71.65
+(X)		Knife Markets of Sanaa, The	0	977.00	5.6	76.32
+(B)		Last of the Cheju Divers, The	0	692.33	4.2	85.39
+(X)		Life of a Geisha, The	0	1900.17	6.8	73.07
+(B)		Lost City of Machu Picchu, The	0	1040.83	5.4	76.72
+(B)		Lost Temples of the Maya, The	0	1604.00	4.9	83.46
+(B)		Memory Man, The 	0	1067.50	6.5	68.57
+(B)		Missing Snows of Kilimanjaro, The	0	1165.83	6.5	73.88
+(B)		Olympians, The	0	1502.00	5.6	81.63
+(X)		Orient Express	0	2700.17	8.8	67.79
+(B)		Perfect Swarm, The	0	3501.50	8.2	69.52
+(B)		Red Devils	0	3143.67	8.1	69.82
+(B)		Story of the Hula	0	698.67	4.2	85.18
+(B)		Three Rivers of Zambia, The	0	1317.17	6.5	73.78
+(B)		Varied Cultures of China, The	0	2120.67	10.0	59.43
+(B)		Young Riders of Mongolia, The	0	631.33	5.3	76.93
+(B)		Tornado Chase	0	2958.33	7.2	71.95
+(B)		Volcano Trek	0	1009.33	5.7	75.91
+(B)		Water Sports Adventure	0	1164.17	5.2	77.23
+(B)		Wild Animal Town	0	1374.83	6.7	73.37
+(B)		Wild Animal Trackers	0	1111.00	6.6	68.26
+(X)		Wind Power	0	1403.17	6.2	74.69
+(B)		Zoo Dentists	0	1890.67	5.0	83.15
+	Foundations Reading Library
+(B)		Good Friend, A	0	781.00	-0.3	107.58
+(B)		Helping Hand, A	0	2214.67	-0.2	107.18
+(X)		Bad Dog? Good Dog!	0	577.17	0.9	99.23
+(B)		Boys vs. Girls	0	1502.83	-0.2	107.18
+(B)		Do I Tell?	0	1171.00	0.9	99.12
+(B)		Do It!	0	2175.17	1.3	98.21
+(B)		Does He Love Me?	0	2240.33	1.1	98.62
+(B)		Get the Ball!	0	468.50	2.0	91.07
+(B)		Go Jimmy Go!	0	1206.83	1.1	98.72
+(B)		Goodbye, Hello!	0	471.67	-0.4	107.79
+(B)		I Always Win!	0	581.33	-0.4	107.79
+(B)		I Spy	0	1092.17	1.1	98.72
+(B)		Kung Fu  Kid	0	662.50	-0.3	107.48
+(B)		Let's Party!	0	2441.83	1.1	98.82
+(X)		Lost at Sea	0	1253.00	-0.2	107.18
+(X)		Love Online	0	2474.83	0.3	106.16
+(B)		My Mom, the Movie Star	0	2602.17	2.4	89.95
+(B)		Mystery on the Island	0	1259.50	1.1	98.72
+(B)		No, You Can't!	0	2152.33	2.3	90.16
+(B)		Old Boat, New Boat	0	603.83	-0.2	107.28
+(X)		Quick Thinking	0	608.17	-0.3	107.38
+(B)		Quiz Night	0	850.17	1.1	98.62
+(B)		Rain, Rain, Rain!	0	419.83	-0.5	108.09
+(B)		Sarah's Surprise	0	479.67	0.8	99.43
+(B)		Singer Wanted	0	586.50	1.0	98.92
+(B)		Sk8 for Jake	0	661.83	0.9	99.12
+(B)		Slam Dunk for Mark	0	709.50	1.1	98.82
+(B)		Bear's Mouth, The 	0	1464.83	-0.3	107.48
+(B)		Big Test, The 	0	1002.33	0.9	99.33
+(B)		Cave, The 	0	634.50	-0.5	108.09
+(X)		Golden Monkey, The 	0	2522.33	1.4	97.91
+(B)		Lost Wallet, The 	0	2233.00	1.1	98.72
+(X)		New Guitar, The 	0	595.33	1.3	98.11
+(B)		Old Promise, The 	0	2291.33	1.1	98.82
+(B)		Secret Tunnel, The 	0	2094.17	1.1	98.82
+(B)		Shipwreck, The 	0	1134.50	1.0	99.02
+(B)		Tickets, The 	0	613.50	2.0	90.97
+(B)		Think Daniela!	0	1328.00	-0.3	107.38
+(X)		Trouble at Sea	0	2014.83	0.2	106.57
+(X)		Trouble at the Zoo	0	670.83	0.9	99.33
+(B)		Where's Lorena?	0	1410.00	1.0	99.02
+(B)		Who's Best?	0	1413.33	1.1	98.82
+	Page Turners
+(B)		Kitchen Love Story, A	0	3760.17	1.5	97.7
+(X)		New Song for Nina, A	0	6928.17	1.8	96.79
+(X)		All About the Music	0	4489.67	1.8	96.79
+(X)		All or Nothing	0	3802.67	2.1	96.18
+(B)		Bad Blood	0	13226.17	2.2	95.88
+(X)		Battle for Big Tree Country	0	14176.67	2.0	96.48
+(X)		Best Friends	0	7112.00	1.8	96.89
+(B)		Bigfoot	0	4850.83	1.9	96.59
+(B)		Come Home	0	3153.17	1.3	98.11
+(X)		Control Order 351	0	13721.67	2.5	95.06
+(B)		Danny Dark	0	12592.67	2.4	95.27
+(X)		Dead Before Midnight	0	7301.00	1.7	97.2
+(B)		Deadly Truth	0	21360.67	3.5	87.01
+(X)		Dino Nightmare	0	5407.00	2.1	96.08
+(X)		Gone	0	5617.50	2.0	96.28
+(X)		Hacker	0	3514.50	1.8	96.99
+(X)		He's Mine	0	3928.17	1.8	96.99
+(X)		Heart of a Fighter	0	4720.00	1.8	96.89
+(X)		It's Just a Cat	0	2932.50	1.8	96.99
+(X)		Joe Faust	0	12527.33	2.7	94.56
+(X)		Kilimanjaro	0	12637.33	2.5	94.96
+(X)		Light	0	11158.67	3.7	86.71
+(B)		Mercy Killer	0	17812.17	3.2	87.92
+(X)		Nature	0	6920.83	1.8	96.89
+(X)		Oscar's Journey	0	16163.33	4.0	85.79
+(X)		Resistance	0	8095.83	3.8	86.2
+(B)		Reunited	0	15462.83	2.1	96.08
+(X)		Road Trip	0	3482.67	1.3	98.21
+(X)		Roommates	0	3633.83	1.6	97.4
+(X)		Running Free	0	4296.67	1.7	97.09
+(X)		Samurai	0	14460.83	2.8	94.35
+(X)		Second Chances	0	3906.17	1.8	96.99
+(X)		Soccer Crazy	0	2985.67	1.4	98.01
+(X)		Somebody Better	0	3071.67	1.5	97.6
+(X)		400, The	0	5614.67	2.3	95.57
+(X)		Angels, The	0	3799.17	1.9	96.69
+(X)		Art of Fear, The	0	15128.33	4.1	85.49
+(B)		Beautiful Game, The	0	4042.17	1.7	97.3
+(X)		Boathouse, The	0	12629.33	2.7	94.66
+(X)		Choice, The	0	5051.67	2.1	96.08
+(X)		Lift, The	0	4379.00	2.0	96.28
+(X)		Long Road to Lucca, The	0	13950.17	2.6	94.86
+(X)		Man from the Sky, The	0	8216.33	2.6	94.76
+(B)		Picture in the Attic, The	0	8261.67	1.7	97.2
+(B)		Secret Beach, The	0	5588.67	1.5	97.8
+(X)		The Stranger	0	11677.17	2.1	96.08
+(X)		Yellow Field, The	0	10898.17	3.8	86.3
+(X)		Three Tales of Deadly Desire	0	6405.83	2.1	96.18
+(X)		Trust	0	4976.83	3.4	87.42
+(X)		You Just Don't Know Her	0	3363.00	1.4	97.91
+Collins
+	Amazing People
+(X)		Amazing Architects and Artists	0	7010.17	4.4	84.68
+(X)		Amazing Aviators	0	6819.00	4.2	85.18
+(X)		Amazing Composers	0	5605.83	6.0	75.3
+(X)		Amazing Entrepreneurs and Business People L4	0	13795.50	7.6	71.14
+(X)		Amazing Explorers	0	11178.50	6.8	78.38
+(X)		Amazing Inventors	0	4457.67	4.1	85.59
+(X)		Amazing Leaders L4	0	14276.00	8.3	69.31
+(X)		Amazing Performers L1	0	5059.83	4.2	85.28
+(X)		Amazing Philanthropists	0	9293.67	4.6	84.17
+(X)		Amazing Scientists 4	0	10834.50	8.2	69.52
+(X)		Amazing Scientists L3	0	9549.67	7.5	71.34
+(X)		Amazing Thinkers and Humanitarians	0	10086.67	8.1	69.62
+(X)		Amazing Women	0	4491.33	4.4	84.78
+(X)		Amazing Writers L3	0	8484.83	6.5	79.4
+(X)		Amazing Writers L4	0	13738.83	6.5	79.4
+Compass
+	Classic Readers (Compass)
+(X)		20,000 Leagues under the Sea	12105	10636.50	2.4	95.27
+(X)		Christmas Carol, A	31531	10336.50	2.8	94.25
+(X)		Tale of Two Cities, A	26656	20120.67	3.8	91.71
+(X)		Aesop's Fables	11771	2049.33	3.9	91.51
+(B)		Alice in Wonderland	8743	6604.50	1.7	97.09
+(X)		Anne of Green Gables	18390	7518.83	2.4	95.37
+(X)		Around the World in Eighty Days	18394	16310.67	4.0	85.89
+(B)		Black Beauty	10280	3437.67	1.3	98.21
+(X)		Classic American Short Stories	12269	26935.50	6.1	80.21
+(X)		Classic British  Short Stories	18775	26585.00	4.9	88.77
+(B)		David Copperfield	7965	16000.67	2.5	94.96
+(X)		Doctor Doolittle	11034	3434.33	2.2	95.77
+(B)		Dr. Jekyll and Mr. Hyde	4193	8903.33	1.9	96.59
+(X)		Favorite Asian Folk Tales	9370	2727.00	2.0	96.38
+(X)		Frankenstein	30507	10155.83	3.0	93.85
+(X)		Great Expectations	30584	26628.33	3.6	92.32
+(B)		Grimm's Fairy Tales	15229	3510.17	2.2	95.77
+(X)		Jane Eyre	18088	25590.83	4.5	89.99
+(X)		Just So Stories	23211	3717.17	2.6	94.76
+(B)		King Solomon's Mines	4497	10410.00	2.3	95.67
+(B)		Little Women	23619	15483.00	2.4	95.47
+(X)		Moby Dick	6345	18778.33	4.5	89.79
+(X)		More Tales of Mystery and Imagination	3882	17169.17	6.0	80.72
+(X)		Nicholas Nickleby	8202	26597.17	4.0	91.11
+(X)		Oliver Twist	12092	15753.33	2.2	95.88
+(X)		Peter Pan	30417	6891.00	2.2	95.98
+(X)		Pride and Prejudice	3884	21078.50	4.4	84.78
+(X)		Robin Hood	19207	6735.00	1.8	96.79
+(B)		Robinson Crusoe	18169	9800.17	3.0	93.74
+(X)		Romeo and Juliet	21963	10543.83	2.3	95.67
+(X)		Sense and Sensibility	17947	15990.50	4.2	85.18
+(B)		Shakespeare's Comedies	23024	20895.17	4.4	84.88
+(B)		Shakespeare's Tragedies	23338	20716.67	4.0	85.79
+(B)		Sherlock Holmes	23799	13163.83	3.1	93.64
+(X)		Tales of Mystery and Imagination	23399	12661.33	3.2	87.82
+(X)		Tess of the D'Urbevilles	18034	26163.33	4.0	91.11
+(X)		Adventures of Tom Sawyer, The	7825	7106.83	2.0	96.38
+(X)		Arabian Nights, The	4209	5275.83	1.9	96.59
+(B)		Emperor's New Clothes, The	5074	3271.67	1.7	97.09
+(X)		Happy Prince, The	12261	3224.17	3.4	92.83
+(X)		Hound of the Baskervilles, The	14115	19784.50	4.0	91.31
+(X)		Importance of Being Earnest, The	30579	21128.83	3.8	86.4
+(B)		Invisible Man, The	8414	23401.00	5.3	82.34
+(X)		Jungle Book, The	12017	3315.83	1.5	103.02
+(B)		Merchant of Venice, The	12352	10474.33	2.9	94.15
+(X)		Moonstone, The	8025	16336.00	4.2	85.18
+(X)		Phantom of the Opera, The	8343	27039.50	4.9	83.36
+(X)		Prisoner of Zenda, The	12304	15173.83	3.7	91.92
+(B)		Railway Children, The	30900	7053.50	2.2	95.77
+(B)		Secret Garden, The	4122	6914.67	1.7	97.2
+(B)		Thirty-Nine Steps, The	15261	14724.83	2.6	94.86
+(B)		Three Musketeers, The	30759	27624.33	5.8	81.22
+(B)		Time Machine, The	19647	10206.67	2.3	95.57
+(X)		War of the Worlds, The	11855	27213.17	6.3	79.8
+(B)		Wind in the Willows, The	2539	3440.00	1.8	96.99
+(B)		Wizard of Oz, The	3293	6949.17	2.6	94.86
+(X)		Treasure Island	30325	9992.00	1.8	96.99
+(X)		Vanity Fair	4008	20741.00	3.6	92.12
+(B)		White Fang	10469	6691.17	2.5	94.96
+(B)		Wuthering Heights	30317	30883.33	5.4	82.04
+	Sunshine Readers
+(L)		Along Comes Jake	1079	75.50	-0.4	107.79
+(L)		At the Zoo	14751	109.33	1.2	98.51
+(L)		Baby-Sitters, The	1031	189.83	3.9	80.78
+(L)		Bag of Smiles, The	362	320.83	1.8	102.2
+(L)		When the Balloon Went Pop!	10370	191.00	0.4	106.06
+(L)		Bear on the Mountain, The	1031	259.00	2.1	96.08
+(L)		Boggywooga	205	622.50	1.8	96.99
+(L)		Brutus	2178	367.83	1.7	97.09
+(L)		Cat and Bird	4318	102.83	2.4	89.95
+(L)		Come for a Swim!	1834	112.17	-0.2	107.28
+(L)		Cooking Pot, The	6593	108.17	-0.4	107.79
+(L)		Cow in the Hole, The	230	204.33	0.5	105.55
+(L)		When Dad went to Playschool	7323	172.33	0.5	105.66
+(L)		Dinner Time	5888	101.00	-0.4	107.69
+(L)		Don't you Laugh at Me!	12494	151.83	-0.5	108.09
+(L)		Dragon, The	1878	117.00	2.8	88.94
+(L)		Dr. Sprocket Makes a Rocket	401	171.67	1.0	98.92
+(L)		Elephant Walk	570	107.67	1.3	98.31
+(L)		Footprints on the Moon	385	224.83	1.7	97.3
+(L)		Goodbye, Lucy	821	55.17	1.8	91.58
+(L)		Grandpa's New Car	197	238.67	1.1	98.82
+(L)		Ha-Ha Powder, The	4719	273.00	2.8	88.94
+(L)		Hundred Hugs, A	2236	206.00	1.3	98.21
+(L)		I Spy	314	367.33	1.6	97.5
+(L)		Jack and the Giant!	214	156.17	1.9	96.59
+(L)		Juggler, The	306	70.67	0.6	100.14
+(L)		Just This Once	213	245.67	1.1	98.82
+(L)		Letters for Mr. James	855	189.33	3.0	88.33
+(L)		Magic Machine, The	329	160.83	2.6	89.45
+(L)		Magic Tree, The	13331	235.83	1.0	99.02
+(L)		Mishi-na	8034	199.33	2.5	95.17
+(L)		Mom's Diet	574	230.50	1.1	98.72
+(L)		Mom's Birthday	303	219.83	1.8	96.99
+(L)		Moon Story	285	146.83	0.7	99.73
+(L)		Mr. Grump	840	72.17	2.2	95.88
+(L)		Mrs. Grindy's Shoes	842	199.83	-0.2	107.18
+(L)		My Sloppy Tiger	4402	174.50	0.2	106.57
+(L)		New Bed, A	10047	192.33	-1.2	115.23
+(L)		Night	170	72.33	-0.9	109.0
+(L)		Nowhere and Nothing	800	135.17	0.3	106.16
+(L)		Pirate, The	479	169.17	2.3	95.67
+(L)		Poor Sore Paw, The	309	304.67	0.4	106.06
+(L)		Quack, Quack, Quack!	977	186.17	0.2	106.37
+(L)		Ratty-Tatty	10856	160.50	2.4	90.05
+(L)		Sausage, The	356	134.33	-0.6	108.4
+(L)		Secret of Spooky House, The	14228	329.67	1.6	97.5
+(L)		Seed, The	1092	46.33	2.8	89.04
+(L)		Space Race	5182	190.17	1.5	97.7
+(L)		Spider, Spider	365	69.17	1.7	91.68
+(L)		Tess and Paddy	2093	206.33	1.2	98.41
+(L)		One thousand Muffins	6056	187.00	0.5	105.55
+(L)		Tornado	154	254.33	2.5	89.75
+(L)		Traveler and the Farmer, The	2261	380.33	1.5	97.6
+(L)		Wake up, Mom!	1163	103.67	0.1	101.26
+(L)		Watching TV	2145	74.67	0.9	99.33
+(L)		Whale, The	6395	219.50	0.4	105.96
+(L)		Where Are You Going, Mya Rose?	1683	87.00	-0.3	107.48
+(L)		Where is My Hat?	543	94.50	-0.3	107.58
+(L)		Mr. Whisper	7069	268.33	0.0	106.87
+	Young Learners Classic Readers
+(B)		Dog of Flanders, A	522	1583.83	2.0	96.38
+(B)		Little Princess, The	2140	1225.67	1.2	98.51
+(X)		Beauty and the Beast	153	1280.67	2.5	89.75
+(B)		Bellerophon & Pegasus	219	340.00	0.8	99.53
+(B)		Cinderella	1804	790.67	2.9	88.63
+(B)		Daedalus and Icarus	2179	677.00	1.2	98.51
+(B)		Diamonds and Toads	4202	707.50	1.5	97.7
+(B)		Fairy Gifts	187	1069.00	2.0	96.48
+(B)		Gulliver's Travels	10740	948.67	2.6	94.86
+(B)		Hans Brinker	296	801.50	1.5	97.6
+(X)		Hansel and Gretel	364	303.33	0.9	99.33
+(B)		Heidi	8324	867.17	1.5	97.8
+(B)		How Bear Lost His Tail	234	360.00	-0.5	107.99
+(B)		How Red Bird Got His Color	192	284.00	-0.6	108.29
+(B)		Ivan the Fool	4076	1284.50	1.6	97.4
+(B)		Ivanhoe	225	2425.00	2.9	88.63
+(X)		Jack and Magic Beans	869	534.67	-0.3	107.38
+(B)		Journey to the West	246	1579.33	1.7	97.09
+(B)		King Arthur and the Black Knight	136	1602.33	1.7	97.09
+(B)		Little Lord Fauntleroy	10903	1673.50	1.8	96.79
+(B)		Noah's Ark	2016	253.50	0.8	99.43
+(B)		Ole-Luk-Oie:Dream God	6812	795.00	1.0	99.02
+(B)		Pinocchio	301	1628.50	1.5	97.7
+(B)		Pollyanna	223	2342.50	1.8	96.89
+(B)		Puss in Boots	505	447.17	-0.3	107.58
+(X)		Sleeping Beauty	11878	469.50	1.0	99.02
+(B)		Barber of Seville, The	400	2346.17	2.9	88.53
+(B)		Battle of Red Cliff	354	2379.83	2.2	95.77
+(B)		Brave Tin Soldier, The	7434	288.67	0.9	99.12
+(B)		Count of Monte Cristo, The	4235	2839.50	1.9	96.59
+(B)		Elves & the Shoemaker, The	330	418.33	-0.2	107.28
+(B)		Enchanted Castle, The	5208	1111.83	1.2	98.41
+(B)		Fir Tree, The	8321	455.17	0.1	106.67
+(B)		Fish and the Ring, The	295	988.50	1.5	97.7
+(B)		Gift of the Magi, The	233	1361.33	1.5	97.6
+(B)		Hollow Needle, The	297	2304.50	2.1	96.18
+(B)		Hunchback of Notre Dame, The	154	2254.50	3.1	88.02
+(B)		Lady or the Tiger?, The	251	1066.83	1.5	97.8
+(B)		Last Leaf, The	381	2143.67	2.0	96.48
+(B)		Last Lesson, The	2249	1410.83	2.2	95.88
+(B)		Legend of Sleepy Hollow, The	2254	1459.33	3.3	87.62
+(B)		Life and Adventures of Santa Claus, The	157	1292.83	1.5	97.8
+(B)		Magic Flute, The	359	1639.00	1.3	98.21
+(B)		Magic Swan, The	293	706.33	1.3	98.31
+(B)		Nightingale and the Rose, The	860	548.83	0.2	106.47
+(B)		Nutcracker, The	223	490.67	-0.4	107.89
+(B)		Prince and the Pauper, The	1378	1133.33	0.2	106.57
+(B)		Sandman, The	229	2457.83	1.9	96.69
+(B)		Selfish Giant, The	272	294.00	0.7	99.73
+(B)		Son Who Came Home, The	217	357.00	-0.4	107.89
+(B)		Three Bears, The	1794	631.67	-0.3	107.38
+(B)		Three Goats, The	9389	219.67	-0.3	107.38
+(B)		Three Little Pigs, The	7883	284.17	-0.1	107.08
+(B)		Three Sillies, The	6533	646.67	1.4	98.01
+(B)		Town Mouse and the Country Mouse	162	282.33	-0.4	107.69
+(B)		Trojan Horse, The	4184	406.33	-0.3	107.58
+(B)		Woodman and the Ax, The	10182	384.17	1.1	98.72
+(B)		Two Frogs	529	239.00	0.9	99.23
+(B)		Two Years' Vacation	281	2362.50	2.3	95.57
+(B)		What Katy Did	356	1702.50	2.1	96.08
+e-Future
+	Classic Readers (e-Future)
+(X)		Christmas Carol, A	840	2115.17	1.8	96.99
+(X)		Jury of Her Peers, A	953	7429.83	3.5	92.53
+(X)		Kidnapped Santa Claus, A	12120	1478.17	3.5	87.11
+(X)		Little Princess, A	11619	2102.00	3.0	88.43
+(X)		Martian Odyssey, A	980	9208.00	5.0	83.25
+(X)		Service of Love, A	5188	1816.17	2.1	96.08
+(X)		Tale of Two Cities, A	922	5927.33	3.8	86.2
+(X)		Aladdin and the Magic Lamp	5254	1038.50	3.5	87.01
+(X)		Ali Baba and the Forty Thieves	1001	2007.33	3.0	93.85
+(X)		Alice in Wonderland	965	2039.83	2.4	95.27
+(X)		Occurrence at Owl Creek Ridge, An	11789	1902.33	2.5	95.17
+(X)		Uncomfortable Bed, An	17580	456.67	1.6	97.4
+(X)		Anne of Green Gables	113	12173.33	4.8	83.66
+(X)		Around the World in Eighty days	129	13032.67	4.7	84.07
+(X)		As You Like It	874	6703.17	4.1	85.49
+(X)		Bearskin, The	4915	222.67	0.7	105.25
+(X)		Bearskin	12397	1579.00	1.3	103.63
+(X)		Beauty and the Beast	3092	931.00	1.8	96.99
+(X)		Beowulf	929	3745.50	3.2	93.34
+(X)		Black Beauty	855	4846.00	3.6	92.22
+(X)		Buttercup	1929	712.33	1.8	96.79
+(X)		Chicken Little	17335	268.67	2.2	90.36
+(X)		Cinderella	5060	788.67	1.9	91.17
+(X)		Cupid, the Bad Boy	641	142.17	0.8	99.43
+(X)		Doctor Knowall	5319	295.83	-0.3	107.38
+(X)		East of the Sun and West of the Moon	5793	294.67	1.2	98.51
+(X)		Gilrays Flowerpot	2811	973.50	2.2	95.88
+(X)		God Sees the Truth, but Waits	11377	1907.33	2.2	95.98
+(X)		Goldilocks and the Three Bears	4675	503.83	1.1	98.72
+(X)		Great Expectations	220	12653.50	4.7	83.86
+(X)		Hans in Luck	7169	865.67	2.2	95.77
+(X)		Hansel and Gretel	11914	1588.17	2.3	95.67
+(X)		Heidi	1037	5918.00	4.1	85.49
+(X)		Hercules	10614	1634.33	2.5	95.17
+(X)		How the Camel Got His Hump	13074	466.50	0.4	105.86
+(X)		How the Rabbit Loses Her Tail	375	173.83	1.1	98.82
+(X)		How the Rhinoceros Got His Skin	12843	283.83	0.9	99.12
+(X)		How the Tiger Gets His Stripes	18354	225.17	-0.3	107.38
+(X)		How the Whale Got His Throat	4506	671.33	2.3	95.67
+(X)		Jack and His Master	4241	914.33	2.7	94.56
+(X)		Jack the Giant-Killer	11746	1428.33	3.1	93.44
+(X)		Jack	18521	184.67	-0.3	107.58
+(X)		Jane Eyre	106	10704.67	3.1	93.64
+(X)		King Frost	1853	334.83	0.9	99.33
+(X)		King of the Cats	27522	164.17	-0.3	107.38
+(X)		Little Red-Cape	18227	730.83	2.0	96.28
+(X)		Little Women	193	11490.83	4.9	83.46
+(X)		Macbeth	961	8872.83	2.4	95.47
+(X)		Markheim	947	5292.67	3.3	92.93
+(X)		Momotaro	13396	420.67	0.9	99.33
+(X)		Mowgli	962	9321.83	4.0	91.11
+(X)		Mr  Lismore and the Widow	797	6499.33	4.0	85.79
+(X)		Oliver Twist	168	9143.50	2.8	94.25
+(X)		One-Eye, Two-Eyes, Three-Eyes	4239	307.67	1.3	98.31
+(X)		Perseus	1032	1931.00	3.2	93.34
+(X)		Peter and the Wolf	6803	173.00	1.1	98.72
+(X)		Pride and Prejudice	787	7311.67	5.1	77.64
+(X)		Princess Bari	4921	489.83	1.1	98.82
+(X)		Puss in Boots	4148	720.00	1.6	97.5
+(X)		Pygmalion	979	3845.17	3.7	86.5
+(X)		Rapunzel	4367	255.00	2.4	95.27
+(X)		Rapunzel	2302	813.17	2.4	95.27
+(X)		Rikki-Tikki-Tavi	937	4362.33	3.2	93.24
+(X)		Rip Van Winkle	1008	1814.33	2.7	94.45
+(X)		Romeo and Juliet	917	5505.83	2.1	96.08
+(X)		Rumpelstiltskin	1621	294.33	0.7	105.15
+(X)		Sleeping Beauty	4695	942.50	1.7	97.2
+(X)		Snow White	20598	163.83	-0.1	107.08
+(X)		Snowdrop 40	879	1865.67	3.2	93.24
+(X)		Solange	936	4065.33	2.6	94.76
+(X)		Stone Soup	4754	252.67	0.6	105.45
+(X)		Swan Lake 	2141	250.17	-0.4	107.69
+(X)		Adventures of Robin Hood, The	901	6035.17	3.6	92.12
+(X)		Adventures of Sherlock Holmes, The	161	12407.50	4.3	84.98
+(X)		Ant and the Grasshopper, The	624	135.67	0.3	100.85
+(X)		Apparition of Mrs Veal, The	3461	1974.17	1.8	96.99
+(X)		Beginning of the Armadillos, The	2036	395.17	1.2	98.41
+(X)		Bird on Its Journey, The	933	3742.33	3.5	87.11
+(X)		Boy Who Cried Wolf, The /The Lion and the Mouse	5988	303.50	2.1	96.18
+(X)		Brave Tin Soldier, The	5748	738.00	1.8	96.79
+(X)		Canterville Ghost, The	922	8744.17	5.0	83.25
+(X)		Devil and Tom Walker, The	951	3534.17	3.1	93.44
+(X)		Diamond as Big as the Ritz, A	218	11537.50	5.1	82.85
+(X)		Diamond Necklace, The	10326	1969.00	1.8	96.89
+(X)		Donkey, The	1665	229.50	1.4	97.91
+(X)		Elephants Child, The	9864	1850.83	1.8	96.89
+(X)		Elixir of Life, The	964	3998.33	3.5	92.53
+(X)		Elves and the Shoemaker, The	18121	330.17	0.8	99.53
+(X)		Enchanted Bluff, The	11005	1587.33	3.0	93.85
+(X)		Fir Tree, The	4367	917.50	2.1	96.18
+(X)		Firebird, The	4217	210.83	0.9	99.23
+(X)		Fisherman and His Wife, The	14604	234.00	1.5	97.7
+(X)		Fisherman and the Genie, The	959	6865.00	4.2	85.39
+(X)		Four Dragons, The	6622	248.67	1.6	97.5
+(X)		Fox and the Cat, The	12193	120.00	-0.5	107.99
+(X)		Fox and the Crow, The	16216	146.00	-0.4	107.69
+(X)		Fox and the Grapes, The	12531	142.33	-0.7	108.5
+(X)		Fox and the Stork, The	9447	171.17	0.1	106.67
+(X)		Frog Prince, The	5922	195.83	-1.5	115.94
+(X)		Gift of the Magi, The	5940	919.67	2.2	95.98
+(X)		Gingerbread Man, The	4728	281.67	1.5	97.6
+(X)		Girl and the Pot of Milk, The	7842	144.00	0.2	106.57
+(X)		Girl in Red, The	15704	123.67	1.3	98.31
+(X)		Golden Goose, The	1987	455.67	0.7	105.15
+(X)		Green Monkey, The	10954	202.33	1.3	98.31
+(X)		Guilty Secret, The	9530	1992.67	2.0	96.38
+(X)		Happy Prince, The	2060	910.67	2.0	96.38
+(X)		Heart of a Monkey, The	4392	186.33	-0.5	107.99
+(X)		Isle of Voices, The	941	6262.67	4.3	90.39
+(X)		King and His Clothes, The	5485	297.00	0.2	106.47
+(X)		King with the Golden Touch, The	18221	158.17	0.9	99.12
+(X)		Lady, or the Tiger?, The	11949	1781.33	3.2	87.92
+(X)		Language of the Birds, The	16941	222.67	0.2	106.47
+(X)		Legend of Sleepy Hollow, The	964	8733.33	4.6	84.27
+(X)		Life and Adventures of Robinson Crusoe, The	953	6485.50	4.2	90.7
+(X)		Lion in Love, The	5554	129.83	1.1	98.82
+(X)		Little Match Girl, The	1920	472.67	1.5	97.6
+(X)		Little Mermaid, The	23222	273.33	2.1	96.18
+(X)		Little Prince, The	962	7132.50	2.7	94.45
+(X)		Little Red Hen, The	15033	192.17	1.5	97.7
+(X)		Magic Swan, The	5542	734.67	0.7	105.15
+(X)		Man and the Lion, The	7058	175.67	0.8	99.53
+(X)		Man, the Boy, and the Donkey, The / Androcles and the Lion	4655	439.50	1.3	98.11
+(X)		Merchant of Venice, The	204	10225.67	2.4	95.47
+(X)		Mice and the Cat, The	973	174.00	-0.5	108.09
+(X)		Monkey's Paw, The	999	3596.67	3.0	93.74
+(X)		Murders in Rue Morgue	945	9088.83	4.4	84.68
+(X)		Nightingale and the Rose, The	12346	1539.67	3.3	92.93
+(X)		Nutcracker, The	901	1951.83	2.0	96.48
+(X)		Oblong Box, The	959	3647.33	3.9	85.99
+(X)		Old Beggar Woman, The	2012	261.83	1.5	97.7
+(X)		Open Boat, The	980	7252.83	4.6	84.17
+(X)		Origin of Fire, The	1773	231.00	-0.2	107.18
+(X)		Oval Portrait, The	5925	717.83	2.1	96.18
+(X)		Phantom of the Opera, The	946	6108.33	3.5	87.11
+(X)		Prince and the Dragon, The	12123	1553.17	3.3	93.03
+(X)		Prince and the Pauper, The	961	5679.83	2.4	95.37
+(X)		Princess and the Pea, The	7644	123.83	0.9	99.12
+(X)		Purloined Letter, The	997	4539.17	4.4	84.88
+(X)		Rabbit and His Ears, The	7040	158.83	0.9	99.12
+(X)		Rabbits and the Frogs, The	5186	243.67	0.6	100.04
+(X)		Railway Children, The	193	9521.67	4.4	84.68
+(X)		Ransom of Red Chief, The	953	3374.00	3.2	93.24
+(X)		Rat Catcher, The	1023	205.33	0.8	99.63
+(X)		Red Shoes, The	2685	130.17	-0.4	107.69
+(X)		Sandman, The	955	1819.83	2.7	94.45
+(X)		Selfish Giant, The	11794	1184.67	2.9	93.95
+(X)		Six Sillies, The	1866	434.83	1.7	97.3
+(X)		Sleeping Spell, The	1009	193.83	2.1	96.18
+(X)		Son Who Doesnt Listen, The	3496	189.67	1.0	99.02
+(X)		Spring of Youth, The	12663	107.00	-0.3	107.58
+(X)		Star Child, The	836	1899.67	2.3	95.67
+(X)		Story of Doctor Dolittle, The	898	1954.17	3.1	88.02
+(X)		Strange Case of Dr  Jekyll and Mr Hyde, The	112	9380.00	4.5	84.47
+(X)		Sun, the Wind, and the Moon, The	4188	311.83	1.3	98.31
+(X)		Sword in the Stone, The	4349	250.17	1.4	98.01
+(X)		Tale of Johnny Town-Mouse, The	1639	307.33	2.1	90.87
+(X)		Three Billy Goats Gruff, The	2182	339.67	1.4	98.01
+(X)		Three Dogs, The	2078	281.17	-0.1	107.08
+(X)		Time Machine, The	1020	3661.67	2.7	94.45
+(X)		Tortoise and the Rabbit, The	14418	261.17	2.3	90.16
+(X)		Two Pots, The	20950	123.83	-0.7	108.5
+(X)		Ugly Duckling, The	18269	183.33	1.1	98.82
+(X)		Wedding of Mrs Fox, The	6068	321.83	1.5	97.8
+(X)		White Snake, The	24149	183.67	1.5	97.6
+(X)		Wise Little Girl, The	5326	192.33	0.6	105.35
+(X)		Wolf and the Fox, The	4479	223.33	-0.3	107.58
+(X)		Wolf and the Seven Children, The	5212	169.17	0.1	106.77
+(X)		Wizard of Oz, The	992	2026.83	2.3	95.67
+(X)		Thumbelina	916	1514.33	2.2	95.77
+(X)		Tom Thumb	2015	460.17	0.7	105.15
+(X)		Treasure Island	137	10493.33	3.6	92.12
+(X)		White Fang	996	3424.83	2.5	95.06
+(X)		Why the Bear Has a Short Tail / The Fox as a Shepherd	4820	333.17	0.2	106.47
+(X)		Why the Dog Hates the Cat	3735	749.83	2.0	96.28
+(X)		Why the Sea Has Salt	5005	188.00	-0.3	107.58
+(X)		William Tell Told Again	146	11846.00	5.2	82.75
+(X)		Wuthering Heights	241	9378.50	2.9	93.95
+(X)		You Cant Make Everybody Happy	5952	179.33	1.3	98.31
+(X)		Young Chubb and the Musical Box	6206	682.83	1.8	96.89
+ELI
+	Teen ELI Readers
+(X)		A Christmas Carol	0	9709.67	3.2	93.24
+(X)		Connecticut Yankee in King Arthur's Court, A	8554	4395.67	3.3	87.52
+(X)		Faraway World, A	15235	2411.33	2.5	95.06
+(X)		Adventure at Haydon Point	10760	4641.17	2.5	95.17
+(X)		Anne of Green Gables	9859	5780.50	1.3	98.11
+(X)		Black Beauty	7994	8833.83	1.5	97.7
+(X)		David Copperfield	4122	6859.83	4.2	85.18
+(X)		Destination: Karminia	3948	3659.83	3.9	86.1
+(X)		Egghead	7607	5985.00	1.7	97.3
+(X)		Expedition Brazil	6069	8342.00	5.0	83.25
+(X)		Little Lord Fauntleroy	14249	6267.17	2.6	94.76
+(X)		Little Women	10516	6628.33	2.9	93.95
+(X)		Oliver Twist	8361	5792.00	3.2	93.34
+(X)		Pollyanna	1676	10243.33	2.3	95.57
+(X)		Boat Race Mystery, The	11077	4734.00	1.8	96.79
+(X)		Boy with the Red Balloon, The	1367	5879.00	1.5	97.7
+(X)		Call of the Wild, The	6207	6604.17	3.0	93.85
+(X)		Canterbury Tales, The	7528	5918.00	1.2	98.51
+(X)		Egyptian Souvenir, The	12337	2288.50	3.9	86.1
+(X)		Railway Children, The	10615	5680.17	1.1	98.62
+(X)		Secret Garden, The	8173	8040.00	2.1	96.08
+(X)		Tempest, The	7109	3803.00	3.0	88.33
+(X)		Treasure Island	4702	6034.67	2.2	95.77
+(X)		Val's Diary	9333	2890.33	3.6	86.81
+	Young Adult ELI Readers
+(X)		Midsummer Night's Dream, A	4960	4697.33	2.3	90.16
+(X)		Study in Scarlet, A	5985	6046.67	2.5	94.96
+(X)		Tale of Two Cities, A	5106	15651.00	4.9	83.46
+(X)		Botchan	6378	8072.33	1.5	97.6
+(X)		Dracula	21778	12338.50	1.5	97.8
+(X)		Dubliners	4830	16646.17	5.2	82.65
+(X)		Frankenstein	4316	16498.17	4.3	90.29
+(X)		Great Expectations	5311	15747.67	1.9	96.59
+(X)		Gulliver's Travels	14386	9404.67	2.9	88.63
+(X)		Hamlet, Prince of Denmark	6490	6236.83	3.1	88.13
+(X)		Jane Eyre	5076	16090.00	4.2	90.7
+(X)		Macbeth	4661	12224.50	3.1	88.13
+(X)		Moby Dick	5640	15418.83	5.4	82.24
+(X)		Mrs Dalloway	4593	20089.17	4.9	83.56
+(X)		Pride and Prejudice	7467	14690.17	4.8	78.25
+(X)		Robinson Crusoe	6606	9970.00	2.2	95.77
+(X)		Romeo and Juliet	5359	6779.17	2.8	89.04
+(X)		Sense and Sensibility	11951	14056.33	4.1	85.49
+(X)		Stories of Mystery and Suspense	6305	16146.33	4.1	85.59
+(X)		Tales from Shakespeare	4098	24133.17	3.6	86.81
+(X)		Age of Innocence, The	7595	15751.67	4.4	84.88
+(X)		Great Gatsby, The	3953	18011.67	4.4	84.88
+(X)		Hound of the Baskervilles, The	7104	10785.17	1.5	97.8
+(X)		Importance of Being Earnest, The	4977	19154.83	4.9	77.94
+(X)		Mill on the Floss, The	4652	15506.83	1.9	96.59
+(X)		Narrative of Arthur Gordon Pym of Nantucket, The	8074	4050.67	0.9	99.12
+(X)		Picture of Dorian Gray, The	5751	12901.33	2.8	89.04
+(X)		Strange Case of Dr. Jekyll and Mr. Hyde, The	23100	9152.33	2.2	95.88
+(X)		Turn of the Screw, The	3728	15689.67	4.0	85.89
+(X)		Woman in White, The	5508	14493.67	4.3	84.98
+(X)		Three Men in a Boat	6372	12474.67	2.1	96.08
+(X)		Wuthering Heights	3277	20644.83	4.3	90.29
+	Young ELI Readers
+(X)		Aladdin and the Magic Lamp	29283	429.33	2.8	88.94
+(X)		Alice in Wonderland	16234	713.33	2.4	90.05
+(X)		Granny Fixit and the Ball	3178	376.00	1.0	99.02
+(X)		Granny Fixit and the Pirate	10326	391.00	2.9	88.63
+(X)		Granny Fixit and the Yellow String	8019	417.00	1.4	97.91
+(X)		Harry and an Electrical Problem	6399	1048.50	3.2	87.82
+(X)		Harry and the Crown	3019	973.83	3.0	88.43
+(X)		Harry and the Sports Competition	9494	995.67	3.5	87.21
+(X)		Hooray for the Holidays	7036	358.67	1.2	98.51
+(X)		PB3 and Coco the Clown	12966	567.33	2.9	88.53
+(X)		PB3 and the Jacket	9147	504.33	1.6	97.5
+(X)		PB3 and the Vegetables	8446	513.33	1.4	97.91
+(X)		Sophie's Dream	6240	341.67	2.7	89.14
+(X)		Uncle Jack and the Bakonzi Tree	6494	854.00	1.7	97.09
+(X)		Uncle Jack and the Emperor Penguins	12474	897.50	2.9	88.63
+(X)		Uncle Jack and the Meerkats	5865	897.17	1.8	96.99
+Foxton
+	Foxton Readers
+(X)		Little Princess, A	9591	4313.00	0.7	99.73
+(X)		Alice in Wonderland	6340	4567.50	1.5	97.7
+(X)		Anne of Green Gables	2942	3872.00	1.0	98.92
+(X)		Around the World in Eighty Days	12479	4642.00	2.7	89.14
+(X)		Beauty and the Beast	12679	5069.33	1.0	99.02
+(X)		By the Lake	5991	1621.83	0.8	99.43
+(X)		Call of the Wild	9434	5029.00	2.0	96.48
+(X)		David Copperfield	2412	14261.83	2.7	94.56
+(X)		Dracula	3301	4650.67	1.1	98.72
+(X)		Emily and the Rabbit	14444	1387.00	1.2	98.51
+(X)		Frankenstein	1662	4783.67	1.0	98.92
+(X)		Great Expectations	29008	14799.17	3.6	92.22
+(X)		Gulliver's Travels	3410	3412.83	1.5	97.7
+(X)		Heidi	2960	5284.50	2.4	89.95
+(X)		Huckleberry Finn	3521	3741.67	0.1	106.67
+(X)		Jane Eyre	10128	10458.67	0.5	105.66
+(X)		Journey to the Centre of the Earth	8562	4617.00	1.5	97.8
+(X)		Just in Time	3456	1555.83	0.9	99.33
+(X)		Kidnapped	16713	18956.33	4.1	91.0
+(X)		Kit's New Phone	3243	1617.33	0.0	106.87
+(X)		Moby Dick	9548	3639.67	1.0	98.92
+(X)		More than a Game	11968	1487.33	1.2	98.51
+(X)		Oliver Twist	1396	4471.00	1.1	98.82
+(X)		Pocahontas	9146	3885.83	4.0	85.69
+(X)		Race to Paris	6211	1373.00	1.1	98.72
+(X)		Robinson Crusoe	12570	3846.83	1.5	97.8
+(X)		Sleepy Hollow	14613	3711.17	2.3	90.26
+(X)		Thanks for the Memories	6401	1704.67	-0.6	108.29
+(X)		Adventure of the Speckled Band, The	6072	3726.33	1.3	98.31
+(X)		Boy and the Wizard, The	12544	1373.17	1.1	98.72
+(X)		Boy Who Planted a Forest, The	5906	1779.00	1.2	98.51
+(X)		Chef, The	3509	1777.67	0.7	99.83
+(X)		Count of Monte Cristo, The	11133	12819.33	4.4	84.78
+(X)		Jungle Book, The	12529	5223.17	1.1	98.62
+(X)		Little Prince, The	9677	4091.17	0.8	99.63
+(X)		Lost Dog, The	9629	1663.83	0.8	99.53
+(X)		Lost World, The	8533	4015.50	0.9	99.23
+(X)		Merchant of Venice, The	10216	11265.83	2.2	95.88
+(X)		Pirate Captain, The	16470	1615.00	0.9	99.23
+(X)		Prisoner of Zenda, The	3296	3924.83	1.3	98.11
+(X)		Railway Children, The	6413	11568.00	2.1	96.08
+(X)		Secret Garden, The	6210	4196.67	0.7	99.83
+(X)		Temple of Adventure, The	6595	1607.50	0.8	99.63
+(X)		Thief, The	9190	1685.17	0.8	99.63
+(X)		Thirty-Nine Steps, The	7313	14294.17	3.2	93.34
+(X)		Three Musketeers, The	1649	5177.83	3.0	88.33
+(X)		Toy Maker, The	14878	1598.50	0.3	106.26
+(X)		Wizard of Oz, The	8091	4314.33	1.2	98.41
+(X)		Treasure Island	6426	3728.00	1.3	98.11
+(X)		Twenty Thousand Leagues under the Sea	22580	15258.67	4.1	90.9
+Garnet
+	Oracle Readers
+(X)		A Tidy Ghost	0	4856.33	2.8	89.04
+(X)		African Adventure	0	5100.00	1.3	98.11
+(X)		Casualty!	0	3604.33	1.1	98.62
+(X)		Life Lines	0	3334.50	2.9	88.74
+(X)		Milo	0	4984.83	2.4	95.47
+(X)		Space Romance	0	4672.67	3.2	87.92
+(X)		Strawberry and The Sensations	0	2690.83	2.8	89.04
+(X)		Sunnyvista City	0	3842.50	2.5	89.75
+(X)		The Case of the Dead Batsman	0	5256.67	3.1	88.13
+(X)		The Collector	0	2387.33	2.4	89.95
+(X)		The Hitchhiker	0	5929.67	2.2	95.88
+(X)		The Locked Room	0	1654.17	0.8	99.53
+(X)		The Visit	0	3659.00	1.3	98.11
+(X)		The Watchers	0	1920.00	1.0	98.92
+(X)		Underground	0	4148.50	1.3	98.11
+(X)		Zoo Diary	0	2849.00	1.1	98.72
+Grass Roots
+	Biographies
+(X)		Althea Gibson	0	809.67	1.2	98.51
+(X)		Amelia Earhart	0	824.00	1.4	97.91
+(X)		Big Bear	0	899.50	1.5	97.8
+(X)		Bruce Lee	0	877.17	1.5	97.7
+(X)		Cesar Chavez	0	861.67	2.5	89.75
+(X)		Charles Lindbergh	0	732.00	1.6	97.4
+(X)		Clara Hughes	0	873.67	1.2	98.51
+(X)		Dalai Lama	0	916.17	2.8	89.04
+(X)		David Suzuki	0	810.00	1.1	98.62
+(X)		Edmund Hillary & Tenzing	0	859.17	1.6	97.4
+(X)		Eleanor Roosevelt	0	956.50	1.2	98.41
+(X)		Elizabeth Fry	0	926.33	2.6	89.45
+(X)		Emily Carr	0	850.67	2.3	90.16
+(X)		Fannie Lou Hamer	0	913.17	2.6	89.55
+(X)		First Women in Space	0	850.67	2.4	89.95
+(X)		Harriet Tubman	0	798.33	2.9	88.74
+(X)		Helen Keller	0	826.33	2.6	89.34
+(X)		Jane Goodall	0	760.00	1.1	98.62
+(X)		Jean Vanier	0	959.67	2.3	90.16
+(X)		Jimi Hendrix	0	878.67	2.5	89.75
+(X)		June Callwood	0	883.17	1.2	98.41
+(X)		Laura Secord	0	827.83	1.1	98.72
+(X)		Louis Riel	0	768.00	1.2	98.41
+(X)		Lucy Maud Montomgery	0	871.83	2.3	90.26
+(X)		Mahatma Gandhi	0	967.33	2.4	89.85
+(X)		Malala Yousafzai	0	855.50	1.3	98.21
+(X)		Maria Tallchief	0	870.00	1.0	98.92
+(X)		Marilyn Monroe	0	891.83	3.6	81.49
+(X)		Martin Luther King Jr.	0	893.67	1.4	98.01
+(X)		Matthew Henson & Robert Peary	0	829.67	1.4	98.01
+(X)		Michae_lle Jean	0	888.67	2.3	90.16
+(X)		Mother Teresa	0	832.50	1.6	97.4
+(X)		Muhammad Ali	0	763.33	1.3	98.11
+(X)		Nancy Greene	0	777.17	1.4	98.01
+(X)		Nelson Mandela	0	889.50	2.4	89.95
+(X)		Norman Bethune	0	865.33	2.4	89.95
+(X)		Oskar Schindler	0	848.33	1.3	98.31
+(X)		Poundmaker	0	898.67	2.6	89.45
+(X)		Rick Hansen	0	845.83	1.5	97.8
+(X)		Rosa Parks	0	734.67	2.5	89.65
+(X)		Terry Fox	0	886.83	2.3	90.26
+(X)		The Famous Five	0	712.33	2.7	89.14
+(X)		Tom Longboat	0	795.00	1.3	98.21
+(X)		Tommy Prince	0	873.33	2.6	89.34
+(X)		Walt Disney	0	881.17	2.4	89.95
+(X)		Wangari Maathai	0	910.00	2.5	89.65
+(X)		Wayne Gretzky	0	855.50	1.7	97.09
+(X)		Will Rogers	0	836.67	1.4	98.01
+	Good Reads
+(X)		All Night	0	10094.67	1.5	97.7
+(X)		Bed and Breakfast	0	8645.83	2.0	96.38
+(X)		Coyote's Song	0	8196.83	1.9	96.59
+(X)		Home Invasion	0	9401.33	2.1	96.08
+(X)		In from the Cold	0	9675.67	2.5	95.17
+(X)		Listen!	0	8431.33	2.3	95.67
+(X)		Love You to Death	0	9967.00	2.0	96.48
+(X)		Missing	0	9098.67	3.2	93.34
+(X)		New Year's Eve	0	9792.83	1.9	96.59
+(X)		Picture This	0	10430.17	2.2	95.98
+(X)		Shipwreck	0	10315.67	2.3	95.67
+(X)		The Break-In	0	10200.50	2.0	96.38
+(X)		The Clear-Out	0	10398.17	2.1	96.08
+(X)		The Day the Rebels Came to Town	0	10166.50	2.4	95.47
+(X)		The Picture of Nobody	0	10571.17	4.2	85.28
+(X)		The Stalker	0	9882.33	2.2	95.77
+(X)		Tribb's Troubles	0	4591.00	2.4	95.27
+	Photostories
+(X)		A Bad Car Day	0	134.50	-0.5	108.09
+(X)		A Good Nights Sleep	0	163.00	-0.5	108.09
+(X)		Animal Shelter	0	92.50	-0.8	108.8
+(X)		Bald Eagles	0	212.50	0.9	99.12
+(X)		Bears	0	127.50	-0.4	107.89
+(X)		Cake Date	0	87.00	-1.7	116.45
+(X)		Daycare Centre	0	108.67	-0.8	108.9
+(X)		Fad Diets	0	179.33	0.6	99.94
+(X)		Frans Story	0	158.00	-1.9	116.96
+(X)		Gardening	0	90.17	-0.8	108.8
+(X)		Grey Seals	0	159.67	-0.3	107.38
+(X)		Grey Wolves	0	172.17	-0.6	108.19
+(X)		How to Be Good to Yourself	0	111.50	-0.6	108.4
+(X)		How to Build Community	0	123.00	1.9	91.37
+(X)		How to Check an Apartment	0	135.00	0.4	100.54
+(X)		How to Clean Green	0	129.83	-0.9	109.0
+(X)		How to find a Good Used Car	0	136.83	-0.3	107.58
+(X)		How to Live Green	0	179.17	-0.6	108.19
+(X)		How to Save Time	0	119.67	-0.8	108.7
+(X)		How to Stop Hiccups	0	172.33	0.7	99.73
+(X)		Inside Out	0	75.83	-0.7	108.6
+(X)		Just Good Friends	0	165.83	-0.6	108.19
+(X)		Late Again!	0	103.33	-0.6	108.4
+(X)		Love of My Life	0	68.67	-1.1	109.72
+(X)		Mandys Garage Sale	0	147.33	-0.5	107.99
+(X)		Potluck	0	89.33	-1.8	116.86
+(X)		Saying No	0	124.67	0.8	99.63
+(X)		Senior Centre	0	101.00	-0.8	108.7
+(X)		Soup Kitchen	0	91.83	0.5	100.34
+(X)		Stress	0	118.17	-0.9	109.11
+(X)		The Big Goof	0	123.17	-1.9	117.16
+(X)		The Big Question	0	122.67	0.2	106.47
+(X)		The Big Snore	0	86.17	-0.6	108.29
+(X)		The Big Surprise	0	111.83	-0.8	108.8
+(X)		The Change	0	96.67	-0.8	108.7
+(X)		The Coffee Lover	0	78.17	1.8	91.48
+(X)		The E-mail	0	86.50	-0.7	108.5
+(X)		The Hike	0	96.50	-1.7	116.65
+(X)		The Map	0	66.67	-2.1	117.46
+(X)		The Mix-up	0	82.17	0.4	100.44
+(X)		The New Shoes	0	90.17	-0.7	108.5
+(X)		The Perfect Man	0	85.33	0.5	100.24
+(X)		The Phone Call	0	60.50	-0.9	109.11
+(X)		The Test	0	88.50	-0.8	108.9
+(X)		Thrift Store	0	85.83	0.4	100.65
+(X)		Tonys Deal	0	158.33	-0.3	107.58
+HALICO
+	Pocket Readers
+(X)		Campfire Ghost Stories	9760	3922.50	1.2	98.51
+(X)		Consiracy Theories	8014	7162.50	3.6	86.91
+(X)		Culture Shock Japan	20592	6561.50	4.0	85.79
+(X)		Homestay in Australia	19241	6076.50	2.2	95.77
+(X)		Homestay in the UK	7016	7331.67	1.8	96.99
+(X)		Homestay in the USA	16930	6758.17	1.7	97.09
+(X)		Ice Station at the End of the World	426	6848.00	1.5	97.7
+(X)		Japanese Communities Around the World	13791	7005.17	5.1	77.53
+(X)		Kuchisake Onna Story 1	16190	3410.00	1.0	99.02
+(X)		Kuchisake Onna Story 2	0	4551.67	1.3	98.11
+(X)		Language Learning Tips - Listening	2207	2840.83	4.4	79.46
+(X)		Language Learning Tips - Pronunciation	27081	2870.83	4.2	79.97
+(X)		Language Learning Tips - Speaking	7991	2855.17	4.2	79.87
+(X)		Language Learning Tips - Test Preparation	10288	2783.00	3.3	87.62
+(X)		Language Learning Tips - Vocabulary	27455	2685.33	3.7	86.71
+(X)		This is Facebook	9313	8493.33	5.4	82.24
+	Pocket Readers - 10 Ways
+(X)		10 Ways to Achieve Work-Life Balance	15718	1915.33	2.0	96.38
+(X)		10 Ways to be Assertive	550	2282.83	3.6	86.91
+(X)		10 Ways to Be Creative	8208	2361.17	3.6	86.91
+(X)		10 Ways to be Environmentally 1friendly	18458	2252.33	3.0	88.43
+(X)		10 Ways to be Healthy	27371	2268.17	1.7	97.2
+(X)		10 Ways to Be Polite	2937	2345.50	3.2	87.82
+(X)		10 Ways to be Smart Online	7294	2328.17	3.6	86.81
+(X)		10 Ways to be Successful in Love	10222	2173.83	3.7	86.5
+(X)		10 Ways to Choose your Career	9148	2413.17	3.7	86.71
+(X)		10 Ways to Collaborate	514	2601.83	4.2	79.77
+(X)		10 Ways to Communicate	17218	2445.33	3.1	88.02
+(X)		10 Ways to Control your Emotions	2130	2181.33	3.5	87.01
+(X)		10 Ways to Cook	11057	2241.00	3.2	87.82
+(X)		10 Ways to Influence People	13032	2169.50	3.5	87.01
+(X)		10 Ways to Learn English	2104	2392.83	3.1	88.23
+(X)		10 Ways to Live Cheaply	7241	2332.50	2.0	96.38
+(X)		10 Ways to Make Friends	23069	2378.00	3.0	88.43
+(X)		10 ways to Manage Money	11474	2034.33	3.2	87.92
+(X)		10 Ways to Manage Stress	22655	2465.33	1.8	96.79
+(X)		10 Ways to Negotiate	15472	2393.33	3.5	87.01
+(X)		10 Ways to Organize a Trip	15706	2443.33	4.0	85.79
+(X)		10 Ways to be Productive	12802	2225.83	3.5	87.21
+(X)		10 Ways to Solve Problems	10163	2398.33	3.3	87.62
+(X)		10 Ways to Speak in Public	32478	2509.33	4.4	79.26
+(X)		10 Ways to Stay Safe	2808	2239.50	3.2	87.92
+(X)		10 Ways to Succeed in an Interview	17390	2514.17	4.1	80.07
+(X)		10 Ways to Think Critically	16636	2418.00	3.0	88.33
+(X)		10 Ways to Understand the News	11199	2293.17	5.0	77.84
+(X)		10 Ways to Work in a Team	21090	2363.83	3.9	86.1
+(X)		10 Ways to Write Well	13429	2531.50	3.7	86.6
+	Pocket Readers - Business
+(X)		Entertaining Overseas Visitors	10614	4254.33	3.2	87.82
+(X)		First Business Trip Overseas	661	4054.83	3.2	87.92
+(X)		Email, The	711	4356.67	3.7	86.71
+(X)		First Week on the Job, The	10990	3812.00	1.5	97.8
+(X)		Job Interview, The	10108	3613.33	3.2	87.82
+(X)		Meeting, The	8845	3543.00	2.9	88.63
+(X)		Mentor, The	7464	4544.83	2.9	88.63
+(X)		Office Conflict, The	7817	3973.17	1.6	97.5
+(X)		Presentation, The	16112	3738.83	4.4	79.36
+(X)		Product Launch, The	9498	4053.67	3.6	86.91
+Helbling
+	Helbling Classics - Blue
+(X)		Daisy Miller	93239	11192.17	4.6	84.17
+(X)		Emma	8012	8733.33	3.4	87.31
+(X)		Heart of Darkness	22323	7986.67	4.9	83.46
+(X)		Tales of Mystery	48784	7420.50	7.1	77.67
+(X)		Call of the Wild, The	10222	12579.83	4.0	91.11
+(X)		Canterville Ghost, The	27297	7712.00	8.3	74.53
+(X)		Garden Party and Sixpence, The	21894	6575.17	3.6	86.91
+(X)		Great Gatsby, The	0	10291.17	2.2	95.88
+(X)		Strange Case of Dr Jekyll and Mr Hyde, The	22352	13192.00	5.2	82.75
+(X)		Wuthering Heights	27130	12251.00	2.2	95.98
+	Helbling Classics - Red
+(X)		Christmas Carol, A	18524	6656.67	1.7	97.2
+(X)		Alice's Adventures in Wonderland	6401	6664.00	1.8	96.89
+(X)		Black Beauty	13324	5678.33	2.7	94.45
+(X)		Gullivers Travels	2581	6406.17	4.6	84.17
+(X)		Little Women	12689	8775.00	2.1	96.18
+(X)		Oliver Twist	9500	6895.17	2.2	95.98
+(X)		Peter Pan	12123	6452.17	1.8	96.79
+(X)		Fisherman and his Soul, The	13441	5860.17	1.5	97.8
+	Helbling Fiction - Blue
+(X)		Danger in the Sun	335	8565.00	2.7	94.56
+(X)		Jam	2413	5840.00	2.6	94.86
+(X)		Mystery at the Mill	609	8468.17	2.1	96.08
+(X)		Operation Osprey	3151	9370.67	3.4	92.73
+(X)		Red Water	3286	9315.83	3.8	86.4
+(X)		Albatross, The	321	9438.33	3.6	86.91
+(X)		Boy Who Could Fly, The	563	9580.83	2.7	94.56
+(X)		Coconut Seller, The	2268	6608.00	4.4	84.68
+(X)		Green Room, The	993	9344.17	2.2	95.88
+	Helbling Fiction - Red
+(X)		New Home for Socks, A	105427	5190.33	1.5	97.8
+(X)		Dan and The Missing Dogs	10957	5222.83	2.0	96.38
+(X)		Dan and the Village Fte	48827	5316.83	1.4	98.01
+(X)		Mr Football	613	6238.17	1.9	96.69
+(X)		Princess on the Run	118769	7439.67	1.5	97.6
+(X)		Stubs Grows Up	1405	7702.00	2.1	96.18
+(X)		Anti-bully Squad, The	10967	4868.50	3.3	87.72
+(X)		Time Capsule, The	118928	7341.17	1.9	96.59
+(X)		Twins	618	8365.17	1.9	96.59
+	Helbling Fiction Short Reads - Red
+(X)		Fireball's Heart	536	1514.67	1.7	97.3
+(X)		African Mask, The	355	1413.17	2.9	94.15
+(X)		Clever Woman, The	842	1134.83	2.2	95.98
+(X)		Surprise, The	287	1623.17	1.7	97.09
+	Rudyard Kipling
+(X)		Mowglis Brothers	9691	5880.33	3.1	93.44
+I Talk-You Talk Press
+	English Graded Readers
+(X)		Business Trip to New York, A	6236	5117.17	2.8	88.94
+(X)		Dangerous Weekend, A	862	9369.33	1.7	97.3
+(X)		Holiday to Remember, A	1530	6820.17	1.9	96.69
+(X)		Homestay in Auckland, A	5571	6980.17	1.4	97.91
+(X)		Passion for Music, A	1117	5996.17	1.4	97.91
+(X)		Trip to London, A	936	4065.83	1.4	97.91
+(X)		Adventure in Rome	1161	5268.83	1.5	97.8
+(X)		Adventure on the Mountain	9558	3462.17	1.3	98.21
+(X)		Akiko and Amy Part 1	1259	3350.33	1.5	97.7
+(X)		Akiko and Amy Part 2	1667	5194.00	1.7	97.2
+(X)		Akiko and Amy Part 3	1470	9100.17	1.7	97.2
+(X)		Andre's Dream	815	6536.17	1.5	97.6
+(X)		Be My Valentine	687	7953.00	1.7	97.2
+(X)		Birthdays to Remember	984	5502.50	2.0	96.48
+(X)		Chi-obaa and Friends	623	6911.00	1.8	96.99
+(X)		Chi-obaa and Her Town	1262	12376.67	1.8	96.89
+(X)		Christmas Tales	817	6141.33	2.5	89.65
+(X)		Danger in Seattle	1200	5670.50	1.5	97.7
+(X)		Dear Ellen	9553	5059.33	1.2	98.41
+(X)		Different Seas	908	18963.50	1.7	97.3
+(X)		Don't Come Back	948	4494.17	1.3	98.21
+(X)		Dressed for Success	619	5662.33	2.7	89.14
+(X)		Elspeth and the Visitor	1231	4173.83	1.4	97.91
+(X)		Emily's Bag	5121	4511.33	1.3	98.21
+(X)		End House	1037	19632.33	1.8	96.89
+(X)		Enjoy Your Business Trip	1020	5471.00	3.5	87.21
+(X)		Enjoy Your Homestay	833	6455.50	3.4	87.31
+(X)		Everyday Heroes	5330	2918.50	1.3	98.31
+(X)		Finders Keepers...	1188	4242.67	1.7	97.3
+(X)		Haruna's Story Part 1	5175	4252.50	2.8	88.94
+(X)		Haruna's Story Part 2	4744	5156.83	1.4	98.01
+(X)		Haruna's Story Part 3	4536	4594.67	1.5	97.7
+(X)		Hunted in Hong Kong	1141	6236.67	1.4	97.91
+(X)		I Need a Friend	1562	10237.33	1.9	96.69
+(X)		I'm Late! 	1137	4803.00	3.0	88.43
+(X)		Jimmy Luther	4880	4124.83	1.3	98.11
+(X)		John Sees a Murder	1044	3540.83	1.7	97.3
+(X)		Ken's Story Part 1	4701	4016.00	1.2	98.51
+(X)		Ken's Story Part 2	5662	4754.67	2.6	89.45
+(X)		Killer	636	16899.00	2.0	96.28
+(X)		Life is Surprising!	5311	5295.50	1.5	97.7
+(X)		Lincoln Takes a Trip	1620	4317.33	1.7	97.3
+(X)		Marcy's Bakery	1251	3566.17	2.7	89.14
+(X)		Match Day	1467	3280.33	2.5	95.06
+(X)		Men's Konkatsu Tales	934	2752.00	2.9	88.74
+(X)		Message in a Bottle	636	3255.00	1.4	98.01
+(X)		Murder in Marrakech	1565	3926.50	1.5	97.6
+(X)		Murder on Whale Island	1720	6260.17	1.7	97.3
+(X)		Old Jack's Ghost Stories from England (1)	1409	3912.83	3.8	86.4
+(X)		Old Jack's Ghost Stories from England (2)	777	3674.17	2.0	96.38
+(X)		Old Jack's Ghost Stories from Ireland	971	4355.00	3.1	88.02
+(X)		Old Jack's Ghost Stories from Japan	1617	5670.67	2.0	96.38
+(X)		Old Jack's Ghost Stories from Scotland	792	4480.67	2.0	96.48
+(X)		Old Jack's Ghost Stories from Wales	574	4678.83	2.0	96.38
+(X)		On the Run	845	25328.00	2.2	95.88
+(X)		Party Time!	733	9833.17	1.7	97.2
+(X)		Pretty and Bright	818	13004.17	1.6	97.5
+(X)		Ryokan Life	1262	4106.17	1.3	98.11
+(X)		Salaryman Secrets!	1512	2684.00	3.1	88.13
+(X)		Saori and the Storm	839	4364.33	1.5	97.7
+(X)		Stories for Christmas	878	8965.50	1.7	97.2
+(X)		Stories for Halloween	1228	6859.67	1.6	97.4
+(X)		Strange Stories	669	6802.67	1.5	97.7
+(X)		Summer Days	1329	5944.00	1.6	97.4
+(X)		Blue Lace Curtain, The	1494	13607.50	2.0	96.48
+(X)		Box, The	1529	14462.00	1.7	97.3
+(X)		Christmas Present, The	6777	3631.33	1.5	97.7
+(X)		Cruise Ship, The	1092	4391.33	1.6	97.5
+(X)		Curse, The	862	6330.83	1.8	96.99
+(X)		Diary, The	836	5342.17	1.5	97.6
+(X)		House in the Forest, The	685	5790.17	1.6	97.4
+(X)		Kindness of Strangers, The	864	3743.83	1.5	97.7
+(X)		Legacy, The	1508	19086.50	1.8	96.79
+(X)		Old Hospital, The	5141	2639.17	1.3	98.31
+(X)		Other Sisters, The	1618	16135.17	1.7	97.09
+(X)		Perfect Wedding, The	1486	5575.50	1.6	97.4
+(X)		School on Bolt Street, The	906	10991.33	1.6	97.4
+(X)		Temple Treasure, The	4917	6290.83	1.7	97.3
+(X)		Witches of Nakashige, The	5243	7714.83	1.8	96.99
+(X)		Time to Go	781	7021.17	1.5	97.6
+(X)		Together Again	671	13925.00	3.0	88.33
+(X)		Train Travel	1879	6973.33	1.5	97.8
+(X)		Trapped	5779	19767.83	1.7	97.09
+(X)		Trouble in Paris	1380	7171.33	1.5	97.6
+(X)		Vanished Away	5110	5928.50	3.4	87.42
+(X)		We Met Online	1040	5558.33	1.4	98.01
+(X)		Wei's Part-Time Job	738	3793.67	1.3	98.11
+(X)		Who is Holly?	607	10442.00	3.0	88.43
+(X)		Who's There?	1110	5061.17	1.4	98.01
+(X)		Women's Konkatsu Tales	1117	2726.67	1.7	97.3
+ILTS
+	Robin Readers
+(X)		A Dangerous Race	0	3022.50	1.8	96.79
+(X)		A Second Chance	0	11630.67	2.0	96.38
+(X)		Adventure in the Alps	0	2268.00	1.2	98.51
+(X)		Between the Flags	0	5520.67	1.5	97.8
+(X)		Blown Away	0	10380.67	2.5	95.17
+(X)		Blue Moon Beach	0	4641.50	0.2	106.57
+(X)		Body on the Rocks	0	14204.50	2.2	95.98
+(X)		Broken Wings	0	13571.83	2.6	94.76
+(X)		CHOIR Boy	0	6128.83	1.5	97.7
+(X)		Cousins and Crocodiles	0	2774.00	1.1	98.62
+(X)		Deadly Holiday	0	8324.83	1.8	96.99
+(X)		Death at Hadrians Wall	0	5371.17	0.2	106.37
+(X)		Divers in Danger	0	2495.17	1.2	98.51
+(X)		Double Trouble	0	8631.83	1.8	96.89
+(X)		Gone!	0	7736.00	1.7	97.09
+(X)		Grizzly	0	2779.83	1.3	98.31
+(X)		Hot Air	0	5255.33	1.5	97.6
+(X)		In Sarahs Dreams	0	6947.17	1.4	97.91
+(X)		Kidnapped in Cornwall	0	10611.50	1.6	97.5
+(X)		Land of Gold	0	2497.83	1.1	98.72
+(X)		Lost in the Rain	0	2740.83	1.3	98.31
+(X)		Lucky for Some	0	5145.00	1.6	97.5
+(X)		Murder Weekend	0	11357.83	2.0	96.48
+(X)		Mystery at Lion Rock	0	7357.33	1.8	96.89
+(X)		Pirates!	0	5325.67	1.7	97.3
+(X)		Planespotting	0	2938.00	1.5	97.6
+(X)		Playing with Fire	0	5281.83	0.4	105.96
+(X)		Racing the Tide	0	12729.67	1.8	96.99
+(X)		Ride for Your Life	0	5402.33	1.5	97.8
+(X)		River of Dreams	0	11490.67	2.3	95.57
+(X)		Road to Nowhere	0	10612.50	2.0	96.38
+(X)		Ruby's Gift	0	4960.33	1.4	97.91
+(X)		Shopping for Trouble	0	5136.50	1.5	97.6
+(X)		Skeleton Island	0	2924.17	1.5	97.6
+(X)		Sorrow	0	12514.67	3.7	86.6
+(X)		Stars of Tomorrow	0	2888.83	1.1	98.72
+(X)		Stop that Musketeer!	0	2706.17	1.2	98.51
+(X)		Stranger Danger	0	8058.83	1.5	97.6
+(X)		The Alati Collection	0	10187.67	2.4	95.47
+(X)		The Art Show	0	14278.67	2.1	96.08
+(X)		The Black Night	0	5239.17	1.6	97.4
+(X)		The Bookshop	0	5594.33	1.8	96.79
+(X)		The Bride Wore Black	0	5219.83	1.5	97.6
+(X)		The Cave of the Jaguar	0	7744.50	2.0	96.38
+(X)		The Creature	0	13316.17	3.4	87.31
+(X)		The Day of the Flood	0	4931.33	1.5	97.6
+(X)		The Fast Lane	0	2245.33	-0.3	107.48
+(X)		The Football Match	0	2836.33	1.5	97.7
+(X)		The Game	0	2885.67	1.5	97.8
+(X)		The Key	0	7967.17	1.8	96.99
+(X)		The Man Next Door	0	8104.50	1.8	96.99
+(X)		The Rainbow Girl	0	7381.67	1.8	96.79
+(X)		The Right Team	0	2816.00	1.4	97.91
+(X)		The Secret by the Lake	0	5156.33	2.0	96.28
+(X)		The Secret in the Farmhouse	0	6907.67	1.8	96.99
+(X)		The Show Must Go On	0	5285.33	1.4	97.91
+(X)		The Singing Stones	0	10648.33	2.1	96.08
+(X)		The Sky Readers	0	10889.83	2.0	96.28
+(X)		The Winning Shot	0	2863.17	1.6	97.5
+(X)		The Young Riders	0	2481.17	1.2	98.41
+(X)		What Happened at Seacliffe	0	10834.50	2.1	96.08
+(X)		What Rose Saw	0	8008.00	1.9	96.69
+(X)		When the Sea Came In	0	10871.17	2.6	94.86
+(X)		Wild Water	0	12196.67	2.4	95.47
+(X)		Worm Juice	0	5549.83	1.7	97.3
+Independent
+	Mid-frequency Readers
+(X)		A Christmas Carol (Level 1)	0	24444.00	4.8	88.97
+(X)		A Christmas Carol (Level 2)	0	25225.50	6.1	80.21
+(X)		A Christmas Carol (Level 3)	0	25615.83	6.1	80.21
+(X)		A Modest Proposal (Level 1)	0	3186.17	19.5	39.98
+(X)		A Modest Proposal (Level 2)	0	3207.67	19.6	39.88
+(X)		A Modest Proposal (Level 3)	0	3212.00	19.6	39.88
+(X)		Alice's Adventures in Wonderland (Level 1)	0	23169.67	5.4	87.45
+(X)		Alice's Adventures in Wonderland (Level 2)	0	23530.00	5.4	87.45
+(X)		Alice's Adventures in Wonderland (Level 3)	0	23669.00	5.5	87.35
+(X)		Glimpses of an Unfamiliar Japan (Level 1)	0	86171.67	10.7	63.02
+(X)		Glimpses of an Unfamiliar Japan (Level 2)	0	87223.83	10.9	62.51
+(X)		Glimpses of an Unfamiliar Japan (Level 3)	0	86758.83	10.7	62.92
+(X)		Metamorphosis (Level 1)	0	19766.67	10.5	68.94
+(X)		Metamorphosis (Level 2)	0	19681.83	10.5	68.84
+(X)		Metamorphosis (Level 3)	0	19719.33	10.5	68.84
+(X)		More William	0	43653.50	4.1	85.59
+(X)		More William	0	43778.17	4.1	85.59
+(X)		More William	0	43845.67	4.1	85.59
+(X)		The Adventures of Sherlock Holmes (Level 1)	0	92010.00	6.0	80.51
+(X)		The Adventures of Sherlock Holmes (Level 2)	0	92411.67	6.0	80.51
+(X)		The Adventures of Sherlock Holmes (Level 3)	0	93076.67	6.0	80.51
+(X)		The Art of War (Level 1)	0	9988.67	8.8	67.79
+(X)		The Art of War (Level 2)	0	10017.00	8.8	67.89
+(X)		The Art of War (Level 3)	0	10027.33	8.8	67.89
+(X)		Wuthering Heights (Level 1)	0	105967.67	6.7	78.89
+(X)		Wuthering Heights (Level 2)	0	107367.17	6.7	78.89
+(X)		Wuthering Heights (Level 3)	0	107093.83	6.7	78.79
+	Special
+(X)		100 Days at Sea	0	5828.17	3.5	87.11
+(X)		War Hero	0	963.50	2.1	96.08
+Macmillan
+	Macmillan Readers
+(B)		Christmas Carol_ A	15135	8962.67	1.7	97.09
+(B)		Tale of Two Cities_ A	15507	5850.33	2.3	90.16
+(B)		Anna and the Fighter	605	2060.67	0.8	99.53
+(B)		Anna Karenina	145	25031.83	3.8	86.4
+(B)		Billy Budd 	10746	6530.83	2.4	89.95
+(B)		Bleak House	58	19803.33	2.2	95.77
+(B)		Bristol Murder	48	14339.33	2.4	95.47
+(B)		Claws 	14192	8746.17	2.8	89.04
+(B)		Daisy Miller	7113	14605.17	3.2	87.92
+(X)		Dangerous Journey	9815	1865.83	1.2	98.51
+(B)		David Copperfield	75	22861.00	2.1	96.18
+(B)		Dr Jekyll and Mr Hyde	19344	6905.33	2.9	88.53
+(B)		Dracula 	75	8969.00	1.8	96.99
+(B)		Emma 	77	24418.17	3.5	87.11
+(B)		Far from the Madding Crowd	14096	16661.67	2.0	96.38
+(B)		Frankenstein	22229	5877.83	1.5	97.8
+(B)		Gandhi	13768	16003.17	7.9	70.23
+(B)		Good Wives 	7902	6796.50	1.6	97.4
+(B)		Great Expectations	306	17470.17	2.1	96.18
+(B)		Gulliver's Travel in Lilliput	24856	387.17	3.3	82.31
+(B)		Hamlet 	121	11914.50	2.0	96.48
+(B)		Hawk-eye_ the Pathfinder	5520	8415.50	2.8	89.04
+(B)		Heidi	9207	13753.83	1.9	96.69
+(B)		In The Frame	966	295.83	3.9	96.93
+(B)		Jane Eyre 	8360	7001.33	1.1	98.72
+(B)		King Arthur and the Knights of the Round Table	139	16264.00	2.4	95.27
+(B)		L. A. Movie	103	23048.83	2.4	95.37
+(B)		L.A. Raid 	14637	2393.17	1.3	98.31
+(B)		L. A. Winners	8404	10793.17	1.5	97.7
+(B)		Little Women	9808	6340.17	1.1	98.82
+(B)		Lorna Doone 	10321	8569.33	1.6	97.5
+(B)		Love by Design	31799	7796.00	2.7	89.14
+(B)		Lucky Number	1049	452.33	2.0	91.07
+(B)		Macbeth	97	15116.67	2.4	95.47
+(B)		Marco 	12395	1828.17	2.3	90.26
+(B)		Meet Me In Istanbul	254	9727.33	2.8	88.84
+(X)		Michael Jackson: The King of Pop	23312	14644.67	4.2	85.18
+(B)		Middlemarch	114	30511.00	2.7	94.56
+(B)		Moby Dick	0	22988.83	2.7	94.66
+(X)		Money for a Motorbike	12937	1737.67	2.4	89.95
+(B)		Much Ado About Nothing	725	15862.67	2.3	95.67
+(B)		Nelson Mandela	11890	12411.50	5.3	77.13
+(B)		Newspaper Boy	8127	1831.00	2.3	90.16
+(B)		Northanger Abbey	8726	6700.50	2.4	89.85
+(B)		Officially Dead	0	19994.17	3.7	86.6
+(B)		Oliver Twist	129	9845.50	1.5	97.8
+(B)		Our Mutual Friend	0	19515.17	2.3	95.67
+(B)		Owl Creek Bridge and Other Stories	6776	13302.33	2.0	96.48
+(B)		Owl Hall	15318	13586.17	2.3	95.67
+(B)		Persuasion	38013	15565.17	4.6	84.17
+(B)		Picture Puzzle	8789	2285.00	1.4	97.91
+(B)		Pride and Prejudice	259	21159.83	3.5	87.11
+(X)		Princess Diana 	10327	9508.83	4.8	78.45
+(B)		Rebecca	0	27038.33	1.8	96.99
+(B)		Rich Man_ Poor Man	15302	2358.67	1.4	97.91
+(B)		Robin Hood	17892	11977.17	2.4	95.27
+(B)		Robinson Crusoe	20387	14096.67	4.0	91.21
+(B)		Romeo & Juliet	31898	14364.17	2.5	95.17
+(B)		Room 13 and Other Ghost Stories	839	9781.33	1.7	97.09
+(B)		Selected Short Stories by D H Lawrence	23108	18330.33	2.0	96.48
+(B)		Sense and Sensibility	191	25574.17	3.8	86.4
+(B)		Seven Stories of Mystery and Horror	921	11337.67	1.7	97.09
+(B)		Shooting Stars	1728	604.83	2.0	90.97
+(B)		Silver Blaze and Other Stories	42	9566.83	2.9	88.53
+(X)		Ski Race 	1274	540.00	0.9	99.23
+(B)		Tales of Horror	3641	9321.50	1.8	96.99
+(B)		Adventures of Huckleberry Finn_ The	8380	8354.50	1.6	97.5
+(B)		Adventures of Tom Sawyer_ The	9437	7534.83	1.2	98.41
+(B)		Black Cat_ The	9276	6643.83	1.6	97.5
+(X)		Black Tulip_ The	4511	6979.83	1.4	98.01
+(B)		Call of the Wild	5478	13850.00	4.3	90.29
+(B)		Canterville Ghost and Other Stories_ The	19724	8427.83	1.7	97.3
+(B)		Cut Glass Bowl and Other Stories_ The	72	11770.33	1.8	96.99
+(B)		Enchanted April_ The	100	10798.83	2.7	89.14
+(B)		House on the Hill_ The	7014	2498.00	1.1	98.82
+(B)		Importance of Being Earnest_ The	434	16584.00	4.9	78.14
+(B)		Last Leaf & Other Stories_ The	18353	6729.50	1.7	97.3
+(B)		Last of the Mohicans_ The	12937	5965.00	1.2	98.41
+(B)		Legends of Sleepy Hollow and Rip Van Winkle_ The 	15968	10600.83	3.1	88.02
+(B)		Long Tunnel_ The	7362	2229.17	1.3	98.11
+(B)		Lost World_ The	34721	10705.83	1.5	97.7
+(B)		Magic Barber_ The	10033	437.00	0.9	99.23
+(X)		Merchant of Venice_ The	305	20023.67	3.4	92.73
+(B)		Mill on the Floss_ The	9180	5620.83	1.0	98.92
+(B)		Phantom of the Opera_ The	9776	7314.50	1.2	98.41
+(B)		Picture of Dorian Grey_ The	22547	11501.50	2.9	88.63
+(B)		Promise_ The	28472	8202.33	2.9	88.53
+(B)		Queen of Death_ The	62	11275.67	3.5	87.11
+(B)		Quest_ The	1005	8311.00	1.5	97.8
+(B)		Red and the Black_ The	280	23149.67	3.7	86.6
+(B)		Secret Garden_ The 	11135	14877.83	2.4	95.47
+(B)		Signalman and Ghost at the Trial_ The	20959	6435.00	1.5	97.7
+(B)		Smuggler_ The	278	13521.50	2.2	95.98
+(B)		Space Invaders_ The	233	9519.33	1.8	96.89
+(B)		Speckled Band and Other Stories_ The	276	11165.00	3.3	87.52
+(X)		Story of the Olympics: An Unofficial History_ The	687	10446.00	6.1	80.21
+(B)		Stranger_ The	1685	6609.17	2.4	89.95
+(B)		Tenant of Wildfell Hall_ The	730	16695.67	1.7	97.09
+(B)		Three Musketeers_ The	23689	9865.33	1.3	98.21
+(B)		Treasure of Monte Cristo_ The	920	16415.50	1.9	96.59
+(B)		Trumpet-Major_ The	17186	8283.67	1.3	98.11
+(B)		Truth Machine_ The	21656	2456.00	3.2	82.61
+(B)		Umbrella_ The	4149	528.17	0.9	99.12
+(B)		Wizard of Oz_ The	19	11710.33	1.0	104.34
+(B)		Woman Who Disappeared_ The	196	12373.33	2.5	94.96
+(B)		Woodlanders_ The	400	18777.00	2.1	96.08
+(B)		This is London	21375	2458.50	5.1	77.64
+(B)		Treasure Island	13931	8527.50	1.7	97.3
+(B)		Vanity Fair	0	31651.33	2.6	94.86
+(B)		Washington Square	17360	7217.50	2.5	89.65
+(B)		White Fang	14002	11090.17	2.2	95.98
+(B)		Wuthering Heights	223	18672.33	2.4	95.27
+(L)		Woman in Black_ The	9305	9286.83	1.4	98.01
+(L)		Goldfinger	118	20529.33	3.7	86.5
+(L)		Around the World in Eighty Days	26249	875.50	2.1	90.77
+(L)		Blue Fins 	32180	583.17	0.8	99.53
+(L)		L.A. Detective	759	567.17	0.7	99.73
+(L)		Photo Finish	2620	773.83	2.1	90.77
+(L)		Lost Ship_ The	960	523.33	0.9	99.23
+	Read Smart Readers
+(X)		Click and Other Japanese Tales	0	8077.17	2.9	94.05
+(X)		Danger Road	0	1380.83	1.8	96.79
+(X)		Haircuts and Another Japanese Tale	0	7594.67	2.7	94.66
+(X)		Motorcycle Girl	0	1191.67	2.4	89.85
+(X)		Bradfield Push_ The - New Sherlock Holmes 1	0	7698.33	3.6	92.12
+(X)		The Missing Character	0	1432.83	2.9	88.74
+(X)		Story of the Kennedys_ The	0	10588.67	11.3	61.5
+(X)		World of Anne of Green Gables_ The	0	8954.17	6.3	79.7
+MPI
+	Building Blocks Library
+(B)		Amy's Song	0	278.17	0.1	106.67
+(B)		And First Prize Goes to	0	509.00	1.5	97.7
+(B)		Chores Are Stupid!	0	1191.33	1.7	97.09
+(B)		DANGER! KEEP OUT!	0	515.67	1.5	97.6
+(B)		Dog Wash	0	456.67	1.7	97.09
+(B)		Double Take	0	856.50	1.7	97.3
+(B)		Downhill Race	0	338.50	0.2	106.47
+(B)		Easy Come, Easy Go	0	2630.17	2.1	96.18
+(B)		Extreme Fire Danger	0	2070.33	2.3	95.67
+(B)		First Day at School	0	225.00	0.9	99.33
+(B)		Good Sports	0	1958.67	2.3	95.57
+(B)		It's Natalie Nevada!	0	291.17	1.1	98.62
+(B)		Jay's Great Idea	0	513.50	1.3	98.11
+(B)		Kat's Decision	0	2749.50	2.4	95.37
+(B)		Kat's Surprise	0	282.83	0.2	106.57
+(B)		Lost	0	521.33	1.4	98.01
+(B)		Meet the Mummy	0	267.67	1.4	97.91
+(B)		Mysterious Alex	0	2091.33	3.6	86.81
+(X)		Nobody Understands Me!	0	2248.83	2.1	96.08
+(B)		Octopus Attack! 	0	179.50	0.5	105.55
+(B)		Out of Control	0	2779.67	2.3	95.67
+(B)		Outback Adventure	0	1989.67	2.5	95.17
+(X)		Rich Girls	0	2012.50	3.3	87.62
+(B)		Ring Ring... No Answer	0	304.17	-0.2	107.28
+(B)		School's Out	0	2451.67	2.5	95.06
+(B)		Storm Warning!	0	1189.67	0.8	104.94
+(B)		Stranger Danger	0	998.00	1.6	97.4
+(B)		That's Life! 	0	2912.33	2.4	95.27
+(B)		The New Teacher 	0	186.83	0.8	99.53
+(B)		The Visit	0	1181.83	1.7	97.2
+(B)		Trouble for Tom	0	703.33	1.6	97.4
+(B)		Try Out for the Musical!	0	462.00	1.4	97.91
+(B)		Txt Msg	0	306.33	1.0	98.92
+(B)		Where's Liam?	0	243.50	-0.6	108.4
+(B)		White Water	0	2467.00	2.8	94.25
+(B)		Who's There? 	0	314.33	0.2	106.57
+(L)		Mom, Dad, and Tom	0	15.50	-0.3	107.38
+(L)		Ken and Tim	0	24.33	-1.7	116.45
+(L)		Fox and Bug	0	32.00	2.4	106.0
+(L)		Is It?	0	29.33	-0.6	113.61
+(L)		The Big Wig	0	45.83	-1.4	115.64
+(L)		Ben Has Ten Pens	0	34.83	-0.7	113.81
+(L)		The Dog and the Cat	0	40.67	-1.9	117.06
+(L)		Get Up, Pup!	0	33.83	-2.0	117.36
+(L)		Nat Likes Nuts	0	40.67	-0.8	108.8
+(L)		Tig Likes to Dig	0	55.33	-1.8	116.75
+(L)		Mice Like Rice	0	41.33	-1.0	109.41
+(L)		Max and Min	0	14.83	-0.4	107.69
+(L)		Flea and Bee	0	59.00	-1.8	116.75
+(L)		Tom Kicks a Can	0	56.33	-0.7	108.6
+(L)		Punk, Pop, Hip, and Hop	0	77.33	-0.9	109.0
+(L)		We want Ice Cream !	0	80.00	-0.7	108.5
+(L)		The Bees Knees	0	104.50	-1.9	116.96
+(L)		Drop the Ball, Bob!	0	100.00	-0.6	108.4
+(L)		The Red Mat	0	151.83	-0.5	107.99
+(L)		Snack Attack	0	99.83	0.7	99.73
+(L)		Lick! Lick! Yummy!	0	159.67	-0.4	107.89
+Oxford University Press
+	Dominoes 2nd Edition
+(L)		Pretty Face, A	0	2176.17	1.9	96.69
+(L)		From the Heart	0	4221.83	1.4	98.01
+(L)		Housemates	0	4354.83	1.7	97.3
+(L)		Mystery in Muscat	0	4895.00	1.6	97.4
+(L)		Studio Five	0	4876.00	1.4	97.91
+(L)		Drive to Dubai, The	0	9136.50	2.0	96.38
+(L)		V is for Vampire	0	8293.00	3.5	87.11
+	Oxford Bookworms Library
+(L)		Little Princess, A	0	5283.00	2.2	95.98
+(L)		Agatha Christie, Woman of Mystery	0	5535.83	4.0	85.69
+(L)		Alice's Adventures in Wonderland	0	5617.17	2.6	94.76
+(L)		Anne of Green Gables	0	5340.50	2.3	95.67
+(L)		Black Beauty	0	13161.83	3.9	91.41
+(L)		Chemical Secret	0	9159.50	2.4	95.27
+(L)		Christmas in Prague	0	4228.17	1.7	97.09
+(L)		Dead Man's Island	0	4520.17	1.8	96.79
+(L)		Death in the Freezer	0	5329.00	2.3	95.57
+(L)		Dracula	0	6775.00	3.0	93.85
+(L)		Drive into Danger	0	1381.33	1.9	96.69
+(L)		Ear-rings from Frankfurt	0	5764.33	2.0	96.38
+(L)		Five Children and It	0	5343.67	2.8	94.25
+(L)		Goodbye, Mr Hollywood	0	4625.50	1.9	96.59
+(L)		Grace Darling	0	5996.33	2.2	95.77
+(L)		Gulliver's Travels	0	13480.50	5.6	81.53
+(L)		Henry VIII and his Six Wives	0	5686.33	2.4	95.47
+(L)		Last Chance	0	1707.67	1.0	98.92
+(L)		Little Lord Fauntleroy	0	6478.17	2.5	95.17
+(L)		Little Women	0	13125.67	3.1	93.64
+(L)		New York Cafe	0	1522.00	2.7	89.14
+(L)		New Yorkers - Short Stories	0	5214.00	2.5	95.06
+(L)		One-Way Ticket - Short Stories	0	4896.17	1.9	96.69
+(L)		Orca	0	1623.00	0.2	106.37
+(L)		Police T.V.	0	1458.67	1.1	98.72
+(L)		Pride and Prejudice	0	27795.17	7.2	72.05
+(L)		Red Roses	0	1553.33	1.4	98.01
+(L)		Remember Miranda	0	4571.67	1.9	96.59
+(L)		Robinson Crusoe	0	5658.50	3.4	92.63
+(L)		Sally's Phone	0	1509.00	1.2	98.41
+(L)		Sherlock Holmes and the Duke's Son	0	5158.00	2.2	95.77
+(L)		Sherlock Holmes and the Sport of Kings	0	5350.00	2.4	95.47
+(L)		Sherlock Holmes: More Short Stories	0	5643.17	2.4	95.37
+(L)		Shirley Homes and the Cyber Thief	0	5720.33	1.7	97.2
+(L)		Skyjack!	0	7817.67	2.1	96.18
+(L)		Starman	0	1619.83	1.3	98.11
+(L)		Adventures of Tom Sawyer, The	0	902.83	1.8	96.79
+(L)		Card, The	0	10000.50	4.0	85.79
+(L)		Cat, The	0	1237.00	1.3	98.31
+(L)		Children of the New Forest, The	0	5983.00	3.1	93.44
+(L)		Coldest Place on Earth, The	0	5105.33	2.1	96.18
+(L)		Elephant Man, The	0	4554.67	2.4	95.37
+(L)		Fifteenth Character, The	0	1433.00	2.9	88.74
+(L)		Girl with Green Eyes, The	0	1458.50	1.7	97.09
+(L)		Girl with Red Hair, The	0	1541.83	0.4	106.06
+(L)		Hound of the Baskervilles, The	0	16752.50	3.1	93.54
+(L)		Jungle Book, The	0	5764.17	2.8	94.25
+(L)		Kiss, The: Love Stories From America	0	11398.00	3.8	91.82
+(L)		Love of a King, The	0	5498.67	2.2	95.98
+(L)		Mysterious Death of Charles Bravo, The	0	10351.00	2.1	96.18
+(L)		Mystery of Allegra, The	0	5356.00	2.2	95.98
+(L)		Mystery of Manor Hall, The	0	1312.33	1.7	97.2
+(L)		Phantom of the Opera, The	0	2574.50	1.9	96.69
+(L)		Piano Man, The	0	6013.50	1.8	96.99
+(L)		Piano, The	0	5375.33	1.7	97.2
+(L)		President's Murderer, The	0	4806.83	1.7	97.3
+(L)		Railway Children, The	0	8374.67	2.6	94.86
+(L)		Scarlet Letter, The	0	14392.50	3.6	92.12
+(L)		Wind in the Willows, The	0	10223.50	3.1	93.44
+(L)		Wizard of Oz, The	0	4776.50	2.1	96.18
+(L)		Year of Sharing, The	0	5572.17	2.2	95.77
+(L)		Three Men in a Boat	0	15243.83	2.9	94.15
+(L)		Through the Looking-Glass	0	9467.50	2.9	94.05
+(L)		Voodoo Island	0	5190.83	2.1	96.18
+(L)		White Death	0	5811.67	1.4	97.91
+(L)		William Shakespeare	0	8125.83	2.7	94.66
+(L)		Aladdin and the Enchanted Lamp	0	4556.33	2.4	95.47
+(L)		Lottery Winner, The	0	4936.50	2.9	88.53
+(L)		Mary, Queen of Scots	0	5469.50	2.0	96.38
+(L)		Mutiny on the Bounty	0	5184.17	1.8	96.99
+(L)		Omega Files - Short Stories, The	0	5497.00	2.0	96.28
+(L)		Sister Love and Other Crime Stories	0	4896.83	2.1	96.08
+(L)		Witches of Pendle, The	0	5069.67	2.2	95.88
+(L)		Withered Arm, The	0	5005.33	2.5	95.06
+(L)		Huckleberry Finn	0	4990.67	3.3	93.14
+(L)		Matty Doolin	0	5709.67	2.4	95.37
+(L)		Death of Karen Silkwood, The	0	4915.17	3.2	87.82
+(L)		As the Inspector Said and Other Stories	0	9100.50	2.7	94.56
+(L)		Call of the Wild, The	0	9559.67	3.6	92.12
+(L)		Christmas Carol, A	0	9592.00	2.9	94.05
+(L)		Crown of Violet, The	0	10132.50	2.5	94.96
+(L)		Ethan Frome	0	9590.17	3.2	93.34
+(L)		Frankenstein	0	8036.83	3.4	92.83
+(L)		Go, Lovely Rose and Other Stories	0	7331.17	1.8	96.89
+(L)		Pair of Ghostly Hands and Other Stories, A	0	10205.50	3.1	93.54
+(L)		Justice	0	9140.50	2.2	95.88
+(L)		Kidnapped	0	10882.17	3.6	92.12
+(L)		Love Story	0	7621.33	1.8	96.99
+(L)		Long White Cloud: Stories from New Zealand, The	0	9764.33	2.9	94.05
+(L)		On the Edge	0	9964.50	2.2	95.98
+(L)		Prisoner of Zenda, The	0	9518.83	3.0	93.74
+(L)		Tales of Mystery and Imagination	0	10149.83	3.9	91.41
+(L)		Bronte Story, The	0	9028.50	2.7	94.45
+(L)		Last Sherlock Holmes Story, The	0	8692.00	2.6	94.86
+(L)		Picture of Dorian Gray, The	0	8972.67	3.5	87.01
+(L)		Secret Garden, The	0	9420.17	2.3	95.67
+(L)		Three Strangers and Other Stories, The	0	10650.17	3.4	92.63
+(L)		Who, Sir? Me, Sir?	0	9132.83	2.7	94.45
+(L)		Wyatt's Hurricane	0	10206.17	3.8	86.3
+(L)		Morbid Taste For Bones, A	0	14696.83	2.8	94.25
+(L)		Cranford	0	13340.50	4.5	84.37
+(L)		Lord Jim	0	17469.83	5.0	83.15
+(L)		Mr Midshipman Hornblower	0	11409.83	3.8	86.4
+(L)		Reflex	0	12946.17	1.7	97.09
+(L)		Silas Marner	0	14252.33	4.5	84.37
+(L)		Songs of Distant Earth and Other Stories, The	0	13495.33	5.5	81.93
+(L)		Moonspinners, The	0	11873.83	2.4	95.27
+(L)		Silver Sword, The	0	12572.83	2.7	94.56
+(L)		Thirty-Nine Steps, The	0	14619.33	3.2	93.34
+(L)		Unquiet Grave, The	0	13789.83	4.1	90.8
+(L)		Washington Square	0	13793.33	4.0	85.89
+(L)		Do Androids Dream of Electric Sheep?	0	22288.50	2.0	96.38
+(L)		Brat Farrar	0	20459.67	3.2	93.34
+(L)		David Copperfield	0	21788.33	4.9	83.56
+(L)		Deadlock	0	17405.33	2.7	94.66
+(L)		Far From the Madding Crowd	0	22036.17	3.0	93.85
+(L)		Garden Party and Other Stories, The	0	19493.17	2.5	95.06
+(L)		Ghost Stories	0	17973.67	2.4	95.37
+(L)		Great Expectations	0	20928.67	4.4	84.88
+(L)		Sense and Sensibility	0	22520.67	7.1	72.46
+(L)		Bride Price, The	0	17460.67	3.7	86.71
+(L)		Dead of Jericho, The	0	21447.50	3.9	85.99
+(L)		This Rough Magic	0	18949.50	2.6	94.86
+(L)		Wuthering Heights	0	20480.83	3.0	93.85
+(L)		American Crime Stories	0	22069.67	2.7	94.56
+(L)		Cold Comfort Farm	0	27886.33	4.7	83.86
+(L)		Cry Freedom	0	25687.17	4.0	85.69
+(L)		Decline and Fall	0	26958.67	4.2	85.18
+(L)		Enemy, The	0	22510.50	4.1	85.59
+(L)		Jane Eyre	0	27665.83	3.3	92.93
+(L)		Meteor and Other Stories	0	21504.67	3.3	93.03
+(L)		Connecticut Yankee in King Arthur's Court, A	0	787.00	0.9	99.12
+(L)		Give us the Money	0	589.67	0.6	99.94
+(L)		Star Reporter	0	776.00	1.2	98.41
+(L)		Taxi of Terror	0	797.00	-0.4	107.79
+	Oxford Bookworms Library: Factfiles
+(L)		USA, The	0	9349.33	6.4	79.5
+Penguin / Pearson
+	Pearson English Active Readers
+(L)		Island for Sale	0	1511.17	2.2	90.56
+(L)		Anne of Green Gables	0	7268.00	1.4	98.01
+(L)		Call of the Wild, The	0	8031.67	2.2	95.77
+(L)		Earthquake, The	0	4735.50	1.3	98.31
+(L)		Frankenstein	0	6187.33	3.4	92.73
+(L)		Mysteries of the Unexplained	0	7563.67	3.8	86.3
+(L)		Stories of Courage	0	9458.50	3.8	86.2
+(L)		Horse Whisperer, The	0	17862.67	2.0	96.48
+(L)		Young King and Other Stories, The	0	12973.17	2.4	95.37
+(L)		Titanic!	0	5782.33	3.8	86.2
+(L)		About a Boy	0	18929.83	2.5	94.96
+(L)		Crime Story Collection	0	20105.67	2.8	94.25
+(L)		Oliver Twist	0	15040.33	2.3	95.67
+(L)		Full Monty, The	0	17098.83	2.7	94.56
+(L)		Three Great Plays of Shakespeare	0	13995.17	1.8	96.89
+(L)		Newspaper Chase	0	742.17	3.0	88.33
+	Pearson English Kids Readers
+(L)		Robin Hood	0	7831.00	2.1	96.08
+	Pearson English Readers
+(L)		Girl Meets Boy	0	1761.50	2.9	93.95
+(L)		Lisa in London (Cartoon Strip)	0	1050.83	0.9	99.23
+(L)		Rip Van Winkle & the Legend of Sleepy Hollow	0	3497.83	1.6	97.5
+(L)		Adventures of Tom Sawyer, The	0	3736.17	1.5	97.6
+(L)		Gulliver's Travels	0	537.33	2.1	90.87
+(L)		King Arthur and the Knights of the Round Table	0	9093.67	1.1	104.23
+(L)		Mr. Bean in Town	0	3759.00	1.7	97.09
+(L)		Three Short Stories of Sherlock Holmes	0	8449.83	1.7	97.3
+(L)		Simply Suspense	0	6593.67	2.7	94.66
+(L)		Lady in the Lake, The	0	6479.50	2.1	96.18
+(L)		Wave, The	0	6056.67	1.5	97.6
+(L)		Amistad	0	7467.33	2.4	95.27
+(L)		Ideal Husband, An	0	12923.17	2.7	89.24
+(L)		Dangerous Game	0	15030.67	1.7	97.2
+(L)		Emil and the Detectives	0	11171.17	1.8	96.79
+(L)		Forrest Gump	0	7908.50	3.0	93.74
+(L)		Ghost in the Guitar	0	8694.00	1.5	97.7
+(L)		Grey Owl	0	6452.17	3.5	87.01
+(L)		Fall of the House of Usher and Other Stories, The	0	10720.50	2.2	95.98
+(L)		How to be an Alien	0	8127.67	5.2	82.75
+(L)		Count of Monte Cristo, The	0	11190.83	2.0	96.48
+(L)		New York	0	7928.17	4.0	85.69
+(L)		Princess Diana	0	8839.83	4.8	83.66
+(L)		Sense and Sensibility	0	7893.50	3.1	88.13
+(L)		Beatles, The	0	8235.50	4.1	85.49
+(L)		Ring, The	0	12842.00	2.0	96.28
+(L)		1984	0	18948.67	4.0	85.79
+(L)		Alexander the Great	0	14481.17	6.9	72.76
+(L)		Picture of Dorian Gray, The	0	14737.67	2.2	95.88
+(L)		Gladiator	0	19226.83	3.6	86.81
+(L)		Mosquito Coast, The	0	11699.50	2.4	95.37
+(L)		Strangers on a Train	0	10789.17	2.1	96.08
+(L)		Client, The	0	11180.17	1.8	96.89
+(L)		House of Stairs, The	0	12636.83	2.7	94.45
+(L)		Locked Room and Other Horror Stories, The	0	12236.50	4.2	90.6
+(L)		Famous Women in Business	0	13147.50	6.0	80.51
+(L)		Time to Kill, A	0	21666.17	2.9	94.15
+(L)		Dr Zhivago	0	19331.33	4.9	83.46
+(L)		Strange Case of Dr Jekyll and Mr Hyde, The	0	12084.17	2.4	95.47
+(L)		Four Weddings and a Funeral	0	17024.33	2.1	96.08
+(L)		More Tales from Shakespeare	0	24107.67	8.2	74.93
+(L)		On the Road	0	18578.17	3.5	92.53
+(L)		Pride and Prejudice	0	38123.83	6.4	79.5
+(L)		Round the World in Eighty Days	0	7413.00	2.0	96.48
+(L)		Sherlock Holmes Short Stories	0	13471.83	2.6	94.76
+(L)		Tales of Mystery and Imagination	0	30392.33	5.9	80.82
+(L)		Taste and Other Tales	0	27192.00	3.1	93.44
+(L)		Body, The	0	18539.50	3.3	93.14
+(L)		Firm, The	0	17183.67	2.7	94.66
+(L)		Invisible Man, The	0	19444.83	3.2	93.34
+(L)		Pelican Brief, The	0	15527.67	2.6	94.76
+(L)		War of the Worlds, The	0	24930.50	5.7	81.33
+(L)		World Folk Tales	0	23019.50	3.3	92.93
+(L)		Misery	0	24100.50	3.1	93.64
+(L)		Marcel and the White Star	0	844.67	1.5	97.7
+	Penguin Active Reading
+(L)		Romans, The	0	12949.50	4.2	85.39
+	Penguin Readers (Old)
+(L)		Muhammad Ali	0	2214.67	1.8	96.79
+(L)		Carnival	0	787.83	1.3	98.11
+(L)		Brazil-500 Years Voyage to Terra Papagalis	0	37.83	6.5	73.88
+(L)		Brown Eyes	0	1388.17	1.2	98.41
+(L)		Gucci -- Business in Fashion	0	3315.50	3.8	86.4
+(L)		Catskill Eagle, A	0	6708.17	2.2	95.77
+(L)		Billy Budd, Sailor	0	12160.33	3.3	87.72
+(L)		Blood Ties	0	8187.17	1.5	97.7
+(L)		British Life	0	7355.50	3.8	86.3
+(L)		Chance of a Lifetime	0	12030.67	2.8	88.94
+(L)		Great Football Stories	0	8375.33	4.9	83.46
+(L)		Happy Christmas!	0	4936.50	2.1	96.08
+(L)		Manchester United	0	6042.83	3.9	86.1
+(L)		My Family and Other Animals	0	6179.17	2.5	94.96
+(L)		Royal Family, The	0	8806.17	4.7	83.96
+(L)		Oscars, The	0	7104.17	3.7	86.71
+(L)		Chrysalids, The	0	11813.83	1.6	97.4
+(L)		Ghosts of Izieu, The	0	8054.83	1.6	97.4
+(L)		Mystery of the Blue Mines	0	11339.17	1.7	97.2
+(L)		Red Badge of Courage, The	0	12785.67	1.5	97.7
+(L)		Yearling, The	0	10604.50	1.8	96.99
+(L)		As Time Goes By	0	15118.83	3.3	87.62
+(L)		Cinderella Man	0	20410.50	2.6	94.76
+(L)		Management Gurus	0	14946.00	6.0	75.1
+(L)		Primary Colors	0	10317.17	3.2	87.82
+(L)		Dream and Other Stories, The	0	5848.67	2.6	94.86
+(L)		Godfather, The	0	13348.83	4.1	85.59
+(L)		Airport	0	33336.50	4.0	85.69
+(L)		Benetton	0	24092.33	6.9	72.97
+(L)		Prime Suspect	0	16146.00	3.2	87.92
+(L)		Grass is Singing, The	0	15446.17	3.4	92.63
+(L)		Story of the Internet, The	0	18553.17	5.9	75.4
+(L)		Business at the Speed of Thought	0	31156.33	9.1	61.67
+Pomaka
+	Tips for English Language Learners
+(X)		Conversation Skills - 10 162	0	3119.33	4.8	78.35
+	University diaries
+(X)		Breaking Free - A university diary: Book 1	0	4260.50	1.7	97.09
+(X)		Breaking Free - A university diary: Book 2	0	5106.33	2.7	89.14
+(X)		Breaking Free - A university diary: Book 3	0	4600.00	2.8	89.04
+(X)		Breaking Free - A university diary: Book 4	0	4436.00	2.8	88.84
+(X)		Breaking Free - A university diary: Book 5	0	4636.33	2.8	88.94
+Prolingua
+	Hopes and Dreams
+(X)		A Different Home/ Cuban-Americans	0	4308.33	1.5	97.8
+(X)		Amala's Hope/ A Family from Syria	0	4641.83	1.6	97.4
+(X)		For Gold and Blood/ Chinese-Americans	0	4300.33	1.7	97.3
+(X)		Hungry No More/ Irish-Americans	0	4060.67	1.4	98.01
+(X)		Little Italy/ Italian-Americans	0	3899.67	1.3	98.11
+(X)		Neighbors/ A Family From El Salvador	0	4891.00	1.7	97.3
+(X)		Nobody Knows/ African-Americans	0	4119.50	1.4	98.01
+(X)		Old Ways, New Ways/ Jewish-Americans	0	3956.00	1.3	98.21
+(X)		Sent Away/ Japanese-Americans	0	4800.67	1.8	96.79
+(X)		The Family from Vietnam	0	4482.00	1.5	97.6
+(X)		The Magic Paper/ Mexican-Americans	0	4264.00	1.4	97.91
+(X)		Two Hearts/ Greek-Americans	0	4702.33	1.8	96.99
+Seed Learning
+	Future Job Readers
+(X)		Agricultural Engineers	0	1177.50	6.6	73.68
+(X)		App Developers	0	759.17	4.6	78.96
+(X)		Asset Managers	0	592.67	4.6	78.75
+(X)		Computer Intelligence Engineers	0	879.83	4.4	79.46
+(X)		Cyber Security Experts	0	673.17	6.2	69.18
+(X)		Data Miners	0	964.83	5.8	75.71
+(X)		Database Administrators	0	1073.67	6.4	74.19
+(X)		Digital Modelers	0	749.83	5.5	76.52
+(X)		Drone Pilots	0	772.83	5.5	76.62
+(X)		Genetic Counselors	0	1064.33	7.1	66.84
+(X)		Intellectual Property Lawyers	0	1136.00	6.0	69.79
+(X)		IoT Marketing Specialists	0	867.17	4.7	83.86
+(X)		Medical Scientists	0	601.00	6.0	69.89
+(X)		Nanotechnology Research Scientists	0	1257.17	8.2	58.79
+(X)		Quantum Computer Scientists	0	1130.67	6.4	74.29
+(X)		Robotics Engineers	0	648.67	5.4	71.41
+(X)		Social Media Managers	0	729.33	6.0	69.89
+(X)		Space Pilots	0	1065.33	3.7	86.6
+(X)		Water Harvesters	0	1018.33	7.5	65.83
+(X)		Wearable Technology Creators	0	802.33	4.8	78.45
+	World History Readers 
+(X)		Alexander the Great	0	1176.17	4.1	85.49
+(X)		Benjamin Franklin	0	925.50	6.1	75.0
+(X)		Calendars and the History of Time	0	587.83	6.5	73.98
+(X)		Capitalism: Good or Evil?	0	1606.17	10.0	54.02
+(X)		Chinas First Empire: The Qin Dynasty	0	1557.83	6.6	73.58
+(X)		China: The New Superpower	0	1436.50	8.1	64.3
+(X)		Christopher Columbus	0	998.17	4.8	83.66
+(X)		Cleopatra	0	1055.33	5.0	77.84
+(X)		Communication Technology	0	1523.50	8.5	57.87
+(X)		Decisive Battles of World War II	0	1475.00	5.7	76.01
+(X)		Galileo Galilei	0	859.00	7.8	70.63
+(X)		Genghis Khan	0	1142.67	4.8	83.66
+(X)		Global Trade and Peace	0	1572.33	9.4	55.54
+(X)		Greek Culture	0	1766.00	4.7	84.07
+(X)		Korea: A Land Divided by War	0	1312.50	6.4	74.29
+(X)		Leonardo da Vinci	0	1045.17	6.5	73.78
+(X)		Life and Death in Ancient Egypt	0	1067.17	6.2	74.59
+(X)		Life in the Roman Army	0	1215.67	5.2	77.23
+(X)		Napoleon	0	1578.17	5.2	77.23
+(X)		Popes and Kings in the Middle Ages	0	1352.33	4.6	84.27
+(X)		Searching for El Dorado	0	618.50	4.4	84.78
+(X)		Space Exploration	0	812.33	7.2	72.16
+(X)		Tea and Wars	0	820.17	6.2	74.69
+(X)		The Agricultural Revolution	0	789.17	6.5	73.98
+(X)		The Battle of Salamis	0	847.50	4.8	83.76
+(X)		The Birth of the United States of America	0	1017.33	6.8	73.07
+(X)		The British Empire, Then and Now	0	837.17	9.8	59.94
+(X)		The Cold War	0	1474.50	7.4	71.55
+(X)		The Crusades	0	1106.67	6.6	73.68
+(X)		The First Democracies	0	1528.33	8.8	62.58
+(X)		The French Revolution	0	1074.33	5.5	76.42
+(X)		The Great Depression	0	1545.17	5.6	76.22
+(X)		The Great Plague	0	1325.50	5.2	82.65
+(X)		The Great Plane Race	0	1287.50	6.1	80.41
+(X)		The Great Wall of China	0	700.83	6.1	80.31
+(X)		The History of Printing	0	932.83	6.4	74.29
+(X)		The History of Transportation	0	1568.17	7.4	71.55
+(X)		The Industrial Revolution	0	764.67	7.5	71.24
+(X)		The Invention of Writing	0	559.50	5.6	76.22
+(X)		The Magic of Numbers	0	667.67	4.7	83.86
+(X)		The Making of a United Europe	0	778.17	6.6	73.58
+(X)		The Medical Revolution	0	1310.83	7.0	72.56
+(X)		The Mughal Empire	0	1343.83	7.2	71.95
+(X)		The Neo-Assyrian Empire	0	829.67	7.8	70.53
+(X)		The Neo-Babylonian Empire	0	1220.17	5.2	82.54
+(X)		The Ottomans and Their Empire	0	730.67	4.2	85.28
+(X)		The Persian Empire	0	622.67	5.7	81.43
+(X)		The Pilgrim Fathers	0	594.00	6.7	73.37
+(X)		The Rise and Fall of Communism	0	835.00	8.4	63.59
+(X)		The Spanish Conquest of the Americas	0	966.17	5.8	75.81
+(X)		The Story of the Reformation	0	1469.00	5.6	76.11
+(X)		The Story of the Renaissance	0	1466.00	5.8	75.61
+(X)		The Tower of Babel	0	560.17	4.7	84.07
+(X)		The Trojan War	0	1111.67	3.6	92.22
+(X)		The Vikings and Erik the Red	0	950.17	4.3	84.98
+(X)		The War Between the States	0	673.50	3.5	87.11
+(X)		Traveling on the Silk Road	0	577.33	4.0	85.79
+(X)		Tutankhamun	0	1429.33	6.5	73.98
+(X)		Wars in the Middle East	0	804.00	7.3	71.85
+(X)		World War I	0	1536.67	4.1	85.59
+Sunshine Books
+	Sunshine Books
+(X)		Along Comes Jake	0	72.17	-0.5	107.99
+(X)		An Elephant for the Holidays	0	95.50	0.5	105.66
+(X)		Are We There Yet?	0	259.50	0.1	106.77
+(X)		At School	0	19.00	1.0	93.51
+(X)		Aunty Maria and the Cat	0	88.50	-0.2	107.18
+(X)		Did You Know?	0	386.00	2.2	95.98
+(X)		Geckos	0	111.33	-0.2	107.28
+(X)		Going to Lucys House	0	115.50	1.1	104.23
+(X)		Grandmas Birds	0	288.00	2.7	94.66
+(X)		Great Big Spelling Problems	0	263.33	2.0	96.28
+(X)		Hiccups for Hippo	0	104.50	2.4	90.05
+(X)		Horseshoes	0	86.00	1.1	98.72
+(X)		I Go, Go, Go	0	12.67	-1.4	110.43
+(X)		I Like Spinach	0	185.83	0.6	99.94
+(X)		I Like	0	19.33	1.0	93.51
+(X)		Im Bigger Than You!	0	46.00	0.9	99.23
+(X)		In My Home	0	42.83	0.4	100.54
+(X)		In the Middle of the Night	0	246.17	0.9	104.54
+(X)		Just Right!	0	75.17	0.3	111.68
+(X)		Kangaroo	0	106.83	1.9	96.59
+(X)		Letters for Mr James	0	179.17	2.0	96.48
+(X)		Lizards Grandmother	0	309.67	1.7	97.2
+(X)		Look at Me, Mum!	0	24.00	-1.6	116.35
+(X)		Look Out	0	44.00	-0.6	108.4
+(X)		Lucys Rooster	0	136.33	3.1	82.81
+(X)		Magnets	0	214.17	2.3	95.57
+(X)		Mishi-na	0	195.50	2.4	95.27
+(X)		Mrs Pyes Pool	0	138.17	0.5	105.66
+(X)		My Boat	0	107.67	2.0	101.8
+(X)		My Family	0	20.33	1.3	92.9
+(X)		My Granny Rides a Bicycle	0	54.17	0.7	99.73
+(X)		My Superheroes	0	77.50	4.1	80.07
+(X)		Nothing Ever Happens	0	274.83	1.1	98.62
+(X)		Puppy Playtime	0	51.33	1.9	91.27
+(X)		Ratty-tatty	0	159.67	2.4	90.05
+(X)		Sams Mother Comes to School	0	344.33	1.3	98.31
+(X)		Sharks	0	53.00	-0.8	108.9
+(X)		Silver Footprints	0	350.50	0.8	104.84
+(X)		Snoopy the Snail	0	247.17	0.0	106.87
+(X)		Snow World	0	322.67	0.0	106.97
+(X)		Springtime	0	87.83	1.3	98.21
+(X)		Strawberries for Katinka	0	312.33	2.7	89.24
+(X)		Tess and Paddy	0	54.17	0.5	105.66
+(X)		Surf Rescue	0	38.50	-0.9	109.11
+(X)		Tails	0	157.00	1.4	98.01
+(X)		Tess and Paddy	0	205.67	1.2	98.51
+(X)		The Bag of Smiles	0	315.00	1.8	102.41
+(X)		The Barbecue	0	11.67	5.2	82.65
+(X)		The Basketball Game	0	43.33	1.1	98.62
+(X)		The Birthday Cake	0	15.50	6.0	91.45
+(X)		The Boy who Wanted to be Someone	0	276.50	1.0	99.02
+(X)		The Giant Pumpkin	0	194.83	0.4	105.96
+(X)		The Magic Tree	0	63.00	0.8	104.94
+(X)		The Rollercoaster Ride	0	124.00	0.6	100.04
+(X)		The S Party	0	74.50	-0.4	107.89
+(X)		The Seed	0	44.67	2.6	89.34
+(X)		The Terrible Tiger	0	151.33	2.5	89.75
+(X)		The Traveller and the Farmer	0	230.00	1.8	96.99
+(X)		The Walk	0	191.67	0.1	106.77
+(X)		The Week it Rained	0	57.00	1.5	92.29
+(X)		The Whale	0	66.33	0.7	105.15
+(X)		Trees are Special	0	76.83	1.9	96.69
+(X)		Tricking Travis	0	397.50	0.0	106.87
+(X)		Two Stupid Cats	0	113.17	0.5	105.66
+(X)		Wake up, Mum!	0	89.83	0.1	101.46
+(X)		Watch Me! Watch Me!	0	174.83	0.4	105.86
+(X)		What Am I?	0	91.33	-0.5	108.09
+(X)		Where Are You Going, Aja Rose?	0	82.00	-0.3	107.38
+(X)		Where Is My Hat?	0	22.17	-2.1	117.46
+(X)		Where is the Cabbage?	0	135.67	1.8	91.58
+(X)		Wheres Tim?	0	27.17	1.0	98.92
+(X)		Working Dogs	0	342.50	4.1	85.49
+(X)		Zolar and Zina	0	14.83	0.9	93.81
+WAO Corporation
+	WAO Waochi Picture Books
+(X)		A Busy Man	0	38.33	2.1	90.66
+(X)		A Short Trip	0	45.17	2.2	90.46
+(X)		A Summer Day	0	51.33	1.3	98.21
+(X)		A Windy Day	0	53.67	1.0	99.02
+(X)		Antenna	0	65.00	2.0	90.97
+(X)		Dandelion	0	68.17	2.2	90.46
+(X)		Gentleman	0	65.83	2.1	90.87
+(X)		Get	0	45.00	0.9	99.23
+(X)		Go	0	36.50	0.6	99.94
+(X)		Have	0	38.00	0.7	99.73
+(X)		Make	0	50.67	1.0	99.02
+(X)		My Phone	0	43.50	-0.5	108.09
+(X)		Put	0	49.33	1.3	98.11
+(X)		Rice Cake	0	34.83	1.1	98.62
+(X)		Seasonal Delicacies	0	65.00	1.3	98.21
+(X)		See	0	81.50	1.4	97.91
+(X)		Set	0	46.50	0.9	99.12
+(X)		Sports Day	0	45.00	-0.3	107.58
+(X)		Take	0	51.50	0.9	99.12
+Wayzgoose Press
+	Wayzgoose Press
+(X)		After Twenty Years	0	1203.83	3.1	93.64
+(X)		At Work	0	2599.67	1.3	98.21
+(X)		Cecilia's House & The Foraging Class	0	13389.33	1.6	97.4
+(X)		Channel Runner	0	6850.83	3.5	87.21
+(X)		Dead in Dublin	0	12865.83	3.6	86.91
+(X)		Fair Play	0	4306.33	1.2	98.41
+(X)		Folktales	0	10301.33	2.1	96.08
+(X)		Frankenstein	0	10260.83	4.0	85.79
+(X)		Grandads Eleven	0	4506.67	1.5	97.7
+(X)		Humans in Space	0	16085.83	4.9	83.46
+(X)		In Town	0	2706.33	1.1	98.62
+(X)		Interesting People	0	12002.50	3.3	87.72
+(X)		Inventions	0	11415.33	4.3	84.98
+(X)		Lights at Chickasaw Point & The Two Garcons	0	10804.17	1.5	97.6
+(X)		Living at Trace	0	7836.00	1.8	96.89
+(X)		Notable Native Americans	0	13858.33	5.6	76.22
+(X)		Summer in Cimarron & Lunch at the Dixie Diner	0	9949.00	1.8	96.89
+(X)		Take Five	0	9736.67	3.5	87.11
+(X)		The Bee Creek Blues & Meridian	0	8542.67	2.1	96.08
+(X)		The Gift of the Magi	0	1942.83	4.8	83.66
+(X)		The Lady or the Tiger?	0	2342.50	9.3	71.89
+(X)		The Monkey's Paw	0	3675.00	4.8	83.66
+(X)		The Most Dangerous Game	0	6537.67	3.8	86.3
+(X)		The Storm	0	14642.67	2.9	88.53
+(X)		The Visitors	0	21389.83	2.1	96.18
+(X)		The World of Sports	0	13500.83	6.5	73.98
+(X)		Urban Legends	0	13167.17	1.7	97.3
+(X)		Variety Pack/ Readers' Choice (Intermediate)	0	13112.00	4.5	84.57
+(X)		Variety Pack/ Readers' Choice (Low Intermediate)	0	11978.83	3.9	86.1
