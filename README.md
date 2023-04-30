@@ -3,7 +3,7 @@
 
 These are the code files for an analysis of the vocabulary in graded readers, both single-words and multi-word expressions.
 
-### Segmenter.py
+### Corpus Cleaning (Segmenter.py)
 The segmenter.py file runs a script which cleans the files for errors where tokens are not separated properly using the module "segmenter". 
   First, each text file is opened and small issues are cleaned through a REGEX find-and-replace search. These issues included double spaces, lack of a space after punctuation, and stylized fonts being used for the quotation marks. Cleaning these issues first helps the script to parse the text more consistently. 
   Next, each token is isolated along with the context sentence. In this case a token was defined by non-digit characters surrounded by spaces or punctuation. Each token is then quickly checked for its presence in Nation’s BNC/COCA word lists (including the standard lists, proper noun lists, and interjection lists).
@@ -11,13 +11,19 @@ The segmenter.py file runs a script which cleans the files for errors where toke
   The user of the script is then presented with every off-list token and its context sentence, along with three options: (1) Replace the target token with the suggested segmentation, (2) Reject the suggestion and keep the target token if it was judged to be correct (usually proper nouns and foreign language words), and (3) Manually input a replacement for the target token. 
   Each decision is recorded in an external file, which is referenced in every iteration then on for automatic replacements. 
 
-### setup.py
+### Single Word Analyses and Database Setup (setup.py)
 The setup.py file creates and populates the sqlite database used for the single word analyses. It also contains the scripts for the descriptive statistics and creates coverage tables which were used to answer Research Questions 1 through 5. 
 
-### Coverage Data
+### Coverage Data (1_single_word_data_spacy.csv)
 This is the output data file for all 1872 graded readers in the Graded Reader corpus. 
 
-### Looping APA Tables.R
+### Appendix A Table (Appendix_A.txt)
+Basic descriptive info for all books in the Graded Reader Corpus.
+
+### Appendix B Table (Appendix_B.txt)
+Table showing the composition of the Graded Reader Corpus by Publisher and Series.
+
+### Coverage Figure Scripts (Looping APA Tables.R) 
 This script creates coverage tables for all books in the previously described output file based on 90%, 95%, and 98% lexical coverage requirements based on the following word lists: New GSL (Brezina & Gablasova, 2014); NGSL (Browne, et al., 2013); BNC/COCA (Nation, 2020); and the SEWK-J (Mizumoto et al., 2020; Pinchbeck, in preparation). These graphs were used in Chapter 4, "Results of Single Word Analyses".
 
 ### Multi-Word Analyses Setup File
