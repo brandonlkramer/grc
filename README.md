@@ -23,8 +23,15 @@ Basic descriptive info for all books in the Graded Reader Corpus.
 ### Appendix B Table (Appendix_B.txt)
 Table showing the composition of the Graded Reader Corpus by Publisher and Series.
 
+### Appendix D Table (Appendix_D.txt)
+Descriptive table showing the coverage figures for all graded readers in the GRC, organized by publisher and series
+
 ### Coverage Figure Scripts (Looping APA Tables.R) 
 This script creates coverage tables for all books in the previously described output file based on 90%, 95%, and 98% lexical coverage requirements based on the following word lists: New GSL (Brezina & Gablasova, 2014); NGSL (Browne, et al., 2013); BNC/COCA (Nation, 2020); and the SEWK-J (Mizumoto et al., 2020; Pinchbeck, in preparation). These graphs were used in Chapter 4, "Results of Single Word Analyses".
 
-### Multi-Word Analyses Setup File
-coming soon...
+### Data Extraction for Research Question 6 (RQ6_final.ipynb)
+This file extracts all 2-, 3-, 4-, and 5-grams from the corpora which occur over 20 times per million tokens. It does this for the COCA as a whole, the COCA fiction corpus, the GRC, and just the fiction texts within the GRC.
+
+### Data Extraction for Research Questions 7 and 8 (RQ7-8.ipynb)
+This extracts the counts for all PHRASE list items (Martinez & Schmitt, 2012) and PHaVE list items (Garnier & Schmitt, 2015) within the GRC. 
+
