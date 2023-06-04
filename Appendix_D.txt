@@ -1,0 +1,1951 @@
+Publisher	Series	Title	ERF Level	New GSL 95%[Types Needed]	New GSL 98%[Types Needed]	NGSL 95%[Types Needed]	NGSL 98%[Types Needed]	SEWK-J 95%[Types Needed]	SEWK-J 98%[Types Needed]	BNC/COCA 95%[Types Needed]	BNC/COCA 98%[Types Needed]
+Abax
+	Global Issues Narratives
+		Identity: Lost - Tama's Story	3	2007	Off-List[25]	"1,419"	Off-List[2]	"41,680"	"74,656"	1	2
+		Identity: Pride - Hone's Story	3	2155	Off-List[23]	"1,412"	Off-List[3]	"41,680"	"57,392"	2	8
+		Identity: Roots - Kylie's Story	3	1960	Off-List[21]	"1,311"	Off-List[1]	"17,299"	"29,574"	1	2
+		Mine: The Boy - Clem's Story	2	Off-List[2]	Off-List[16]	"1,852"	Off-List[2]	"2,391"	"22,378"	2	3
+		Mine: The Chief - Winnie's Story	2	Off-List[2]	Off-List[14]	"1,714"	Off-List[2]	"4,825"	"12,675"	2	3
+		Mine: The Village - Deepa's Story	2	2304	Off-List[9]	"1,459"	Off-List[2]	"3,462"	"12,675"	2	3
+		Trafficked: Haven - Ruth's Story	2	1470	Off-List[1]	"1,180"	"2,076"	"13,960"	"21,367"	1	3
+		Trafficked: Mission - Magda's Story	2	1687	Off-List[5]	"1,146"	"1,852"	"13,960"	"24,057"	1	2
+		Trafficked: Taken - Anya's Story	2	1878	Off-List[14]	"1,223"	"2,354"	"3,468"	"17,819"	1	2
+Atama-ii Books
+	Atama-ii Books
+		Backstage Pass	1	Off-List[3]	Off-List[8]	"2,586"	Off-List[2]	"2,705"	"16,235"	3	9
+		Brainstorm	1	Off-List[5]	Off-List[12]	Off-List[1]	Off-List[4]	"7,907"	"28,535"	3	8
+		Hunter in the Darkness	1	Off-List[6]	Off-List[17]	"2,688"	Off-List[1]	"2,241"	"3,423"	2	7
+		Journey to Mars	1	Off-List[4]	Off-List[13]	"2,505"	Off-List[5]	"4,282"	"22,266"	4	22
+		Lost Cup_ The	1	2020	Off-List[4]	"1,664"	"2,505"	"2,415"	"16,861"	1	2
+		North Fence_ The	1	Off-List[3]	Off-List[11]	"2,665"	Off-List[2]	"2,014"	"2,592"	2	5
+		Ooze_ The	1	Off-List[9]	Off-List[20]	Off-List[4]	Off-List[11]	"5,122"	"21,412"	5	7
+		Test of Time The	1	Off-List[4]	Off-List[12]	Off-List[1]	Off-List[4]	"3,278"	0[1]	2	Off-List[1]
+		Tornado Alley	1	Off-List[3]	Off-List[13]	"2,225"	Off-List[4]	"5,048"	"12,676"	2	7
+		Zombies in Tokyo	1	Off-List[3]	Off-List[11]	"2,154"	Off-List[1]	"1,408"	"1,703"	2	7
+Cambridge University Press
+	Cambridge English Readers
+		All I Want	5	Off-List[18]	Off-List[202]	"1,865"	Off-List[17]	"3,501"	"14,228"	2	3
+		Amsterdam Connection The 	4	2217	Off-List[81]	"1,612"	Off-List[5]	"2,806"	"13,750"	2	2
+		Apollo's Gold	2	2308	Off-List[23]	"1,451"	Off-List[1]	"2,492"	"7,556"	1	3
+		Arman's Journey	1	1811	Off-List[6]	"1,329"	"2,111"	"1,283"	"11,680"	1	2
+		Bad Company	2	1618	Off-List[23]	"1,106"	"2,653"	"4,022"	"11,210"	2	5
+		Bad Love	2	1400	2438	946	"1,664"	"6,457"	"14,492"	1	2
+		Beast The	3	2189	Off-List[53]	"1,597"	"2,776"	"1,907"	"11,598"	1	2
+		Berlin Express	4	Off-List[9]	Off-List[141]	"1,863"	Off-List[10]	"2,324"	"5,057"	2	4
+		Best of Times? The	5	Off-List[36]	Off-List[358]	"2,124"	Off-List[74]	"3,036"	"10,582"	2	4
+		Big Hair Day	1	1703	Off-List[2]	"1,235"	"1,811"	"1,530"	"11,210"	1	2
+		Big Picture The	2	1878	Off-List[7]	"1,273"	Off-List[2]	"1,396"	"3,815"	2	5
+		Black Pearls The	1	1996	Off-List[5]	"1,257"	Off-List[1]	"4,246"	"12,991"	2	4
+		Blood Diamonds	2	1777	Off-List[6]	"1,510"	Off-List[1]	"4,022"	"23,016"	1	4
+		Book Boy	1	1873	Off-List[6]	"1,101"	"2,361"	"11,565"	"16,528"	1	2
+		Caribbean File The	2	1992	Off-List[12]	"1,393"	"2,331"	"4,379"	"22,167"	2	4
+		Circle Games	2	2314	Off-List[22]	"1,586"	Off-List[1]	"2,988"	"16,581"	1	3
+		Dark Side of the City The	2	2077	Off-List[26]	"1,714"	Off-List[2]	"3,125"	"12,503"	2	5
+		Dead Cold	2	2017	Off-List[20]	"1,440"	"2,669"	"4,607"	"14,696"	2	4
+		Death in Oxford A	1	1554	Off-List[3]	"1,180"	Off-List[1]	"12,883"	"14,322"	1	2
+		Death in the Dojo	5	Off-List[25]	Off-List[242]	"2,001"	Off-List[34]	"3,685"	"11,680"	2	4
+		Different Worlds	2	1855	Off-List[14]	"1,351"	Off-List[2]	"2,492"	"11,548"	1	2
+		Dirty Money	1	Off-List[1]	Off-List[10]	"1,438"	"2,778"	"11,531"	"12,189"	2	3
+		Dolphin Music	5	Off-List[6]	Off-List[122]	"2,187"	Off-List[8]	"3,408"	"11,623"	2	4
+		Don't Stop Now!	2	2011	Off-List[4]	"1,440"	Off-List[2]	"7,662"	"17,829"	2	8
+		Double Bass Mystery The	2	2163	Off-List[16]	"1,391"	Off-List[2]	"4,404"	"12,724"	2	4
+		Double Cross	3	2407	Off-List[67]	"1,663"	Off-List[5]	"3,032"	"23,016"	2	3
+		Dragon's Eggs	5	Off-List[16]	Off-List[219]	"2,109"	Off-List[19]	"2,492"	"8,196"	2	3
+		East 43rd Street	5	Off-List[23]	Off-List[213]	"2,166"	Off-List[35]	"4,466"	"15,450"	3	6
+		Emergency Murder	5	Off-List[9]	Off-List[94]	"2,081"	Off-List[14]	"3,382"	"12,916"	2	4
+		Eye of the Storm The	3	Off-List[6]	Off-List[80]	"2,082"	Off-List[5]	"2,318"	"5,770"	2	4
+		Forget to Remember	5	Off-List[64]	Off-List[334]	"2,617"	Off-List[118]	"7,349"	"14,828"	2	33
+		Frozen Pizza and Other Slices of Life	5	Off-List[33]	Off-List[295]	"2,060"	Off-List[48]	"4,484"	"12,936"	2	4
+		Fruitcake Special and Other Stories The	4	Off-List[3]	Off-List[128]	"1,962"	Off-List[9]	"3,467"	"14,721"	2	3
+		Girl at the Window The	1	1260	Off-List[2]	870	"1,708"	"1,442"	"7,349"	1	2
+		He Knows Too Much	5	Off-List[239]	Off-List[863]	Off-List[4]	Off-List[372]	"5,324"	"13,407"	3	5
+		High Life Low Life	4	Off-List[2]	Off-List[124]	"1,783"	Off-List[12]	"11,531"	"15,890"	2	3
+		Hotel Casanova	2	1864	Off-List[11]	"1,329"	Off-List[1]	"16,613"	"16,680"	2	4
+		House by the Sea The	3	1788	Off-List[19]	"1,240"	"2,139"	"2,342"	"12,602"	1	2
+		How I Met Myself	3	2006	Off-List[35]	"1,383"	Off-List[2]	"1,717"	"7,563"	1	3
+		In the House	4	2456	Off-List[87]	"1,597"	Off-List[4]	"3,108"	"13,836"	2	2
+		In the Shadow of the Mountain	5	Off-List[7]	Off-List[193]	"1,678"	Off-List[11]	"3,621"	"12,772"	2	3
+		Inspector Logan	2	1642	Off-List[7]	"1,250"	Off-List[1]	"13,003"	"14,703"	1	2
+		Ironing Man The	3	2207	Off-List[44]	"1,613"	Off-List[2]	"2,492"	"11,680"	2	6
+		John Doe	2	1271	Off-List[1]	988	"1,861"	"5,874"	"13,944"	1	2
+		Jojo's Story	2	1798	Off-List[10]	"1,376"	"2,280"	"1,410"	"6,404"	1	2
+		Jungle Love	5	Off-List[33]	Off-List[231]	"2,089"	Off-List[34]	"4,113"	"13,007"	2	3
+		Just Like a Movie	2	1842	Off-List[9]	"1,093"	"2,777"	"4,121"	"15,883"	1	2
+		Lady in White The	4	2233	Off-List[65]	"1,512"	Off-List[2]	"2,492"	"5,874"	1	2
+		Lahti File The	3	2456	Off-List[74]	"1,608"	Off-List[5]	"1,937"	"4,253"	1	3
+		Let Me Out!	1	1970	Off-List[2]	"1,438"	Off-List[1]	"5,874"	"17,299"	1	4
+		Logan's Choice	2	1970	Off-List[20]	"1,200"	"2,654"	"11,622"	"14,703"	1	2
+		Man from Nowhere The	2	2373	Off-List[23]	"1,865"	Off-List[2]	"1,809"	"4,601"	2	2
+		Matter of Chance A	4	Off-List[8]	Off-List[131]	"1,825"	Off-List[13]	"2,460"	"8,010"	2	3
+		Murder by Art	5	Off-List[13]	Off-List[115]	"2,617"	Off-List[20]	"2,631"	"13,836"	2	4
+		Murder Maker	5	Off-List[113]	Off-List[479]	"2,529"	Off-List[116]	"3,903"	"13,543"	2	4
+		New Zealand File The	2	1855	Off-List[21]	"1,329"	"2,634"	"1,361"	"3,897"	1	2
+		Next Door To Love	2	1286	Off-List[1]	988	"1,708"	"2,988"	"16,581"	1	4
+		No Place to Hide	3	2117	Off-List[66]	"1,608"	Off-List[2]	"2,988"	"11,531"	2	3
+		Not Above the Law	3	2060	Off-List[61]	"1,436"	Off-List[1]	"3,820"	"14,973"	2	7
+		Nothing but the Truth	4	Off-List[20]	Off-List[164]	"1,912"	Off-List[16]	"11,452"	"15,064"	2	3
+		One Day	2	1682	Off-List[19]	"1,273"	Off-List[1]	"7,349"	"14,721"	1	2
+		Parallel	2	1391	Off-List[1]	"1,025"	"2,169"	"1,981"	"3,721"	2	2
+		Penang FileThe 	1	1541	Off-List[4]	"1,198"	"2,361"	"13,003"	"22,167"	1	2
+		Picture to Remember A	2	2111	Off-List[17]	"1,330"	"2,796"	"2,728"	"19,012"	1	3
+		Puzzle for Logan A	3	2017	Off-List[37]	"1,414"	"2,541"	"5,679"	"14,703"	1	2
+		Solo Saxophone	5	Off-List[47]	Off-List[332]	"2,154"	Off-List[47]	"2,803"	"9,385"	2	3
+		Staying Together	4	Off-List[7]	Off-List[135]	"1,679"	Off-List[12]	"2,098"	"8,907"	1	3
+		Strong Medicine	3	2111	Off-List[40]	"1,590"	Off-List[4]	"2,851"	"14,982"	2	3
+		Tales of the Supernatural	3	2476	Off-List[66]	"1,410"	Off-List[4]	"2,890"	"11,918"	1	3
+		Tangled Web A	5	Off-List[37]	Off-List[308]	"2,204"	Off-List[60]	"3,653"	"13,820"	2	4
+		This Time it's Personal	5	Off-List[105]	Off-List[509]	"2,689"	Off-List[130]	"5,958"	"15,450"	2	4
+		Three Tomorrows	2	1734	Off-List[6]	"1,247"	"2,361"	"1,459"	"5,090"	1	2
+		Two Lives	3	1703	Off-List[25]	"1,011"	"1,812"	"2,551"	"14,234"	1	2
+		University Murders The	4	2117	Off-List[97]	"1,478"	Off-List[1]	"7,120"	"14,703"	2	2
+		Way Home The	5	Off-List[42]	Off-List[360]	"2,104"	Off-List[66]	"3,885"	"13,999"	2	4
+		What a Lottery!	1	Off-List[1]	Off-List[6]	"1,597"	"2,635"	"9,438"	"12,351"	2	3
+		When Summer Comes	4	2418	Off-List[123]	"1,487"	Off-List[1]	"3,134"	"12,442"	1	2
+		Why?	1	1878	Off-List[3]	"1,440"	Off-List[1]	"12,480"	"14,794"	2	5
+		Wild Country	3	2058	Off-List[36]	"1,393"	Off-List[1]	"2,551"	"11,210"	1	2
+		Windows of the Mind	5	Off-List[37]	Off-List[286]	"2,003"	Off-List[37]	"4,089"	"13,792"	2	3
+	Cambridge Experience Readers (formerly Discovery Readers)
+		Alone	3	2440	Off-List[48]	"1,693"	Off-List[6]	"3,531"	"13,836"	2	4
+		Amazing Young Sports People	2	Off-List[19]	Off-List[53]	Off-List[2]	Off-List[13]	"4,750"	"15,211"	4	14
+		Ask Alice	2	1855	Off-List[17]	"1,630"	Off-List[1]	"1,607"	"10,678"	1	2
+		Bullring Kid and Country Cowboy	4	Off-List[11]	Off-List[123]	"2,104"	Off-List[10]	"5,718"	"16,113"	2	3
+		Freddie's War	5	Off-List[66]	Off-List[347]	"2,494"	Off-List[70]	"4,634"	"13,283"	2	4
+		Gone!	1	1917	Off-List[3]	"1,501"	Off-List[1]	"13,747"	"13,747"	2	5
+		Grandad's Magic Gadgets	2	Off-List[12]	Off-List[53]	"2,490"	Off-List[11]	"15,854"	"15,936"	2	5
+		Killer Bees	2	Off-List[1]	Off-List[35]	"1,948"	Off-List[3]	"3,034"	"14,252"	2	2
+		Little Trouble in Amsterdam A	2	2017	Off-List[17]	"1,501"	Off-List[1]	"12,176"	"12,676"	1	2
+		LIttle Trouble in California A	1	1993	Off-List[5]	"1,305"	Off-List[1]	"12,676"	"14,157"	1	4
+		Little Trouble in Dublin A	2	1970	Off-List[8]	"1,608"	Off-List[1]	"12,675"	"12,676"	1	4
+		Little Trouble in the Yorkshire Dales A	3	2153	Off-List[31]	"1,602"	Off-List[1]	"12,675"	"12,676"	2	4
+		Mayor of Casterbridge The	5	Off-List[4]	Off-List[163]	"1,691"	Off-List[7]	"3,123"	"12,499"	2	3
+		Mind Map The	3	Off-List[3]	Off-List[40]	"2,007"	Off-List[6]	"3,561"	"14,742"	2	6
+		New Zealand	2	Off-List[6]	Off-List[77]	"2,226"	Off-List[14]	"3,721"	"20,603"	2	6
+		Parties and Presents: Three Short Stories	2	2457	Off-List[39]	"1,614"	Off-List[3]	"2,492"	"13,283"	1	2
+		Quick Change	1	1481	Off-List[2]	"1,630"	"2,129"	"1,396"	"5,257"	1	2
+		Robinson Crusoe	4	Off-List[3]	Off-List[56]	"1,864"	Off-List[5]	"2,460"	"4,345"	1	2
+		Running Wild	3	2456	Off-List[50]	"1,789"	Off-List[2]	"1,799"	"11,210"	1	2
+		Scotland	3	Off-List[32]	Off-List[168]	"2,617"	Off-List[43]	"9,958"	"18,103"	2	5
+		Summer Sounds	2	2332	Off-List[8]	"1,630"	Off-List[3]	"11,139"	"27,832"	1	4
+		Tales of Terror	3	Off-List[10]	Off-List[94]	"2,136"	Off-List[10]	"2,492"	"7,735"	2	4
+		Tasty Tales	4	Off-List[17]	Off-List[131]	"2,547"	Off-List[24]	"2,990"	"13,629"	2	5
+		Two Worlds	4	2225	Off-List[58]	"1,630"	Off-List[1]	"2,160"	"3,909"	2	3
+		Vinnie's Vacation	2	2217	Off-List[4]	"1,664"	Off-List[1]	"13,691"	"20,264"	2	5
+Cengage / Heinle / National Geographic
+	Footprints Reading Library
+		Adventure Capital of the World The 	3	Off-List[9]	Off-List[38]	Off-List[2]	Off-List[15]	"3,942"	"20,706"	3	33
+		Afghanistans Heroic Artists	5	Off-List[47]	Off-List[128]	Off-List[11]	Off-List[61]	"8,560"	"14,009"	3	13
+		Alaskan Ice Climbing	2	Off-List[6]	Off-List[27]	Off-List[2]	Off-List[13]	"6,962"	"23,613"	3	12
+		Alternative Energy	5	Off-List[32]	Off-List[100]	Off-List[4]	Off-List[41]	"8,073"	"28,225"	4	9
+		Amazing Human Body	5	Off-List[38]	Off-List[95]	Off-List[6]	Off-List[36]	"6,397"	"12,625"	3	4
+		Aquarium on Wheels	4	Off-List[6]	Off-List[48]	"2,440"	Off-List[17]	"4,219"	"9,770"	2	4
+		Arctic Whale Danger!	2	Off-List[7]	Off-List[21]	Off-List[3]	Off-List[7]	"9,491"	"39,223"	4	16
+		Art of Silk Making The	4	Off-List[13]	Off-List[43]	Off-List[7]	Off-List[21]	"7,414"	"19,726"	4	33
+		Beagle Patrol	4	Off-List[19]	Off-List[64]	Off-List[3]	Off-List[20]	"6,008"	"19,113"	3	8
+		Bird Girl	4	Off-List[5]	Off-List[44]	"2,007"	Off-List[8]	"9,700"	"14,740"	2	5
+		Birds in Paradise	3	Off-List[13]	Off-List[44]	Off-List[3]	Off-List[19]	"5,615"	"19,383"	5	33
+		Black Diamonds of Provence The	4	Off-List[23]	Off-List[83]	Off-List[2]	Off-List[29]	"43,041"	"43,041"	10	10
+		Blue Cows?	4	Off-List[3]	Off-List[24]	Off-List[1]	Off-List[6]	"10,612"	"34,669"	3	21
+		Butler School	3	Off-List[2]	Off-List[33]	Off-List[1]	Off-List[10]	"7,550"	"14,162"	4	8
+		Cambodia Animal Rescue	3	Off-List[10]	Off-List[36]	Off-List[1]	Off-List[9]	"3,762"	"13,810"	3	6
+		Canyaking Adventure	5	Off-List[48]	Off-List[153]	Off-List[10]	Off-List[53]	"7,847"	"43,238"	7	33
+		Capoeira: The Fighting Dance	4	Off-List[6]	Off-List[30]	Off-List[1]	Off-List[11]	"12,331"	"44,567"	2	4
+		Cheese-Rolling Races	3	Off-List[3]	Off-List[16]	"2,400"	Off-List[1]	"2,822"	"6,504"	2	3
+		Cheetahs in Focus	4	Off-List[42]	Off-List[123]	Off-List[5]	Off-List[45]	"9,461"	"12,175"	4	10
+		Chinese Artist in Harlem A	4	Off-List[3]	Off-List[33]	"2,165"	Off-List[12]	"8,527"	"15,158"	2	3
+		Chuckwagon Racing	4	Off-List[18]	Off-List[67]	Off-List[5]	Off-List[21]	"9,106"	"32,486"	4	33
+		Columbus & New World	2	Off-List[2]	Off-List[16]	"2,114"	Off-List[3]	"10,125"	"15,301"	3	5
+		Confucianism in China	4	Off-List[5]	Off-List[33]	Off-List[1]	Off-List[12]	"9,141"	"46,229"	3	3
+		Cupid the Dolphin	4	Off-List[9]	Off-List[52]	Off-List[1]	Off-List[13]	"6,987"	"12,966"	4	15
+		Dangerous Dining	3	Off-List[13]	Off-List[47]	Off-List[4]	Off-List[20]	"12,602"	"29,840"	6	24
+		Dinosaur Builder	5	Off-List[36]	Off-List[102]	Off-List[10]	Off-List[51]	"6,521"	"12,526"	4	6
+		Dinosaur Search	3	Off-List[8]	Off-List[27]	Off-List[4]	Off-List[12]	"4,684"	"24,462"	5	33
+		Disappearing World A	3	Off-List[3]	Off-List[15]	"1,990"	Off-List[5]	"5,951"	"21,778"	2	4
+		Don't Believe Your Eyes	2	Off-List[2]	Off-List[19]	Off-List[1]	Off-List[8]	"20,253"	0[1]	5	Off-List[1]
+		Dreamtime Painters	2	Off-List[2]	Off-List[19]	Off-List[1]	Off-List[8]	"12,897"	"59,158"	7	11
+		Exciting Streets of Barcelona The	5	Off-List[31]	Off-List[91]	Off-List[3]	Off-List[36]	"4,835"	"11,543"	3	5
+		Extreme Sky Diving	4	Off-List[26]	Off-List[104]	Off-List[6]	Off-List[30]	"6,644"	"16,308"	4	18
+		Farley the Red Panda	3	Off-List[5]	Off-List[27]	Off-List[1]	Off-List[9]	"4,596"	"35,914"	4	20
+		Firewalking	5	Off-List[50]	Off-List[135]	Off-List[8]	Off-List[57]	"7,456"	"26,448"	3	14
+		Flying Pumpkins	3	Off-List[15]	Off-List[44]	Off-List[2]	Off-List[14]	"4,057"	"16,311"	4	8
+		Future of a Village	2	Off-List[1]	Off-List[8]	"2,054"	Off-List[1]	"3,877"	"6,006"	2	3
+		Gauchos of Argentina The	4	Off-List[39]	Off-List[115]	Off-List[10]	Off-List[54]	"13,670"	"61,596"	5	33
+		Giant Cave Crocs!	4	Off-List[19]	Off-List[74]	Off-List[2]	Off-List[14]	"3,548"	"22,660"	7	33
+		Giant's Causeway The	2	Off-List[7]	Off-List[25]	Off-List[3]	Off-List[12]	"18,057"	"51,718"	4	11
+		Gliding Across the Gobi	4	Off-List[7]	Off-List[47]	"2,431"	Off-List[11]	"3,302"	"20,366"	2	6
+		Gorilla Watching Tours	3	Off-List[1]	Off-List[19]	Off-List[1]	Off-List[5]	"2,682"	"17,567"	8	9
+		Great Kite Fight The	4	Off-List[31]	Off-List[114]	Off-List[1]	Off-List[25]	"3,998"	"7,789"	6	6
+		Happy Elephants	2	Off-List[4]	Off-List[19]	Off-List[1]	Off-List[5]	"2,639"	"6,499"	2	5
+		Hidden Treasures of Egypt The	5	Off-List[42]	Off-List[118]	Off-List[7]	Off-List[44]	"11,009"	"22,864"	4	7
+		How's the Weather?	4	Off-List[21]	Off-List[55]	Off-List[4]	Off-List[26]	"4,935"	"9,412"	3	10
+		Killer Bees	3	Off-List[14]	Off-List[52]	Off-List[5]	Off-List[21]	"7,654"	"15,900"	3	19
+		King of the Spiders The	5	Off-List[52]	Off-List[140]	Off-List[10]	Off-List[58]	"8,726"	"12,554"	5	14
+		Knife Markets of Sanaa The	3	Off-List[12]	Off-List[36]	Off-List[4]	Off-List[19]	"5,165"	0[1]	4	Off-List[1]
+		Koalas	5	Off-List[33]	Off-List[99]	Off-List[6]	Off-List[47]	"9,179"	"15,749"	7	15
+		Last of the Cheju Divers The	3	Off-List[4]	Off-List[15]	Off-List[2]	Off-List[7]	"3,756"	"19,534"	2	33
+		Life of a Geisha The	4	Off-List[18]	Off-List[70]	Off-List[1]	Off-List[22]	"9,138"	"19,478"	3	14
+		Life on the Orinoco	2	Off-List[7]	Off-List[22]	Off-List[1]	Off-List[11]	"10,125"	"54,689"	3	7
+		Living in the Slow Lane	5	Off-List[48]	Off-List[118]	Off-List[7]	Off-List[61]	"8,233"	"28,023"	3	6
+		Living With a Volcano	3	Off-List[6]	Off-List[26]	Off-List[3]	Off-List[11]	"6,398"	"23,274"	4	6
+		Lost City of Machu Picchu The	2	2314	Off-List[6]	"1,484"	"2,625"	"3,004"	"4,499"	2	3
+		Lost Temples of the Maya The	4	Off-List[16]	Off-List[53]	Off-List[3]	Off-List[19]	"15,537"	"26,680"	5	24
+		Making a Deal 	3	Off-List[16]	Off-List[48]	Off-List[4]	Off-List[19]	"5,165"	"51,370"	3	19
+		Making a Thai Boxing Champion	3	Off-List[5]	Off-List[21]	"2,444"	Off-List[7]	"5,454"	"35,820"	3	6
+		Mars on Earth	5	Off-List[40]	Off-List[129]	Off-List[5]	Off-List[63]	"7,847"	"20,658"	4	6
+		Memory Man The 	3	Off-List[1]	Off-List[18]	"1,643"	Off-List[6]	"7,767"	"21,519"	2	3
+		Missing Snows of Kilimanjaro The	3	Off-List[6]	Off-List[30]	Off-List[1]	Off-List[13]	"7,210"	"18,878"	3	6
+		Monkey Party	2	Off-List[1]	Off-List[11]	Off-List[1]	Off-List[5]	"3,216"	"19,992"	2	6
+		Mount Fuji	4	Off-List[11]	Off-List[53]	"2,763"	Off-List[26]	"4,758"	"13,001"	2	6
+		Mysterious Crop Circles	4	Off-List[13]	Off-List[60]	"2,310"	Off-List[16]	"5,324"	"12,458"	3	3
+		Natacha's Animal Rescue	5	Off-List[54]	Off-List[165]	Off-List[9]	Off-List[73]	"6,001"	"13,696"	4	10
+		Night Hunt	3	Off-List[14]	Off-List[45]	Off-List[6]	Off-List[16]	"12,350"	0[1]	11	Off-List[1]
+		Olympians The	4	Off-List[16]	Off-List[45]	Off-List[1]	Off-List[12]	"5,415"	"29,906"	3	8
+		One Boy's Journey 	3	Off-List[6]	Off-List[22]	Off-List[1]	Off-List[10]	"4,055"	"15,502"	3	7
+		One Village Makes a Difference 	3	Off-List[8]	Off-List[41]	Off-List[1]	Off-List[17]	"6,431"	"16,019"	4	7
+		One Woman's Choice	4	2478	Off-List[30]	"1,747"	Off-List[6]	"5,747"	"20,978"	3	17
+		Opal Town The	4	Off-List[19]	Off-List[74]	Off-List[2]	Off-List[22]	"6,087"	"7,976"	4	11
+		Orangutan Language	4	Off-List[7]	Off-List[35]	Off-List[1]	Off-List[8]	"5,586"	"12,951"	3	12
+		Orient Express	5	Off-List[38]	Off-List[121]	Off-List[5]	Off-List[57]	"7,187"	"11,918"	4	6
+		Para-Life Rescue	4	Off-List[18]	Off-List[69]	Off-List[2]	Off-List[22]	"10,599"	"51,490"	3	33
+		Perfect Swarm The	5	Off-List[75]	Off-List[182]	Off-List[15]	Off-List[82]	"10,352"	"20,389"	5	10
+		Peruvian Weavers	3	Off-List[8]	Off-List[27]	Off-List[2]	Off-List[11]	"7,061"	"40,710"	3	6
+		Polar Bears in Trouble	4	Off-List[24]	Off-List[81]	Off-List[1]	Off-List[24]	"4,754"	"9,106"	3	5
+		Puffin Rescue!	3	Off-List[3]	Off-List[20]	Off-List[1]	Off-List[5]	"3,854"	0[1]	4	Off-List[1]
+		Real Winner A	3	Off-List[9]	Off-List[48]	"2,261"	Off-List[13]	"3,839"	"12,123"	3	13
+		Red Devils	5	Off-List[53]	Off-List[148]	Off-List[7]	Off-List[49]	"7,564"	"18,525"	5	8
+		Saving the Amazon Together	5	Off-List[46]	Off-List[153]	Off-List[6]	Off-List[73]	"7,265"	"17,977"	3	6
+		Saving the Pandas!	4	Off-List[15]	Off-List[48]	Off-List[3]	Off-List[19]	"5,421"	"13,043"	5	9
+		Shark Alley	4	Off-List[24]	Off-List[89]	Off-List[4]	Off-List[27]	"4,999"	"12,323"	5	5
+		Snake Detective	5	Off-List[43]	Off-List[138]	Off-List[4]	Off-List[51]	"9,517"	"15,988"	3	7
+		Snow Magic!	2	Off-List[3]	Off-List[16]	"2,473"	Off-List[3]	"2,690"	"14,177"	2	5
+		Solar Cooking	4	Off-List[10]	Off-List[49]	Off-List[2]	Off-List[16]	"5,104"	"16,180"	3	5
+		Spacewalk	5	Off-List[48]	Off-List[99]	Off-List[11]	Off-List[51]	"6,178"	"12,432"	4	7
+		Special Kind of Neighborhood A	3	2253	Off-List[16]	"1,692"	Off-List[6]	"10,125"	"29,301"	2	4
+		Story of the Hula	2	Off-List[6]	Off-List[19]	Off-List[2]	Off-List[7]	"14,774"	"15,330"	3	14
+		Taiko Master	3	Off-List[10]	Off-List[33]	Off-List[3]	Off-List[10]	"11,918"	0[1]	2	Off-List[1]
+		Three Rivers of Zambia The	4	Off-List[14]	Off-List[49]	"2,764"	Off-List[15]	"4,046"	"12,400"	3	33
+		Tornado Chase	4	Off-List[11]	Off-List[61]	Off-List[1]	Off-List[18]	"4,897"	"9,967"	3	7
+		Varied Cultures of China The	5	Off-List[24]	Off-List[89]	Off-List[1]	Off-List[45]	"6,510"	"11,881"	3	5
+		Volcano Trek	2	Off-List[6]	Off-List[17]	Off-List[4]	Off-List[11]	"7,259"	"11,916"	6	6
+		Water Sports Adventure	3	Off-List[8]	Off-List[28]	"2,664"	Off-List[7]	"3,647"	"16,451"	2	6
+		Wild Animal Town	4	Off-List[20]	Off-List[64]	Off-List[3]	Off-List[31]	"3,252"	"9,625"	2	10
+		Wild Animal Trackers	3	Off-List[5]	Off-List[23]	"2,726"	Off-List[7]	"7,564"	"41,837"	3	33
+		Wind Power	3	Off-List[1]	Off-List[17]	Off-List[1]	Off-List[6]	"8,073"	"11,548"	3	6
+		Young Riders of Mongolia The	2	Off-List[6]	Off-List[22]	Off-List[1]	Off-List[9]	"3,278"	"30,080"	2	9
+		Zoo Dentists	4	Off-List[10]	Off-List[44]	Off-List[2]	Off-List[14]	"6,457"	"15,266"	3	5
+	Foundations Reading Library
+		Bad Dog? Good Dog!	1	1778	2441	924	"1,867"	"24,894"	"24,894"	17	17
+		Bear's Mouth The 	1	Off-List[1]	Off-List[7]	"2,194"	"2,587"	"10,610"	"12,323"	2	2
+		Big Test The 	1	1983	Off-List[5]	988	"1,419"	"12,323"	"13,130"	1	1
+		Boys vs. Girls	1	Off-List[3]	Off-List[11]	"2,082"	Off-List[2]	"5,613"	"11,210"	1	2
+		Cave The 	1	1983	Off-List[2]	988	Off-List[1]	"2,705"	"10,610"	1	4
+		Do I Tell?	1	1577	Off-List[2]	924	"1,417"	"5,613"	"11,778"	1	1
+		Do It!	2	Off-List[1]	Off-List[7]	"1,664"	Off-List[1]	"9,406"	"12,323"	1	2
+		Does He Love Me?	1	2119	Off-List[10]	"1,343"	Off-List[1]	"12,480"	"13,944"	1	4
+		Get the Ball!	1	1983	Off-List[3]	"1,199"	"1,728"	"12,480"	"13,944"	1	2
+		Go Jimmy Go!	1	Off-List[1]	Off-List[6]	"1,417"	Off-List[1]	"13,172"	"13,172"	1	2
+		Golden Monkey The 	2	2048	Off-List[7]	"1,635"	Off-List[1]	"10,610"	"13,043"	2	3
+		Good Friend A	1	2057	Off-List[6]	"1,106"	"1,977"	"9,406"	"12,446"	1	1
+		Goodbye Hello!	1	1788	Off-List[1]	924	"1,708"	"12,480"	"12,480"	1	1
+		Helping Hand A	1	2057	Off-List[7]	"1,378"	"1,977"	"1,733"	"10,610"	1	2
+		I Always Win!	1	2057	Off-List[4]	"1,186"	"1,977"	"12,323"	"12,323"	1	2
+		I Spy	1	2057	Off-List[2]	"1,395"	"1,977"	878	"1,695"	1	2
+		Kung Fu  Kid	1	1788	Off-List[1]	765	"1,419"	"11,778"	"46,988"	1	12
+		Let's Party!	2	1983	Off-List[9]	"1,050"	"2,129"	"12,323"	"13,944"	1	1
+		Lost at Sea	1	Off-List[2]	Off-List[10]	"1,412"	Off-List[1]	"1,695"	"9,243"	1	4
+		Lost Wallet The 	1	1993	Off-List[4]	"1,106"	Off-List[1]	"12,446"	"13,130"	1	5
+		Love Online	2	2015	Off-List[5]	988	"1,824"	"11,778"	"12,351"	1	2
+		My Mom the Movie Star	2	1931	Off-List[6]	"1,106"	"2,129"	"11,210"	"13,130"	1	2
+		Mystery on the Island	1	1864	Off-List[3]	"1,193"	"1,429"	"1,935"	"10,610"	1	1
+		New Guitar The 	1	Off-List[1]	Off-List[2]	"2,586"	"2,586"	"2,544"	"12,446"	3	3
+		No You Can't!	1	Off-List[1]	Off-List[8]	Off-List[1]	Off-List[2]	"2,827"	"3,442"	1	33
+		Old Boat New Boat	1	1864	Off-List[1]	"1,302"	"1,302"	"10,610"	"12,323"	1	1
+		Old Promise The 	1	1272	Off-List[3]	783	"1,635"	"11,210"	"11,210"	1	2
+		Quick Thinking	1	1904	Off-List[2]	"1,250"	"1,389"	"5,874"	"10,610"	1	1
+		Quiz Night	1	1569	Off-List[3]	924	"1,932"	"5,874"	"11,210"	1	2
+		Rain Rain Rain!	1	2057	Off-List[1]	"1,230"	"2,082"	573	901	1	2
+		Sarah's Surprise	1	Off-List[1]	Off-List[3]	"2,386"	Off-List[1]	"12,351"	"12,351"	1	4
+		Secret Tunnel The 	2	Off-List[1]	Off-List[8]	"1,412"	Off-List[2]	"5,489"	"10,610"	1	3
+		Shipwreck The 	1	Off-List[4]	Off-List[14]	Off-List[1]	Off-List[3]	"5,874"	"10,610"	2	5
+		Singer Wanted	1	Off-List[1]	Off-List[4]	"1,287"	"2,180"	"1,405"	"13,944"	1	2
+		Sk8 for Jake	1	Off-List[2]	Off-List[7]	"1,824"	Off-List[2]	"13,947"	"20,513"	2	5
+		Slam Dunk for Mark	1	Off-List[2]	Off-List[11]	"1,708"	Off-List[1]	"1,159"	"1,897"	1	2
+		Think Daniela!	1	Off-List[3]	Off-List[9]	"1,789"	Off-List[2]	"1,255"	"3,242"	1	2
+		Tickets The 	1	1811	Off-List[4]	"1,250"	Off-List[3]	"13,944"	"13,944"	2	33
+		Trouble at Sea	1	2038	Off-List[5]	"1,302"	"1,811"	"2,492"	"10,610"	1	1
+		Trouble at the Zoo	1	Off-List[4]	Off-List[9]	"2,058"	Off-List[1]	"13,944"	"13,944"	2	9
+		Where's Lorena?	1	2492	Off-List[8]	"1,318"	"2,129"	"12,480"	"12,480"	1	1
+		Who's Best?	1	1336	Off-List[3]	924	"1,824"	"12,991"	"12,991"	1	1
+	Page Turners
+		400 The	2	2156	Off-List[16]	"1,340"	Off-List[1]	"15,883"	"16,379"	3	12
+		All About the Music	2	1599	Off-List[15]	"1,059"	"1,983"	"2,561"	"25,466"	1	2
+		All or Nothing	2	1286	Off-List[3]	774	"1,584"	"2,890"	"11,491"	3	4
+		Angels The	2	2103	Off-List[21]	"1,340"	Off-List[1]	"17,115"	"20,993"	1	3
+		Art of Fear The	4	Off-List[41]	Off-List[240]	"2,237"	Off-List[46]	"5,531"	"14,721"	2	5
+		Bad Blood	4	2007	Off-List[40]	"1,412"	"2,701"	"14,197"	"17,983"	3	8
+		Battle for Big Tree Country	4	Off-List[44]	Off-List[267]	"2,617"	Off-List[57]	"2,492"	"5,844"	2	4
+		Beautiful Game The	1	1906	Off-List[14]	"1,146"	Off-List[1]	"2,291"	"16,676"	1	3
+		Best Friends	3	1788	Off-List[23]	"1,194"	"2,472"	"9,184"	"13,007"	2	8
+		Bigfoot	2	2163	Off-List[14]	"1,483"	"2,719"	"1,450"	"3,368"	1	2
+		Boathouse The	4	Off-List[2]	Off-List[124]	"1,678"	Off-List[1]	"2,620"	"12,103"	2	3
+		Choice The	3	1558	Off-List[18]	"1,089"	"2,076"	"11,531"	"13,133"	1	2
+		Come Home	1	2408	Off-List[10]	"1,257"	Off-List[1]	"11,210"	"46,396"	1	6
+		Control Order 351	4	Off-List[12]	Off-List[192]	"1,965"	Off-List[16]	"9,770"	"12,480"	2	4
+		Danny Dark	3	1878	Off-List[43]	"1,231"	Off-List[1]	"2,300"	"11,191"	1	2
+		Dead Before Midnight	3	1920	Off-List[14]	"1,367"	"2,541"	"5,874"	"10,610"	1	2
+		Deadly Truth	5	Off-List[11]	Off-List[146]	"1,937"	Off-List[6]	"3,759"	"12,351"	2	3
+		Dino Nightmare	2	2190	Off-List[28]	"1,432"	Off-List[1]	"2,935"	"13,506"	1	4
+		Gone	2	1877	Off-List[11]	"1,214"	"2,191"	"1,523"	"3,442"	1	2
+		Hacker	1	1788	Off-List[7]	"1,160"	"2,247"	"3,155"	"11,491"	2	3
+		He's Mine	1	1329	Off-List[6]	932	Off-List[2]	"1,523"	"11,758"	1	2
+		Heart of a Fighter	2	Off-List[4]	Off-List[32]	"1,728"	Off-List[7]	"7,126"	"12,778"	1	4
+		It's Just a Cat	1	1744	Off-List[7]	"1,106"	"2,578"	"12,229"	"13,543"	4	11
+		Joe Faust	4	2478	Off-List[107]	"1,641"	Off-List[5]	"8,809"	"11,531"	2	3
+		Kilimanjaro	3	2007	Off-List[42]	"1,384"	"2,692"	"2,492"	"6,735"	1	2
+		Kitchen Love Story A	2	2455	Off-List[21]	"1,564"	Off-List[1]	"14,459"	"19,551"	2	12
+		Lift The	2	1554	Off-List[10]	"1,165"	"2,627"	"1,355"	"3,546"	1	2
+		Light	3	Off-List[1]	Off-List[57]	"1,742"	Off-List[3]	"2,492"	"19,154"	2	3
+		Long Road to Lucca The	4	Off-List[18]	Off-List[152]	"2,127"	Off-List[8]	"2,654"	"10,610"	2	3
+		Man from the Sky The	3	1769	Off-List[22]	"1,423"	"2,371"	"1,982"	"10,424"	1	2
+		Mercy Killer	4	Off-List[2]	Off-List[79]	"1,778"	Off-List[6]	"5,436"	"13,075"	2	3
+		Nature	3	1765	Off-List[10]	"1,396"	"2,415"	"2,143"	"15,173"	1	2
+		New Song for Nina A	3	Off-List[1]	Off-List[79]	"1,824"	Off-List[10]	"7,781"	"15,301"	2	4
+		Oscar's Journey	5	Off-List[73]	Off-List[385]	"2,386"	Off-List[76]	"7,686"	"13,338"	2	6
+		Picture in the Attic The	3	1683	Off-List[10]	"1,378"	"2,654"	"1,630"	"12,916"	1	2
+		Resistance	4	Off-List[2]	Off-List[69]	"1,855"	Off-List[4]	"3,252"	"10,674"	2	3
+		Reunited	4	Off-List[2]	Off-List[92]	"1,683"	Off-List[1]	"12,079"	"42,974"	1	2
+		Road Trip	1	1962	Off-List[8]	"1,329"	"2,285"	"14,160"	"17,115"	2	4
+		Roommates	1	2115	Off-List[14]	"1,235"	Off-List[1]	"12,229"	"12,229"	11	11
+		Running Free	2	1681	Off-List[14]	"1,160"	"2,023"	"11,937"	"13,358"	1	2
+		Samurai	4	Off-List[9]	Off-List[136]	"1,799"	Off-List[9]	"4,115"	"34,652"	2	3
+		Second Chances	2	1619	Off-List[6]	"1,198"	"2,247"	"5,874"	"11,482"	1	2
+		Secret Beach The	2	2038	Off-List[17]	"1,295"	"2,654"	"2,006"	"16,301"	1	2
+		Soccer Crazy	1	2082	Off-List[7]	"1,760"	Off-List[1]	"1,754"	"11,139"	2	4
+		Somebody Better	1	1485	Off-List[2]	924	"2,617"	"1,557"	"13,944"	1	2
+		The Stranger	5	2407	Off-List[94]	"1,664"	Off-List[2]	"2,810"	"7,640"	2	2
+		Three Tales of Deadly Desire	3	Off-List[1]	Off-List[25]	"1,705"	Off-List[1]	"5,698"	"16,330"	2	4
+		Trust	2	1956	Off-List[15]	"1,421"	"2,476"	"2,492"	"11,352"	2	3
+		Yellow Field The	4	Off-List[3]	Off-List[80]	"1,823"	Off-List[6]	"3,410"	"24,065"	2	3
+		You Just Don't Know Her	1	1336	Off-List[7]	995	"2,691"	"3,131"	"17,115"	4	11
+Collins
+	Amazing People
+		Amazing Architects and Artists	3	2483	Off-List[73]	"1,754"	Off-List[19]	"5,454"	"14,714"	2	3
+		Amazing Aviators	3	Off-List[6]	Off-List[70]	"2,167"	Off-List[17]	"6,504"	"13,149"	3	6
+		Amazing Composers	3	Off-List[4]	Off-List[49]	"2,190"	Off-List[7]	"5,915"	"18,047"	3	5
+		Amazing Entrepreneurs and Business People L4	4	Off-List[11]	Off-List[184]	"2,214"	Off-List[49]	"4,607"	"12,499"	3	4
+		Amazing Explorers	3	Off-List[20]	Off-List[122]	"2,194"	Off-List[28]	"7,524"	"20,706"	2	4
+		Amazing Inventors	2	Off-List[2]	Off-List[40]	"1,878"	Off-List[6]	"3,179"	"11,064"	2	4
+		Amazing Leaders L4	4	Off-List[35]	Off-List[228]	"2,423"	Off-List[69]	"10,674"	"18,740"	3	4
+		Amazing Performers L1	2	1962	Off-List[22]	"1,376"	"2,586"	"2,947"	"14,327"	2	3
+		Amazing Philanthropists	3	Off-List[5]	Off-List[106]	"1,914"	Off-List[19]	"5,022"	"13,283"	2	4
+		Amazing Scientists 4	4	Off-List[59]	Off-List[288]	Off-List[2]	Off-List[96]	"6,644"	"19,120"	3	5
+		Amazing Scientists L3	3	Off-List[29]	Off-List[122]	Off-List[2]	Off-List[43]	"10,115"	"17,763"	3	6
+		Amazing Thinkers and Humanitarians	4	Off-List[27]	Off-List[233]	"2,423"	Off-List[53]	"5,315"	"12,574"	3	3
+		Amazing Women	2	2096	Off-List[26]	"1,496"	Off-List[1]	"4,777"	"13,724"	2	3
+		Amazing Writers L3	3	Off-List[2]	Off-List[81]	"1,948"	Off-List[14]	"10,115"	"16,486"	2	4
+		Amazing Writers L4	4	Off-List[14]	Off-List[203]	"2,122"	Off-List[46]	"7,563"	"14,893"	2	4
+Compass
+	Classic Readers (Compass)
+		20000 Leagues under the Sea	5	Off-List[36]	Off-List[167]	Off-List[1]	Off-List[41]	"8,663"	"23,016"	3	9
+		Adventures of Tom Sawyer The	4	Off-List[7]	Off-List[59]	"2,082"	Off-List[12]	"11,531"	"12,602"	2	5
+		Aesop's Fables	3	Off-List[12]	Off-List[36]	Off-List[2]	Off-List[15]	"2,302"	"4,486"	2	6
+		Alice in Wonderland	4	Off-List[1]	Off-List[56]	"1,874"	Off-List[4]	"2,361"	"6,324"	2	5
+		Anne of Green Gables	4	2457	Off-List[75]	"1,544"	Off-List[5]	"12,960"	"16,475"	1	3
+		Arabian Nights The	4	Off-List[8]	Off-List[30]	Off-List[2]	Off-List[8]	"2,694"	"8,298"	2	9
+		Around the World in Eighty Days	5	Off-List[17]	Off-List[121]	"1,983"	Off-List[16]	"4,639"	"11,886"	2	4
+		Black Beauty	3	Off-List[2]	Off-List[22]	"1,911"	Off-List[5]	"6,737"	"14,721"	2	4
+		Christmas Carol A	5	Off-List[6]	Off-List[109]	"1,755"	Off-List[10]	"3,854"	"39,415"	2	3
+		Classic American Short Stories	5	Off-List[103]	Off-List[410]	"2,596"	Off-List[55]	"3,954"	"11,210"	2	4
+		Classic British  Short Stories	5	Off-List[53]	Off-List[330]	"2,400"	Off-List[81]	"3,614"	"11,758"	2	4
+		David Copperfield	5	Off-List[1]	Off-List[127]	"1,708"	Off-List[15]	"11,210"	"31,559"	1	3
+		Doctor Doolittle	3	Off-List[8]	Off-List[41]	"2,535"	Off-List[12]	"2,409"	"9,806"	2	5
+		Dr. Jekyll and Mr. Hyde	5	1920	Off-List[28]	"1,383"	"2,669"	"11,210"	"13,661"	1	2
+		Emperor's New Clothes The	3	Off-List[11]	Off-List[35]	Off-List[2]	Off-List[11]	"2,463"	"3,471"	2	5
+		Favorite Asian Folk Tales	3	Off-List[6]	Off-List[27]	"2,660"	Off-List[9]	"1,875"	"3,902"	2	5
+		Frankenstein	5	2447	Off-List[61]	"1,664"	Off-List[3]	"2,492"	"7,343"	2	3
+		Great Expectations	5	Off-List[4]	Off-List[152]	"1,772"	Off-List[18]	"3,368"	"11,531"	2	3
+		Grimm's Fairy Tales	3	Off-List[7]	Off-List[32]	"2,660"	Off-List[9]	"2,361"	"3,926"	2	4
+		Happy Prince The	3	Off-List[6]	Off-List[38]	Off-List[1]	Off-List[10]	"2,681"	"13,713"	2	4
+		Hound of the Baskervilles The	5	Off-List[21]	Off-List[249]	"2,194"	Off-List[51]	"4,308"	"14,487"	2	4
+		Importance of Being Earnest The	5	Off-List[15]	Off-List[164]	"2,136"	Off-List[27]	"8,573"	"14,515"	2	4
+		Invisible Man The	5	Off-List[40]	Off-List[259]	Off-List[1]	Off-List[67]	"3,572"	"9,406"	2	5
+		Jane Eyre	5	Off-List[8]	Off-List[212]	"1,783"	Off-List[29]	"3,878"	"11,210"	2	3
+		Jungle Book The	3	Off-List[5]	Off-List[26]	Off-List[1]	Off-List[8]	"2,452"	"22,784"	2	5
+		Just So Stories	3	Off-List[15]	Off-List[45]	Off-List[3]	Off-List[16]	"2,492"	"5,687"	4	8
+		King Solomon's Mines	5	Off-List[17]	Off-List[139]	"2,318"	Off-List[27]	"2,526"	"6,697"	2	4
+		Little Women	5	2015	Off-List[46]	"1,486"	"2,795"	"9,406"	"14,252"	1	2
+		Merchant of Venice The	5	2382	Off-List[31]	"1,705"	Off-List[5]	"3,417"	"22,157"	2	4
+		Moby Dick	5	Off-List[89]	Off-List[340]	Off-List[6]	Off-List[116]	"4,178"	"16,486"	4	6
+		Moonstone The	5	Off-List[2]	Off-List[101]	"2,023"	Off-List[15]	"7,987"	"13,003"	2	4
+		More Tales of Mystery and Imagination	5	Off-List[87]	Off-List[353]	"2,398"	Off-List[66]	"3,735"	"10,612"	2	3
+		Nicholas Nickleby	5	2283	Off-List[123]	"1,563"	Off-List[7]	"5,742"	"12,991"	2	3
+		Oliver Twist	5	Off-List[3]	Off-List[71]	"1,714"	Off-List[10]	"12,602"	"25,901"	2	5
+		Peter Pan	4	Off-List[3]	Off-List[78]	"2,160"	Off-List[6]	"5,401"	"9,406"	2	5
+		Phantom of the Opera The	5	Off-List[60]	Off-List[306]	"2,592"	Off-List[54]	"3,865"	"20,049"	2	4
+		Pride and Prejudice	5	2438	Off-List[126]	"1,475"	Off-List[3]	"11,210"	"13,808"	2	2
+		Prisoner of Zenda The	5	Off-List[2]	Off-List[76]	"1,874"	Off-List[8]	"5,141"	"19,752"	2	4
+		Railway Children The	4	Off-List[10]	Off-List[72]	"1,988"	Off-List[13]	"2,492"	"8,605"	2	4
+		Robin Hood	4	Off-List[7]	Off-List[50]	Off-List[1]	Off-List[14]	"5,060"	"9,684"	6	6
+		Robinson Crusoe	5	Off-List[10]	Off-List[82]	"2,194"	Off-List[12]	"2,492"	"4,360"	2	4
+		Romeo and Juliet	5	Off-List[2]	Off-List[34]	"1,590"	Off-List[3]	"3,423"	"15,908"	1	2
+		Secret Garden The	4	2288	Off-List[46]	"1,465"	Off-List[8]	"11,482"	"14,138"	1	4
+		Sense and Sensibility	5	2031	Off-List[72]	"1,348"	Off-List[1]	"9,406"	"22,362"	1	2
+		Shakespeare's Comedies	5	Off-List[3]	Off-List[77]	"2,106"	Off-List[10]	"5,081"	"19,075"	2	3
+		Shakespeare's Tragedies	5	Off-List[19]	Off-List[138]	"2,415"	Off-List[36]	"4,607"	"23,813"	2	5
+		Sherlock Holmes	5	Off-List[17]	Off-List[142]	"2,266"	Off-List[32]	"4,601"	"11,726"	2	4
+		Tale of Two Cities A	5	Off-List[12]	Off-List[156]	"2,058"	Off-List[24]	"5,969"	"12,932"	2	6
+		Tales of Mystery and Imagination	5	Off-List[44]	Off-List[187]	"2,523"	Off-List[33]	"3,595"	"11,700"	2	5
+		Tess of the D'Urbevilles	5	Off-List[31]	Off-List[284]	"2,515"	Off-List[54]	"3,252"	"11,210"	2	4
+		Thirty-Nine Steps The	5	Off-List[2]	Off-List[94]	"1,785"	Off-List[15]	"2,366"	"4,578"	2	3
+		Three Musketeers The	5	Off-List[29]	Off-List[241]	"2,494"	Off-List[49]	"7,708"	"23,210"	3	8
+		Time Machine The	5	Off-List[12]	Off-List[140]	"2,440"	Off-List[30]	"2,492"	"4,238"	2	4
+		Treasure Island	5	Off-List[3]	Off-List[33]	"2,173"	Off-List[6]	"2,694"	"12,788"	2	6
+		Vanity Fair	5	2448	Off-List[100]	"1,663"	Off-List[7]	"4,518"	"12,169"	1	3
+		War of the Worlds The	5	Off-List[133]	Off-List[425]	Off-List[1]	Off-List[77]	"3,862"	"10,252"	2	4
+		White Fang	4	Off-List[4]	Off-List[42]	"2,266"	Off-List[3]	"3,945"	"8,422"	3	8
+		Wind in the Willows The	3	Off-List[1]	Off-List[26]	"2,709"	Off-List[6]	"7,058"	"7,535"	7	7
+		Wizard of Oz The	4	Off-List[10]	Off-List[75]	"2,194"	Off-List[21]	"3,394"	"8,371"	4	17
+		Wuthering Heights	5	Off-List[60]	Off-List[392]	"2,379"	Off-List[129]	"5,834"	"25,638"	2	5
+	Sunshine Readers
+		Along Comes Jake	1	2057	Off-List[1]	"2,129"	"2,129"	"13,947"	"13,947"	1	2
+		At the Zoo	1	Off-List[14]	Off-List[18]	Off-List[12]	Off-List[16]	"13,947"	"21,909"	7	33
+		Baby-Sitters The	1	Off-List[6]	Off-List[9]	Off-List[5]	Off-List[8]	"5,887"	"13,543"	7	8
+		Bag of Smiles The	2	2455	Off-List[2]	"2,337"	Off-List[2]	"1,112"	"1,599"	1	1
+		Bear on the Mountain The	2	Off-List[6]	Off-List[9]	Off-List[2]	Off-List[4]	"1,800"	"1,912"	4	9
+		Boggywooga	2	Off-List[6]	Off-List[15]	Off-List[1]	Off-List[5]	"11,210"	"68,244"	2	Off-List[1]
+		Brutus	2	2189	Off-List[3]	"2,111"	Off-List[1]	"2,562"	"21,095"	2	2
+		Cat and Bird	1	Off-List[1]	Off-List[5]	"2,191"	Off-List[2]	980	"1,746"	2	5
+		Come for a Swim!	1	Off-List[3]	Off-List[6]	"2,129"	Off-List[3]	980	"1,722"	2	2
+		Cooking Pot The	1	Off-List[3]	Off-List[4]	"2,547"	Off-List[1]	"9,406"	"9,406"	1	2
+		Cow in the Hole The	2	Off-List[3]	Off-List[9]	Off-List[2]	Off-List[7]	"2,497"	"5,185"	5	10
+		Dinner Time	1	Off-List[7]	Off-List[11]	Off-List[1]	Off-List[3]	"1,976"	"1,976"	4	11
+		Don't you Laugh at Me!	2	1329	1329	"1,269"	"1,676"	"1,112"	"3,240"	4	9
+		Dr. Sprocket Makes a Rocket	2	Off-List[8]	Off-List[14]	Off-List[6]	Off-List[10]	"11,758"	"68,285"	8	16
+		Dragon The	1	Off-List[8]	Off-List[13]	Off-List[6]	Off-List[11]	"2,400"	0[1]	11	Off-List[1]
+		Elephant Walk	1	Off-List[3]	Off-List[7]	Off-List[2]	Off-List[5]	"2,564"	"5,754"	8	11
+		Footprints on the Moon	2	Off-List[4]	Off-List[7]	Off-List[2]	Off-List[3]	"2,400"	"2,400"	33	33
+		Goodbye Lucy	1	Off-List[2]	Off-List[2]	Off-List[2]	Off-List[2]	"1,228"	0[1]	4	Off-List[1]
+		Grandpa's New Car	2	Off-List[4]	Off-List[6]	Off-List[1]	Off-List[3]	"3,067"	"3,067"	5	5
+		Ha-Ha Powder The	2	Off-List[13]	Off-List[23]	Off-List[4]	Off-List[10]	"2,945"	0[1]	3	5
+		Hundred Hugs A	2	Off-List[4]	Off-List[10]	Off-List[1]	Off-List[6]	"1,299"	"5,301"	4	12
+		I Spy	2	Off-List[1]	Off-List[4]	Off-List[1]	Off-List[2]	"2,156"	"2,492"	4	4
+		Jack and the Giant!	1	Off-List[7]	Off-List[13]	Off-List[2]	Off-List[8]	"1,941"	"4,111"	2	6
+		Juggler The	1	Off-List[1]	Off-List[2]	Off-List[1]	Off-List[1]	"7,776"	"11,033"	6	9
+		Just This Once	2	Off-List[3]	Off-List[7]	Off-List[2]	Off-List[4]	"8,785"	"14,357"	11	11
+		Letters for Mr. James	2	2296	Off-List[1]	"1,641"	Off-List[1]	"11,210"	"11,210"	1	2
+		Magic Machine The	1	Off-List[5]	Off-List[10]	Off-List[3]	Off-List[6]	"1,917"	"2,145"	2	4
+		Magic Tree The	2	Off-List[2]	Off-List[4]	"2,589"	Off-List[1]	"1,218"	"3,233"	6	7
+		Mishi-na	2	Off-List[5]	Off-List[10]	Off-List[3]	Off-List[5]	0[1]	0[1]	5	6
+		Mom's Birthday	2	Off-List[3]	Off-List[9]	Off-List[2]	Off-List[5]	"2,470"	"14,176"	5	33
+		Mom's Diet	2	Off-List[7]	Off-List[13]	Off-List[6]	Off-List[11]	"1,688"	"7,523"	6	7
+		Moon Story	1	Off-List[3]	Off-List[6]	"2,596"	Off-List[1]	980	"1,240"	2	2
+		Mr. Grump	1	Off-List[4]	Off-List[7]	Off-List[3]	Off-List[4]	"16,818"	"16,818"	10	33
+		Mr. Whisper	2	Off-List[2]	Off-List[5]	"2,592"	Off-List[2]	"11,210"	"39,257"	6	Off-List[1]
+		Mrs. Grindy's Shoes	2	Off-List[1]	Off-List[4]	Off-List[1]	Off-List[2]	"9,406"	"9,406"	2	33
+		My Sloppy Tiger	2	Off-List[8]	Off-List[15]	Off-List[4]	Off-List[8]	"2,845"	"4,931"	4	6
+		New Bed A	2	Off-List[2]	Off-List[5]	Off-List[1]	Off-List[3]	"15,816"	"15,816"	2	5
+		Night	1	Off-List[2]	Off-List[5]	"2,596"	Off-List[3]	"1,897"	"2,145"	2	4
+		Nowhere and Nothing	1	1487	Off-List[1]	"2,129"	"2,635"	"1,225"	"1,757"	1	2
+		One thousand Muffins	2	Off-List[6]	Off-List[11]	Off-List[2]	Off-List[7]	"6,369"	"11,210"	9	9
+		Pirate The	2	Off-List[8]	Off-List[13]	Off-List[6]	Off-List[11]	"3,067"	"36,360"	5	11
+		Poor Sore Paw The	2	Off-List[8]	Off-List[10]	Off-List[5]	Off-List[7]	0[1]	0[2]	12	12
+		Quack Quack Quack!	2	Off-List[2]	Off-List[6]	Off-List[1]	Off-List[2]	"4,624"	"4,624"	9	9
+		Ratty-Tatty	2	Off-List[1]	Off-List[3]	"2,182"	Off-List[1]	"41,629"	"41,629"	14	14
+		Sausage The	1	Off-List[9]	Off-List[14]	Off-List[6]	Off-List[11]	"1,917"	"8,785"	5	10
+		Secret of Spooky House The	2	Off-List[13]	Off-List[24]	Off-List[6]	Off-List[17]	"9,406"	"11,210"	7	33
+		Seed The	1	Off-List[3]	Off-List[4]	"1,813"	Off-List[1]	"14,329"	"20,242"	2	5
+		Space Race	2	Off-List[1]	Off-List[6]	Off-List[1]	Off-List[4]	"2,798"	"2,938"	3	7
+		Spider Spider	1	1262	1262	"1,597"	"1,597"	"7,082"	"59,362"	11	17
+		Tess and Paddy	2	Off-List[4]	Off-List[10]	Off-List[2]	Off-List[6]	"45,184"	"45,184"	10	10
+		Tornado	2	Off-List[7]	Off-List[15]	Off-List[4]	Off-List[7]	"5,615"	"5,932"	7	10
+		Traveler and the Farmer The	2	Off-List[8]	Off-List[16]	Off-List[3]	Off-List[8]	"2,159"	"2,302"	2	2
+		Wake up Mom!	1	Off-List[5]	Off-List[7]	Off-List[1]	Off-List[1]	"65,993"	"65,993"	20	20
+		Watching TV	1	Off-List[6]	Off-List[9]	Off-List[3]	Off-List[6]	"2,681"	"4,937"	7	Off-List[1]
+		Whale The	2	Off-List[5]	Off-List[9]	Off-List[3]	Off-List[5]	"2,380"	"4,297"	4	5
+		When Dad went to Playschool	2	Off-List[3]	Off-List[9]	Off-List[1]	Off-List[4]	"1,072"	"4,563"	2	33
+		When the Balloon Went Pop!	2	Off-List[3]	Off-List[6]	"2,225"	Off-List[1]	"1,217"	"9,406"	2	4
+		Where Are You Going Mya Rose?	1	1382	1904	"1,147"	"1,322"	666	666	1	1
+		Where is My Hat?	1	Off-List[5]	Off-List[9]	Off-List[4]	Off-List[8]	"2,100"	"2,380"	6	7
+	Young Learners Classic Readers
+		Barber of Seville The	3	Off-List[1]	Off-List[27]	"1,586"	Off-List[4]	"2,481"	"28,349"	1	2
+		Battle of Red Cliff	3	1864	Off-List[9]	"1,359"	"2,614"	"14,557"	"19,270"	2	5
+		Beauty and the Beast	2	Off-List[4]	Off-List[23]	Off-List[1]	Off-List[8]	"2,159"	"6,386"	4	4
+		Bellerophon & Pegasus	2	Off-List[3]	Off-List[12]	"2,226"	Off-List[3]	"1,460"	"38,209"	2	12
+		Brave Tin Soldier The	2	Off-List[5]	Off-List[11]	Off-List[2]	Off-List[4]	"2,856"	"3,197"	2	3
+		Cinderella	2	Off-List[2]	Off-List[8]	"2,213"	Off-List[1]	"1,102"	"2,248"	1	3
+		Count of Monte Cristo The	3	Off-List[1]	Off-List[22]	"1,832"	Off-List[4]	"2,381"	"14,527"	2	3
+		Daedalus and Icarus	2	Off-List[1]	Off-List[9]	"2,007"	Off-List[3]	"2,492"	"24,032"	2	4
+		Diamonds and Toads	2	Off-List[2]	Off-List[11]	"2,031"	Off-List[5]	"1,626"	"2,617"	2	4
+		Dog of Flanders A	3	Off-List[4]	Off-List[21]	"2,460"	Off-List[7]	"2,391"	"11,210"	2	2
+		Elves & the Shoemaker The	2	2311	Off-List[1]	"2,730"	Off-List[1]	"1,715"	"5,825"	3	33
+		Enchanted Castle The	2	Off-List[4]	Off-List[18]	"2,614"	Off-List[3]	"2,803"	"13,172"	2	2
+		Fairy Gifts	2	Off-List[1]	Off-List[8]	"2,374"	Off-List[3]	"4,180"	"16,316"	2	4
+		Fir Tree The	2	1777	Off-List[3]	"1,419"	Off-List[1]	"3,438"	"13,607"	5	8
+		Fish and the Ring The	2	Off-List[2]	Off-List[16]	"1,451"	Off-List[2]	"2,690"	"14,413"	2	5
+		Gift of the Magi The	3	2371	Off-List[15]	"1,708"	Off-List[2]	"11,548"	"12,909"	2	2
+		Gulliver's Travels	2	1920	Off-List[8]	"1,664"	"2,707"	"1,361"	"2,366"	1	2
+		Hans Brinker	2	Off-List[1]	Off-List[9]	"2,113"	Off-List[1]	"8,605"	"13,713"	2	5
+		Hansel and Gretel	2	Off-List[1]	Off-List[6]	"2,260"	Off-List[2]	"1,471"	"2,467"	1	5
+		Heidi	2	Off-List[3]	Off-List[17]	"2,680"	Off-List[2]	"1,717"	"3,813"	1	4
+		Hollow Needle The	3	Off-List[4]	Off-List[40]	"2,669"	Off-List[11]	"4,899"	"25,636"	2	6
+		How Bear Lost His Tail	2	Off-List[2]	Off-List[8]	"1,948"	"2,537"	"1,068"	"1,068"	2	2
+		How Red Bird Got His Color	2	2252	Off-List[2]	"1,911"	Off-List[1]	"1,935"	"8,848"	2	12
+		Hunchback of Notre Dame The	3	Off-List[8]	Off-List[36]	"2,614"	Off-List[10]	"24,234"	"26,816"	3	12
+		Ivan the Fool	2	Off-List[1]	Off-List[12]	Off-List[1]	Off-List[3]	"1,357"	"2,361"	4	4
+		Ivanhoe	3	Off-List[9]	Off-List[34]	Off-List[1]	Off-List[9]	"11,598"	"29,206"	5	6
+		Jack and Magic Beans	2	Off-List[5]	Off-List[13]	"2,589"	Off-List[2]	"1,941"	"2,463"	2	5
+		Journey to the West	3	Off-List[4]	Off-List[19]	"2,574"	Off-List[5]	"3,113"	"10,433"	2	4
+		King Arthur and the Black Knight	3	Off-List[6]	Off-List[21]	Off-List[1]	Off-List[5]	"4,134"	"16,388"	4	5
+		Lady or the Tiger? The	2	Off-List[3]	Off-List[10]	Off-List[2]	Off-List[4]	"2,491"	"3,554"	3	4
+		Last Leaf The	3	Off-List[2]	Off-List[32]	"1,861"	Off-List[6]	"2,492"	"6,878"	2	4
+		Last Lesson The	3	2117	Off-List[17]	"1,438"	Off-List[3]	"3,007"	"11,210"	2	5
+		Legend of Sleepy Hollow The	3	Off-List[1]	Off-List[20]	"1,991"	Off-List[3]	"33,672"	"55,802"	3	11
+		Life and Adventures of Santa Claus The	2	Off-List[1]	Off-List[12]	"1,992"	Off-List[2]	"2,492"	"7,800"	2	4
+		Little Lord Fauntleroy	3	Off-List[2]	Off-List[19]	"2,058"	Off-List[3]	"7,440"	"11,210"	2	4
+		Little Princess The	2	Off-List[11]	Off-List[31]	"2,638"	Off-List[9]	"14,176"	"14,176"	2	4
+		Magic Flute The	3	Off-List[10]	Off-List[30]	"2,688"	Off-List[5]	"1,248"	"2,749"	2	3
+		Magic Swan The	2	Off-List[4]	Off-List[10]	Off-List[1]	Off-List[3]	"3,763"	"8,605"	5	7
+		Nightingale and the Rose The	2	Off-List[3]	Off-List[9]	Off-List[1]	Off-List[2]	"3,866"	"13,509"	4	5
+		Noah's Ark	2	2077	Off-List[5]	"2,226"	"2,272"	"1,557"	"6,320"	1	7
+		Nutcracker The	2	Off-List[5]	Off-List[9]	Off-List[1]	Off-List[3]	"8,670"	"11,210"	2	33
+		Ole-Luk-Oie:Dream God	2	Off-List[10]	Off-List[30]	"2,589"	Off-List[7]	"3,423"	"39,931"	5	8
+		Pinocchio	3	Off-List[7]	Off-List[26]	Off-List[2]	Off-List[7]	"34,303"	"52,490"	2	6
+		Pollyanna	3	Off-List[1]	Off-List[27]	"2,089"	Off-List[5]	"13,293"	"54,498"	1	3
+		Prince and the Pauper The	2	Off-List[5]	Off-List[20]	"2,638"	Off-List[2]	"12,602"	"12,772"	1	2
+		Puss in Boots	2	Off-List[2]	Off-List[9]	"2,280"	Off-List[1]	"29,160"	"29,160"	8	8
+		Sandman The	3	Off-List[1]	Off-List[28]	"1,760"	Off-List[2]	"15,032"	"24,825"	1	3
+		Selfish Giant The	2	Off-List[1]	Off-List[2]	"1,708"	"2,225"	"1,112"	"2,492"	1	2
+		Sleeping Beauty	2	Off-List[8]	Off-List[19]	Off-List[1]	Off-List[4]	"1,677"	"1,717"	2	2
+		Son Who Came Home The	2	Off-List[1]	Off-List[6]	924	"2,516"	847	"1,263"	1	2
+		Three Bears The	2	Off-List[1]	Off-List[4]	"2,289"	Off-List[1]	"1,142"	"38,903"	1	5
+		Three Goats The	2	Off-List[2]	Off-List[3]	Off-List[1]	Off-List[2]	"2,988"	"3,049"	4	8
+		Three Little Pigs The	2	Off-List[3]	Off-List[6]	Off-List[1]	Off-List[2]	"1,661"	"2,987"	2	2
+		Three Sillies The	2	Off-List[6]	Off-List[16]	Off-List[2]	Off-List[9]	"1,717"	"3,896"	3	6
+		Town Mouse and the Country Mouse	2	Off-List[1]	Off-List[4]	"1,924"	Off-List[1]	857	"1,639"	2	2
+		Trojan Horse The	2	Off-List[1]	Off-List[4]	"2,114"	Off-List[1]	"24,503"	"37,698"	1	2
+		Two Frogs	2	Off-List[2]	Off-List[4]	Off-List[1]	Off-List[2]	"1,588"	"1,712"	2	4
+		Two Years' Vacation	3	Off-List[5]	Off-List[37]	"1,997"	Off-List[5]	"2,492"	"11,918"	2	3
+		What Katy Did	3	1877	Off-List[10]	"1,714"	"2,777"	"1,430"	"2,890"	1	2
+		Woodman and the Ax The	2	Off-List[2]	Off-List[5]	Off-List[1]	Off-List[2]	"30,559"	"30,559"	33	33
+e-Future
+	Classic Readers (e-Future)
+		Adventures of Robin Hood The	4	Off-List[26]	Off-List[119]	Off-List[1]	Off-List[17]	"5,060"	"8,607"	4	6
+		Adventures of Sherlock Holmes The	5	Off-List[59]	Off-List[290]	"2,417"	Off-List[48]	"4,562"	"11,210"	2	4
+		Aladdin and the Magic Lamp	3	Off-List[7]	Off-List[21]	Off-List[4]	Off-List[8]	"2,858"	"7,733"	2	9
+		Ali Baba and the Forty Thieves	3	Off-List[15]	Off-List[60]	Off-List[1]	Off-List[14]	"3,201"	"16,102"	2	4
+		Alice in Wonderland	3	Off-List[18]	Off-List[70]	Off-List[2]	Off-List[21]	"3,242"	"13,096"	2	6
+		Anne of Green Gables	5	Off-List[104]	Off-List[374]	"2,693"	Off-List[120]	"12,960"	"17,971"	2	4
+		Ant and the Grasshopper The	1	Off-List[2]	Off-List[4]	"1,718"	Off-List[1]	"4,486"	"4,486"	11	11
+		Apparition of Mrs Veal The	3	Off-List[4]	Off-List[45]	"1,629"	Off-List[7]	"9,406"	"50,111"	2	9
+		Around the World in Eighty days	5	Off-List[56]	Off-List[200]	Off-List[2]	Off-List[55]	"9,410"	"14,752"	3	5
+		As You Like It	4	Off-List[18]	Off-List[124]	"2,764"	Off-List[25]	"8,360"	"19,075"	2	4
+		Bearskin	3	Off-List[3]	Off-List[26]	"1,932"	Off-List[4]	"2,361"	"6,806"	2	4
+		Bearskin The	1	1713	Off-List[3]	"1,366"	Off-List[1]	"3,854"	"24,523"	1	2
+		Beauty and the Beast	3	Off-List[3]	Off-List[19]	Off-List[1]	Off-List[4]	"2,492"	"16,960"	4	4
+		Beginning of the Armadillos The	2	Off-List[7]	Off-List[13]	Off-List[2]	Off-List[5]	"9,501"	"9,501"	8	10
+		Beowulf	3	Off-List[48]	Off-List[135]	Off-List[5]	Off-List[29]	"2,467"	"4,240"	2	4
+		Bird on Its Journey The	3	Off-List[22]	Off-List[103]	"2,508"	Off-List[21]	"3,149"	"5,899"	2	3
+		Black Beauty	4	Off-List[20]	Off-List[105]	"2,191"	Off-List[27]	"3,630"	"11,531"	2	4
+		Boy Who Cried Wolf The /The Lion and the Mouse	2	Off-List[6]	Off-List[16]	Off-List[1]	Off-List[5]	"1,661"	"2,288"	2	2
+		Brave Tin Soldier The	2	Off-List[7]	Off-List[24]	Off-List[1]	Off-List[4]	"2,381"	"2,856"	2	3
+		Buttercup	2	Off-List[7]	Off-List[21]	Off-List[1]	Off-List[9]	"5,112"	"7,799"	7	13
+		Canterville Ghost The	4	Off-List[137]	Off-List[376]	Off-List[4]	Off-List[118]	"4,578"	"10,981"	2	5
+		Chicken Little	2	1718	1832	"1,874"	"2,337"	"6,921"	"8,170"	2	16
+		Christmas Carol A	3	Off-List[1]	Off-List[35]	"1,590"	Off-List[4]	"4,534"	"39,415"	2	2
+		Cinderella	2	Off-List[15]	Off-List[32]	Off-List[6]	Off-List[13]	"4,421"	"12,269"	6	8
+		Cupid the Bad Boy	1	1346	Off-List[1]	"1,001"	"2,601"	"11,210"	"12,966"	4	15
+		Devil and Tom Walker The	3	Off-List[21]	Off-List[86]	Off-List[2]	Off-List[21]	"5,027"	"12,602"	2	4
+		Diamond as Big as the Ritz A	5	Off-List[162]	Off-List[465]	Off-List[2]	Off-List[144]	"5,062"	"10,095"	2	4
+		Diamond Necklace The	3	Off-List[7]	Off-List[47]	"2,290"	Off-List[7]	"3,537"	"27,046"	2	5
+		Doctor Knowall	2	2409	Off-List[1]	"1,305"	"2,638"	"11,210"	"11,758"	1	1
+		Donkey The	2	Off-List[4]	Off-List[8]	Off-List[2]	Off-List[3]	"3,031"	"3,031"	6	6
+		East of the Sun and West of the Moon	2	Off-List[4]	Off-List[8]	Off-List[1]	Off-List[3]	"15,301"	"15,301"	1	2
+		Elephants Child The	3	Off-List[13]	Off-List[42]	Off-List[4]	Off-List[14]	"2,716"	"7,019"	6	9
+		Elixir of Life The	4	Off-List[44]	Off-List[147]	Off-List[1]	Off-List[42]	"5,628"	"13,724"	3	4
+		Elves and the Shoemaker The	2	Off-List[2]	Off-List[4]	Off-List[1]	Off-List[2]	"2,155"	"5,825"	5	33
+		Enchanted Bluff The	3	Off-List[1]	Off-List[39]	"1,783"	Off-List[6]	"2,396"	"6,786"	2	5
+		Fir Tree The	3	Off-List[8]	Off-List[31]	Off-List[1]	Off-List[7]	"5,081"	"13,607"	4	8
+		Firebird The	2	Off-List[4]	Off-List[9]	Off-List[1]	Off-List[3]	"2,369"	"13,530"	2	5
+		Fisherman and His Wife The	1	Off-List[2]	Off-List[6]	Off-List[1]	Off-List[2]	"2,055"	"3,171"	3	33
+		Fisherman and the Genie The	4	Off-List[73]	Off-List[231]	Off-List[5]	Off-List[64]	"4,903"	"8,298"	3	10
+		Four Dragons The	1	Off-List[1]	Off-List[1]	"1,874"	Off-List[1]	"1,002"	"9,692"	2	7
+		Fox and the Cat The	1	1590	Off-List[1]	"1,676"	"1,676"	"1,068"	"1,068"	2	2
+		Fox and the Crow The	1	2441	Off-List[3]	"1,867"	Off-List[1]	"1,129"	"1,950"	2	6
+		Fox and the Grapes The	1	Off-List[2]	Off-List[3]	Off-List[2]	Off-List[3]	"1,418"	"1,723"	5	5
+		Fox and the Stork The	1	Off-List[2]	Off-List[5]	Off-List[2]	Off-List[3]	"18,903"	"18,903"	12	12
+		Frog Prince The	2	Off-List[1]	Off-List[4]	Off-List[1]	Off-List[1]	"1,588"	"1,717"	2	2
+		Gift of the Magi The	3	Off-List[4]	Off-List[29]	"1,861"	Off-List[1]	"3,752"	"12,909"	2	4
+		Gilrays Flowerpot	3	Off-List[1]	Off-List[13]	"1,674"	Off-List[1]	"2,492"	"5,874"	1	2
+		Gingerbread Man The	2	Off-List[1]	Off-List[3]	Off-List[1]	Off-List[2]	"4,189"	"4,189"	33	33
+		Girl and the Pot of Milk The	1	Off-List[1]	Off-List[4]	"2,547"	Off-List[1]	"1,155"	"1,173"	1	2
+		Girl in Red The	1	Off-List[2]	Off-List[3]	Off-List[1]	Off-List[1]	"1,661"	"1,661"	2	2
+		God Sees the Truth but Waits	3	Off-List[5]	Off-List[45]	"2,535"	Off-List[12]	"2,573"	"5,933"	2	4
+		Golden Goose The	2	Off-List[3]	Off-List[11]	Off-List[1]	Off-List[6]	"1,935"	"3,721"	1	4
+		Goldilocks and the Three Bears	2	Off-List[4]	Off-List[10]	Off-List[2]	Off-List[4]	"8,931"	"38,903"	2	33
+		Great Expectations	5	Off-List[34]	Off-List[253]	"2,241"	Off-List[52]	"4,115"	"12,384"	2	4
+		Green Monkey The	1	Off-List[1]	Off-List[4]	"2,589"	Off-List[2]	720	"1,112"	2	2
+		Guilty Secret The	3	Off-List[11]	Off-List[56]	"2,691"	Off-List[10]	"4,216"	"21,925"	2	4
+		Hans in Luck	3	Off-List[13]	Off-List[36]	"2,654"	Off-List[8]	"7,556"	"13,713"	2	5
+		Hansel and Gretel	3	Off-List[9]	Off-List[40]	Off-List[1]	Off-List[11]	"2,467"	"4,421"	2	5
+		Happy Prince The	3	Off-List[3]	Off-List[16]	Off-List[2]	Off-List[4]	"2,062"	"5,451"	2	2
+		Heart of a Monkey The	1	Off-List[1]	Off-List[5]	"1,638"	"2,021"	"1,511"	"1,511"	5	5
+		Heidi	4	Off-List[3]	Off-List[84]	"2,261"	Off-List[10]	"3,053"	"11,210"	2	3
+		Hercules	3	Off-List[6]	Off-List[25]	"2,188"	Off-List[3]	"1,810"	"4,238"	2	3
+		How the Camel Got His Hump	2	Off-List[3]	Off-List[5]	Off-List[2]	Off-List[3]	"6,404"	0[1]	6	15
+		How the Rabbit Loses Her Tail	1	Off-List[3]	Off-List[4]	Off-List[1]	Off-List[2]	898	"1,376"	2	2
+		How the Rhinoceros Got His Skin	2	Off-List[10]	Off-List[19]	Off-List[5]	Off-List[11]	"4,256"	"7,295"	8	11
+		How the Tiger Gets His Stripes	1	Off-List[2]	Off-List[4]	Off-List[1]	Off-List[2]	"1,782"	"2,911"	4	7
+		How the Whale Got His Throat	2	Off-List[9]	Off-List[22]	Off-List[1]	Off-List[3]	"2,380"	"3,504"	4	4
+		Isle of Voices The	4	Off-List[43]	Off-List[195]	"2,754"	Off-List[39]	"2,642"	"7,556"	2	5
+		Jack	1	2441	Off-List[2]	"1,863"	"2,253"	"1,941"	"1,941"	1	2
+		Jack and His Master	3	Off-List[4]	Off-List[21]	"2,494"	Off-List[7]	"2,492"	"6,670"	2	5
+		Jack the Giant-Killer	3	Off-List[19]	Off-List[62]	"2,670"	Off-List[14]	"1,941"	"3,133"	2	4
+		Jane Eyre	5	Off-List[30]	Off-List[223]	"2,059"	Off-List[36]	"5,874"	"11,210"	2	4
+		Jury of Her Peers A	4	Off-List[31]	Off-List[164]	Off-List[1]	Off-List[38]	"9,406"	"14,721"	3	10
+		Kidnapped Santa Claus A	3	Off-List[10]	Off-List[47]	Off-List[2]	Off-List[14]	"10,570"	"12,028"	5	7
+		King and His Clothes The	2	Off-List[1]	Off-List[3]	"2,761"	Off-List[1]	"2,190"	"20,038"	2	3
+		King Frost	2	Off-List[8]	Off-List[20]	Off-List[3]	Off-List[10]	"4,724"	"14,742"	5	5
+		King of the Cats	1	1873	1873	"1,676"	"1,676"	"4,819"	"12,602"	1	12
+		King with the Golden Touch The	1	Off-List[2]	Off-List[6]	Off-List[1]	Off-List[2]	"2,160"	"52,369"	5	24
+		Lady or the Tiger? The	3	Off-List[11]	Off-List[49]	Off-List[2]	Off-List[14]	"3,016"	"5,298"	2	4
+		Language of the Birds The	1	Off-List[1]	Off-List[4]	"1,997"	Off-List[1]	"1,043"	"2,694"	1	2
+		Legend of Sleepy Hollow The	4	Off-List[470]	Off-List[750]	Off-List[165]	Off-List[431]	"7,272"	"20,942"	5	9
+		Life and Adventures of Robinson Crusoe The	4	Off-List[28]	Off-List[159]	"2,239"	Off-List[20]	"3,091"	"5,594"	2	3
+		Lion in Love The	1	Off-List[2]	Off-List[2]	Off-List[1]	Off-List[2]	"1,717"	"5,289"	2	33
+		Little Match Girl The	2	Off-List[5]	Off-List[21]	"2,601"	Off-List[8]	"1,253"	"2,622"	2	3
+		Little Mermaid The	2	2124	Off-List[4]	"1,419"	Off-List[1]	"2,357"	"3,244"	4	9
+		Little Prince The	4	Off-List[24]	Off-List[127]	Off-List[1]	Off-List[24]	"2,098"	"4,552"	2	4
+		Little Princess A	3	Off-List[10]	Off-List[51]	"2,589"	Off-List[12]	"11,210"	"14,176"	2	4
+		Little Red Hen The	1	2467	Off-List[1]	"1,652"	"2,260"	"4,297"	"6,780"	5	7
+		Little Red-Cape	2	Off-List[2]	Off-List[7]	"2,634"	Off-List[3]	"1,733"	"3,279"	2	2
+		Little Women	5	Off-List[38]	Off-List[252]	"2,451"	Off-List[52]	"12,993"	"14,252"	2	3
+		Macbeth	4	Off-List[65]	Off-List[213]	Off-List[2]	Off-List[51]	"3,987"	"13,250"	2	5
+		Magic Swan The	2	Off-List[6]	Off-List[18]	Off-List[1]	Off-List[5]	"3,854"	"8,605"	3	7
+		Man and the Lion The	1	Off-List[2]	Off-List[4]	Off-List[2]	Off-List[4]	"1,352"	"5,489"	2	4
+		Man the Boy and the Donkey The / Androcles and the Lion	2	Off-List[9]	Off-List[20]	Off-List[3]	Off-List[10]	"3,031"	"4,760"	4	6
+		Markheim	4	Off-List[69]	Off-List[230]	"2,669"	Off-List[45]	"3,372"	"5,413"	2	4
+		Martian Odyssey A	4	Off-List[120]	Off-List[351]	Off-List[9]	Off-List[93]	"3,854"	"9,165"	3	5
+		Merchant of Venice The	5	Off-List[13]	Off-List[123]	"2,138"	Off-List[14]	"4,596"	"22,157"	2	4
+		Mice and the Cat The	1	Off-List[1]	Off-List[3]	"1,924"	"2,688"	"1,981"	"13,225"	2	2
+		Momotaro	2	Off-List[3]	Off-List[12]	Off-List[1]	Off-List[3]	"1,910"	"3,113"	2	5
+		Monkey's Paw The	3	Off-List[14]	Off-List[90]	"2,261"	Off-List[14]	"2,578"	"9,406"	2	4
+		Mowgli	4	Off-List[55]	Off-List[218]	Off-List[3]	Off-List[43]	"2,911"	"7,061"	3	5
+		Mr  Lismore and the Widow	4	Off-List[55]	Off-List[231]	"2,463"	Off-List[68]	"4,745"	"10,898"	2	3
+		Murders in Rue Morgue	4	Off-List[74]	Off-List[251]	Off-List[4]	Off-List[76]	"6,262"	"19,477"	3	6
+		Nightingale and the Rose The	3	Off-List[16]	Off-List[53]	Off-List[2]	Off-List[14]	"4,023"	"13,509"	4	6
+		Nutcracker The	3	Off-List[17]	Off-List[60]	Off-List[1]	Off-List[13]	"8,670"	"13,771"	3	33
+		Oblong Box The	3	Off-List[23]	Off-List[109]	"2,505"	Off-List[26]	"3,603"	"8,862"	2	4
+		Occurrence at Owl Creek Ridge An	3	Off-List[28]	Off-List[87]	"2,604"	Off-List[15]	"3,125"	"6,642"	2	4
+		Old Beggar Woman The	2	Off-List[3]	Off-List[8]	Off-List[2]	Off-List[5]	"1,952"	"14,296"	2	2
+		Oliver Twist	4	Off-List[33]	Off-List[181]	"2,322"	Off-List[30]	"13,293"	"13,871"	2	4
+		One-Eye Two-Eyes Three-Eyes	2	Off-List[1]	Off-List[6]	"2,031"	Off-List[4]	"1,102"	"2,150"	2	4
+		Open Boat The	4	Off-List[98]	Off-List[301]	Off-List[5]	Off-List[78]	"5,025"	"14,798"	3	5
+		Origin of Fire The	2	1996	Off-List[3]	"1,243"	"2,021"	"1,068"	"2,463"	2	5
+		Oval Portrait The	2	Off-List[4]	Off-List[18]	"2,461"	Off-List[1]	"1,634"	"2,899"	1	3
+		Perseus	3	Off-List[33]	Off-List[87]	Off-List[4]	Off-List[26]	"3,441"	"24,139"	3	7
+		Peter and the Wolf	1	Off-List[3]	Off-List[5]	Off-List[2]	Off-List[3]	"8,605"	"8,605"	2	2
+		Phantom of the Opera The	4	Off-List[23]	Off-List[105]	"2,528"	Off-List[19]	"6,001"	"21,060"	2	3
+		Pride and Prejudice	4	Off-List[16]	Off-List[150]	"1,912"	Off-List[27]	"12,499"	"17,547"	2	3
+		Prince and the Dragon The	3	Off-List[13]	Off-List[31]	Off-List[3]	Off-List[9]	"1,937"	"4,022"	2	5
+		Prince and the Pauper The	4	Off-List[23]	Off-List[104]	"2,703"	Off-List[23]	"10,415"	"12,772"	2	4
+		Princess and the Pea The	1	Off-List[3]	Off-List[4]	Off-List[2]	Off-List[3]	"1,317"	"1,404"	1	5
+		Princess Bari	2	Off-List[2]	Off-List[10]	"2,150"	Off-List[2]	"1,704"	"2,366"	2	2
+		Purloined Letter The	4	Off-List[10]	Off-List[79]	"2,541"	Off-List[16]	"3,087"	"9,703"	2	5
+		Puss in Boots	2	Off-List[7]	Off-List[23]	"2,670"	Off-List[4]	"29,160"	"29,160"	8	8
+		Pygmalion	3	Off-List[10]	Off-List[85]	"1,998"	Off-List[12]	"4,570"	"11,680"	2	4
+		Rabbit and His Ears The	1	Off-List[2]	Off-List[5]	Off-List[2]	Off-List[4]	"1,276"	"2,150"	4	4
+		Rabbits and the Frogs The	2	Off-List[3]	Off-List[7]	Off-List[2]	Off-List[3]	"1,195"	"1,274"	1	2
+		Railway Children The	4	Off-List[47]	Off-List[245]	"2,592"	Off-List[52]	"4,728"	"12,879"	2	4
+		Ransom of Red Chief The	3	Off-List[37]	Off-List[144]	"2,502"	Off-List[25]	"3,286"	"10,409"	2	4
+		Rapunzel	2	Off-List[2]	Off-List[7]	Off-List[1]	Off-List[2]	"2,467"	"23,124"	1	5
+		Rapunzel	3	Off-List[2]	Off-List[20]	"2,322"	Off-List[2]	"2,492"	"23,124"	2	5
+		Rat Catcher The	1	Off-List[3]	Off-List[5]	"2,709"	Off-List[1]	"1,158"	"2,493"	3	3
+		Red Shoes The	1	Off-List[1]	Off-List[5]	"1,474"	"2,589"	"13,001"	"13,001"	1	2
+		Rikki-Tikki-Tavi	4	Off-List[28]	Off-List[111]	Off-List[1]	Off-List[24]	"6,613"	"26,432"	4	7
+		Rip Van Winkle	3	Off-List[13]	Off-List[63]	"2,215"	Off-List[12]	"4,220"	"7,016"	2	4
+		Romeo and Juliet	4	Off-List[7]	Off-List[56]	"2,636"	Off-List[11]	"10,592"	"18,967"	2	4
+		Rumpelstiltskin	2	Off-List[2]	Off-List[4]	Off-List[1]	Off-List[2]	"2,079"	"37,407"	4	10
+		Sandman The	3	Off-List[20]	Off-List[71]	Off-List[1]	Off-List[23]	"2,504"	"6,272"	2	33
+		Selfish Giant The	3	Off-List[5]	Off-List[37]	"2,225"	Off-List[3]	"1,617"	"3,241"	2	2
+		Service of Love A	3	Off-List[15]	Off-List[73]	"2,260"	Off-List[17]	"5,790"	"20,953"	2	4
+		Six Sillies The	2	Off-List[3]	Off-List[11]	"2,699"	Off-List[3]	"1,404"	"2,313"	2	4
+		Sleeping Beauty	3	Off-List[17]	Off-List[45]	Off-List[5]	Off-List[14]	"2,183"	"5,269"	2	5
+		Sleeping Spell The	1	Off-List[4]	Off-List[9]	"2,670"	Off-List[2]	"1,136"	"1,677"	2	2
+		Snow White	1	Off-List[1]	Off-List[4]	"1,948"	"2,589"	551	655	1	2
+		Snowdrop 40	3	Off-List[5]	Off-List[22]	Off-List[1]	Off-List[5]	"2,927"	"6,880"	2	15
+		Solange	3	Off-List[20]	Off-List[118]	"2,204"	Off-List[22]	"3,447"	"13,003"	2	5
+		Son Who Doesnt Listen The	1	1242	Off-List[1]	687	"1,543"	847	"1,474"	1	1
+		Spring of Youth The	1	1427	1766	"1,330"	"1,330"	709	"1,002"	1	1
+		Star Child The	3	Off-List[13]	Off-List[55]	Off-List[2]	Off-List[17]	"2,142"	"4,422"	2	4
+		Stone Soup	2	Off-List[3]	Off-List[7]	Off-List[2]	Off-List[3]	"1,171"	"10,433"	2	5
+		Story of Doctor Dolittle The	3	Off-List[9]	Off-List[41]	Off-List[1]	Off-List[16]	"4,728"	"11,758"	2	6
+		Strange Case of Dr  Jekyll and Mr Hyde The	4	Off-List[41]	Off-List[273]	"2,440"	Off-List[66]	"7,160"	"12,772"	2	3
+		Sun the Wind and the Moon The	2	Off-List[6]	Off-List[16]	"2,596"	Off-List[3]	"1,717"	"3,914"	2	3
+		Swan Lake 	2	Off-List[4]	Off-List[7]	Off-List[2]	Off-List[3]	"3,103"	"23,885"	5	7
+		Sword in the Stone The	2	Off-List[1]	Off-List[3]	Off-List[1]	Off-List[1]	"6,249"	"16,486"	2	2
+		Tale of Johnny Town-Mouse The	2	Off-List[2]	Off-List[9]	"1,924"	Off-List[4]	"13,358"	"13,358"	2	2
+		Tale of Two Cities A	4	Off-List[13]	Off-List[122]	"2,166"	Off-List[16]	"5,315"	"13,691"	2	7
+		Three Billy Goats Gruff The	2	Off-List[8]	Off-List[13]	Off-List[3]	Off-List[6]	"11,210"	"13,121"	8	9
+		Three Dogs The	2	1832	Off-List[1]	"1,874"	Off-List[1]	"5,874"	"5,874"	2	2
+		Thumbelina	3	Off-List[20]	Off-List[60]	Off-List[1]	Off-List[13]	"2,099"	"3,325"	2	6
+		Time Machine The	3	Off-List[9]	Off-List[73]	"2,024"	Off-List[5]	"1,850"	"3,007"	2	4
+		Tom Thumb	2	Off-List[8]	Off-List[19]	Off-List[2]	Off-List[9]	"5,289"	"12,602"	2	5
+		Tortoise and the Rabbit The	2	Off-List[1]	Off-List[5]	"1,506"	Off-List[1]	"5,687"	"5,687"	8	8
+		Treasure Island	5	Off-List[15]	Off-List[148]	Off-List[1]	Off-List[20]	"5,309"	"11,548"	2	5
+		Two Pots The	1	Off-List[1]	Off-List[2]	"2,547"	"2,547"	"1,171"	"1,171"	2	2
+		Ugly Duckling The	1	Off-List[3]	Off-List[5]	Off-List[1]	Off-List[3]	"4,765"	"4,765"	2	7
+		Uncomfortable Bed An	2	Off-List[4]	Off-List[17]	"2,614"	Off-List[5]	"1,607"	"2,851"	2	4
+		Wedding of Mrs Fox The	2	Off-List[2]	Off-List[7]	Off-List[1]	Off-List[4]	"7,175"	"9,406"	2	5
+		White Fang	3	Off-List[10]	Off-List[70]	"2,627"	Off-List[12]	"7,299"	"11,778"	5	8
+		White Snake The	1	Off-List[2]	Off-List[4]	"2,650"	Off-List[2]	"1,404"	"5,081"	1	2
+		Why the Bear Has a Short Tail / The Fox as a Shepherd	2	Off-List[6]	Off-List[15]	Off-List[2]	Off-List[5]	"4,022"	"5,271"	2	5
+		Why the Dog Hates the Cat	2	Off-List[5]	Off-List[16]	"2,650"	Off-List[4]	"9,406"	"13,043"	2	5
+		Why the Sea Has Salt	1	Off-List[3]	Off-List[4]	Off-List[2]	Off-List[3]	"3,171"	"13,713"	2	33
+		William Tell Told Again	5	Off-List[113]	Off-List[379]	Off-List[3]	Off-List[112]	"4,089"	"10,145"	2	4
+		Wise Little Girl The	1	1947	Off-List[2]	"1,874"	"2,548"	"1,198"	"2,410"	1	2
+		Wizard of Oz The	3	Off-List[11]	Off-List[39]	"2,703"	Off-List[9]	"2,856"	"6,307"	4	7
+		Wolf and the Fox The	1	Off-List[2]	Off-List[5]	Off-List[1]	Off-List[4]	"1,661"	"2,175"	2	5
+		Wolf and the Seven Children The	1	Off-List[1]	Off-List[2]	"2,703"	Off-List[2]	"1,661"	"2,150"	2	4
+		Wuthering Heights	4	Off-List[39]	Off-List[208]	"2,226"	Off-List[45]	"6,163"	"26,155"	2	4
+		You Cant Make Everybody Happy	1	Off-List[1]	Off-List[1]	"1,642"	Off-List[1]	"1,584"	"3,031"	1	6
+		Young Chubb and the Musical Box	2	Off-List[2]	Off-List[23]	"2,332"	Off-List[3]	"5,077"	"20,706"	2	2
+ELI
+	Teen ELI Readers
+		A Christmas Carol	3	Off-List[5]	Off-List[80]	"2,194"	Off-List[5]	"2,492"	"35,326"	2	2
+		Adventure at Haydon Point	2	2132	Off-List[12]	"1,615"	Off-List[1]	"12,676"	"17,299"	1	2
+		Anne of Green Gables	2	1979	Off-List[14]	"1,399"	"2,650"	"12,960"	"29,560"	1	3
+		Black Beauty	2	1777	Off-List[12]	"1,330"	"2,191"	"1,938"	"10,965"	1	2
+		Boat Race Mystery The	2	2425	Off-List[10]	"1,825"	Off-List[2]	"12,886"	"17,299"	2	4
+		Boy with the Red Balloon The	2	Off-List[3]	Off-List[52]	"1,820"	Off-List[5]	"5,914"	"18,025"	1	2
+		Call of the Wild The	3	Off-List[16]	Off-List[95]	"2,387"	Off-List[13]	"4,282"	"11,937"	2	5
+		Canterbury Tales The	2	1371	Off-List[1]	981	"1,874"	"1,402"	"12,618"	1	2
+		Connecticut Yankee in King Arthur's Court A	2	Off-List[43]	Off-List[161]	Off-List[2]	Off-List[59]	"4,134"	"8,914"	3	5
+		David Copperfield	3	Off-List[102]	Off-List[327]	Off-List[7]	Off-List[155]	"11,210"	"35,525"	3	5
+		Destination: Karminia	3	Off-List[43]	Off-List[146]	Off-List[7]	Off-List[59]	"12,618"	"16,919"	3	8
+		Egghead	2	1983	Off-List[21]	"1,351"	"2,796"	"2,721"	"12,176"	1	3
+		Egyptian Souvenir The	2	Off-List[8]	Off-List[51]	"2,590"	Off-List[13]	"5,447"	"12,442"	2	6
+		Expedition Brazil	3	Off-List[12]	Off-List[112]	"2,007"	Off-List[19]	"3,270"	"17,977"	2	4
+		Faraway World A	2	Off-List[3]	Off-List[36]	"1,630"	Off-List[7]	"4,503"	"12,480"	1	3
+		Little Lord Fauntleroy	2	1983	Off-List[18]	"1,351"	Off-List[2]	"4,460"	"11,210"	1	4
+		Little Women	3	2466	Off-List[58]	"1,696"	Off-List[5]	"13,149"	"14,252"	1	2
+		Oliver Twist	2	Off-List[1]	Off-List[32]	"1,708"	Off-List[6]	"13,293"	"15,931"	1	5
+		Pollyanna	2	1599	Off-List[3]	"1,368"	"2,777"	"12,602"	"54,498"	1	1
+		Railway Children The	2	1778	Off-List[6]	"1,250"	"2,709"	"2,374"	"20,242"	1	2
+		Secret Garden The	2	Off-List[8]	Off-List[99]	"1,917"	Off-List[15]	"11,482"	"14,138"	2	4
+		Tempest The	2	Off-List[5]	Off-List[22]	Off-List[1]	Off-List[6]	"22,580"	"26,439"	1	2
+		Treasure Island	2	Off-List[8]	Off-List[68]	Off-List[1]	Off-List[15]	"11,548"	"16,666"	3	6
+		Val's Diary	3	Off-List[36]	Off-List[121]	"2,706"	Off-List[41]	"5,228"	"13,322"	2	5
+	Young Adult ELI Readers
+		Age of Innocence The	3	1891	Off-List[42]	"1,343"	"2,601"	"5,141"	"20,010"	1	2
+		Botchan	2	1970	Off-List[21]	"1,578"	Off-List[1]	"2,028"	"9,678"	2	11
+		Dracula	2	Off-List[8]	Off-List[60]	"1,874"	Off-List[8]	"2,694"	"9,406"	2	4
+		Dubliners	4	Off-List[172]	Off-List[588]	Off-List[2]	Off-List[214]	"5,525"	"13,172"	3	5
+		Frankenstein	4	Off-List[18]	Off-List[185]	"2,204"	Off-List[32]	"2,683"	"6,254"	2	4
+		Great Expectations	2	2225	Off-List[61]	"1,599"	Off-List[3]	"3,235"	"11,531"	2	4
+		Great Gatsby The	5	Off-List[144]	Off-List[577]	Off-List[3]	Off-List[249]	"6,778"	"13,096"	3	8
+		Gulliver's Travels	2	Off-List[4]	Off-List[61]	"1,847"	Off-List[8]	"2,349"	"5,047"	2	4
+		Hamlet Prince of Denmark	2	Off-List[6]	Off-List[21]	Off-List[1]	Off-List[7]	"14,675"	"24,503"	3	7
+		Hound of the Baskervilles The	2	Off-List[1]	Off-List[43]	"2,136"	Off-List[6]	"4,655"	"20,267"	2	4
+		Importance of Being Earnest The	5	Off-List[188]	Off-List[632]	Off-List[44]	Off-List[330]	"23,977"	0[1]	3	8
+		Jane Eyre	3	Off-List[70]	Off-List[382]	"2,592"	Off-List[101]	"4,306"	"11,210"	2	4
+		Macbeth	3	Off-List[24]	Off-List[118]	"2,670"	Off-List[32]	"5,081"	"17,245"	2	7
+		Midsummer Night's Dream A	2	Off-List[6]	Off-List[40]	"2,596"	Off-List[11]	"22,199"	"25,236"	4	14
+		Mill on the Floss The	4	2455	Off-List[97]	"1,625"	Off-List[2]	"3,242"	"12,602"	1	2
+		Moby Dick	4	Off-List[87]	Off-List[400]	Off-List[9]	Off-List[141]	"5,625"	"26,963"	4	6
+		Mrs Dalloway	5	Off-List[216]	Off-List[725]	Off-List[9]	Off-List[327]	"9,747"	"20,269"	3	5
+		Narrative of Arthur Gordon Pym of Nantucket The	2	Off-List[1]	Off-List[17]	"1,905"	Off-List[3]	"2,694"	"23,069"	2	4
+		Picture of Dorian Gray The	3	Off-List[27]	Off-List[187]	"2,508"	Off-List[54]	"6,027"	"20,706"	2	6
+		Pride and Prejudice	3	2373	Off-List[53]	"1,393"	Off-List[2]	"12,690"	"17,547"	1	2
+		Robinson Crusoe	2	2038	Off-List[14]	"1,430"	Off-List[1]	"1,402"	"3,368"	1	2
+		Romeo and Juliet	2	Off-List[4]	Off-List[33]	"1,678"	Off-List[3]	"11,886"	"29,148"	1	2
+		Sense and Sensibility	3	2124	Off-List[49]	"1,384"	Off-List[3]	"11,496"	"22,362"	1	2
+		Stories of Mystery and Suspense	4	Off-List[99]	Off-List[357]	Off-List[5]	Off-List[122]	"3,931"	"10,830"	2	5
+		Strange Case of Dr. Jekyll and Mr. Hyde The	2	1931	Off-List[18]	"1,378"	"2,321"	"3,925"	"11,758"	1	2
+		Study in Scarlet A	2	1433	Off-List[4]	"1,050"	"2,232"	"1,639"	"11,680"	1	2
+		Tale of Two Cities A	4	Off-List[34]	Off-List[198]	"2,219"	Off-List[30]	"6,061"	"13,691"	2	7
+		Tales from Shakespeare	4	Off-List[40]	Off-List[187]	"2,795"	Off-List[50]	"7,016"	"23,022"	2	4
+		Three Men in a Boat	2	Off-List[5]	Off-List[77]	"1,688"	Off-List[10]	"2,391"	"11,139"	1	2
+		Turn of the Screw The	4	Off-List[38]	Off-List[298]	"2,415"	Off-List[85]	"3,441"	"9,406"	2	4
+		Woman in White The	3	1864	Off-List[24]	"1,399"	"2,325"	"3,234"	"12,960"	1	2
+		Wuthering Heights	4	Off-List[42]	Off-List[308]	"2,359"	Off-List[94]	"4,098"	"18,879"	2	4
+	Young ELI Readers
+		Aladdin and the Magic Lamp	1	Off-List[3]	Off-List[11]	Off-List[2]	Off-List[5]	"14,322"	"72,957"	4	23
+		Alice in Wonderland	2	Off-List[2]	Off-List[12]	"1,924"	Off-List[5]	"1,420"	"7,175"	1	4
+		Granny Fixit and the Ball	1	2236	Off-List[4]	"1,825"	Off-List[2]	"10,746"	"51,212"	33	33
+		Granny Fixit and the Pirate	1	Off-List[1]	Off-List[6]	Off-List[1]	Off-List[4]	"3,237"	"51,212"	6	33
+		Granny Fixit and the Yellow String	1	Off-List[2]	Off-List[8]	"2,087"	Off-List[4]	"12,816"	"12,816"	4	9
+		Harry and an Electrical Problem	2	Off-List[3]	Off-List[19]	"2,074"	Off-List[1]	"10,973"	"14,721"	2	2
+		Harry and the Crown	2	Off-List[5]	Off-List[22]	Off-List[1]	Off-List[6]	"11,616"	"14,721"	2	5
+		Harry and the Sports Competition	2	Off-List[15]	Off-List[43]	Off-List[2]	Off-List[15]	"13,827"	"14,721"	2	5
+		Hooray for the Holidays	1	Off-List[21]	Off-List[33]	Off-List[6]	Off-List[18]	"20,355"	"20,355"	3	33
+		PB3 and Coco the Clown	1	Off-List[5]	Off-List[16]	Off-List[1]	Off-List[7]	"11,482"	"23,493"	6	9
+		PB3 and the Jacket	1	Off-List[10]	Off-List[24]	"2,707"	Off-List[6]	"6,878"	"12,079"	4	6
+		PB3 and the Vegetables	1	Off-List[14]	Off-List[28]	Off-List[6]	Off-List[15]	"13,231"	"16,581"	6	7
+		Sophie's Dream	1	Off-List[30]	Off-List[41]	Off-List[15]	Off-List[26]	"4,527"	"11,033"	5	9
+		Uncle Jack and the Bakonzi Tree	1	Off-List[2]	Off-List[15]	"2,691"	Off-List[6]	"2,586"	"5,277"	2	7
+		Uncle Jack and the Emperor Penguins	1	Off-List[4]	Off-List[21]	Off-List[1]	Off-List[7]	"5,277"	"11,210"	4	8
+		Uncle Jack and the Meerkats	1	Off-List[6]	Off-List[23]	Off-List[1]	Off-List[8]	"11,548"	"45,204"	8	16
+Foxton
+	Foxton Readers
+		Adventure of the Speckled Band The	2	Off-List[19]	Off-List[78]	Off-List[3]	Off-List[30]	"11,210"	"16,238"	2	5
+		Alice in Wonderland	2	Off-List[22]	Off-List[116]	"2,540"	Off-List[30]	"4,023"	"21,937"	4	7
+		Anne of Green Gables	2	Off-List[1]	Off-List[43]	"1,708"	Off-List[7]	"13,398"	"29,560"	2	4
+		Around the World in Eighty Days	2	Off-List[30]	Off-List[116]	Off-List[2]	Off-List[42]	"11,210"	"17,647"	3	8
+		Beauty and the Beast	2	Off-List[7]	Off-List[50]	Off-List[1]	Off-List[7]	"1,599"	"5,718"	2	4
+		Boy and the Wizard The	1	Off-List[6]	Off-List[17]	Off-List[3]	Off-List[8]	"13,121"	"13,121"	5	6
+		Boy Who Planted a Forest The	1	Off-List[5]	Off-List[20]	Off-List[1]	Off-List[7]	"2,391"	"7,684"	2	10
+		By the Lake	1	Off-List[9]	Off-List[27]	Off-List[1]	Off-List[10]	"3,480"	"13,757"	2	4
+		Call of the Wild	3	Off-List[35]	Off-List[136]	Off-List[1]	Off-List[36]	"6,400"	"15,609"	2	9
+		Chef The	1	Off-List[12]	Off-List[23]	Off-List[6]	Off-List[12]	"2,175"	"12,189"	3	6
+		Count of Monte Cristo The	3	Off-List[15]	Off-List[140]	"2,434"	Off-List[35]	"5,002"	"23,448"	3	8
+		David Copperfield	3	1721	Off-List[28]	"1,115"	"2,451"	"11,210"	"35,525"	1	2
+		Dracula	2	Off-List[20]	Off-List[77]	Off-List[1]	Off-List[22]	"11,622"	"38,678"	4	16
+		Emily and the Rabbit	1	Off-List[1]	Off-List[5]	"1,708"	Off-List[1]	"13,757"	"17,153"	1	2
+		Frankenstein	3	Off-List[1]	Off-List[39]	"2,415"	Off-List[5]	"2,927"	"12,499"	2	3
+		Great Expectations	3	2077	Off-List[35]	"1,480"	Off-List[1]	"5,301"	"11,939"	1	4
+		Gulliver's Travels	2	Off-List[24]	Off-List[97]	"2,707"	Off-List[27]	"2,173"	"4,306"	2	4
+		Heidi	2	Off-List[3]	Off-List[28]	"2,601"	Off-List[7]	"2,150"	"8,605"	1	5
+		Huckleberry Finn	2	Off-List[5]	Off-List[48]	"2,654"	Off-List[10]	"10,466"	"12,602"	2	4
+		Jane Eyre	3	2207	Off-List[60]	"1,552"	Off-List[3]	"5,874"	"11,210"	1	3
+		Journey to the Centre of the Earth	3	Off-List[50]	Off-List[157]	Off-List[10]	Off-List[75]	"4,884"	"18,331"	4	7
+		Jungle Book The	2	Off-List[17]	Off-List[64]	Off-List[3]	Off-List[18]	"8,157"	"34,064"	4	8
+		Just in Time	1	Off-List[3]	Off-List[17]	"1,664"	Off-List[4]	"16,301"	"18,987"	2	4
+		Kidnapped	4	Off-List[47]	Off-List[338]	"2,664"	Off-List[99]	"6,088"	"13,055"	2	5
+		Kit's New Phone	1	1782	Off-List[3]	"1,708"	Off-List[1]	"1,301"	"7,349"	4	4
+		Little Prince The	2	Off-List[6]	Off-List[22]	Off-List[1]	Off-List[7]	"1,345"	"2,689"	2	4
+		Little Princess A	2	Off-List[1]	Off-List[17]	"1,811"	Off-List[7]	"14,176"	"14,176"	2	5
+		Lost Dog The	1	Off-List[7]	Off-List[17]	"2,796"	Off-List[4]	"13,747"	"31,059"	2	19
+		Lost World The	2	Off-List[13]	Off-List[63]	Off-List[2]	Off-List[26]	"3,599"	"7,265"	3	5
+		Merchant of Venice The	3	Off-List[4]	Off-List[92]	"2,058"	Off-List[7]	"4,852"	"24,224"	2	5
+		Moby Dick	2	Off-List[23]	Off-List[73]	Off-List[3]	Off-List[25]	"6,810"	"45,758"	4	6
+		More than a Game	1	Off-List[8]	Off-List[27]	"2,055"	Off-List[3]	"3,751"	"14,691"	2	3
+		Oliver Twist	3	Off-List[14]	Off-List[68]	"2,154"	Off-List[16]	"13,871"	"26,715"	2	6
+		Pirate Captain The	1	Off-List[6]	Off-List[19]	Off-List[1]	Off-List[6]	"11,139"	"11,482"	3	9
+		Pocahontas	3	Off-List[1]	Off-List[47]	"1,874"	Off-List[5]	"11,705"	"21,900"	2	3
+		Prisoner of Zenda The	2	Off-List[10]	Off-List[63]	"2,796"	Off-List[18]	"11,726"	"24,631"	2	4
+		Race to Paris	1	Off-List[2]	Off-List[18]	"2,003"	Off-List[4]	"12,123"	"14,176"	2	5
+		Railway Children The	3	Off-List[31]	Off-List[152]	"2,688"	Off-List[41]	"8,605"	"20,242"	2	6
+		Robinson Crusoe	2	Off-List[28]	Off-List[104]	Off-List[2]	Off-List[34]	"3,370"	"7,560"	2	6
+		Secret Garden The	2	2213	Off-List[16]	"1,590"	Off-List[1]	"14,130"	"14,138"	2	5
+		Sleepy Hollow	2	Off-List[51]	Off-List[151]	Off-List[9]	Off-List[68]	"14,330"	"55,802"	4	13
+		Temple of Adventure The	1	Off-List[3]	Off-List[23]	"2,664"	Off-List[6]	"20,706"	"20,706"	2	6
+		Thanks for the Memories	1	Off-List[4]	Off-List[22]	"1,789"	Off-List[6]	"2,346"	"19,996"	2	2
+		Thief The	1	Off-List[4]	Off-List[12]	Off-List[1]	Off-List[6]	"1,941"	"2,223"	4	6
+		Thirty-Nine Steps The	3	Off-List[19]	Off-List[216]	"2,226"	Off-List[52]	"2,842"	"11,210"	2	5
+		Three Musketeers The	3	Off-List[15]	Off-List[75]	Off-List[1]	Off-List[20]	"18,563"	"28,555"	5	11
+		Toy Maker The	1	Off-List[3]	Off-List[17]	"1,992"	Off-List[3]	"2,690"	"10,746"	2	4
+		Treasure Island	2	Off-List[11]	Off-List[61]	Off-List[1]	Off-List[9]	"5,117"	"23,650"	3	6
+		Twenty Thousand Leagues under the Sea	3	Off-List[29]	Off-List[183]	Off-List[1]	Off-List[46]	"11,543"	"18,404"	3	15
+		Wizard of Oz The	2	Off-List[18]	Off-List[65]	Off-List[1]	Off-List[25]	"3,770"	"8,371"	5	17
+Garnet
+	Oracle Readers
+		A Tidy Ghost	3	Off-List[9]	Off-List[63]	"1,993"	Off-List[11]	"6,088"	"15,011"	2	5
+		African Adventure	3	2143	Off-List[20]	"1,438"	"2,413"	"3,742"	"13,001"	1	2
+		Casualty!	2	2007	Off-List[19]	"1,313"	"2,347"	"6,673"	"14,191"	1	2
+		Life Lines	3	Off-List[5]	Off-List[41]	"1,792"	Off-List[3]	"4,702"	"13,290"	2	5
+		Milo	3	2068	Off-List[26]	"1,429"	"2,601"	"2,492"	"13,271"	1	2
+		Space Romance	3	Off-List[7]	Off-List[46]	"2,747"	Off-List[8]	"2,890"	"10,608"	2	5
+		Strawberry and The Sensations	2	Off-List[5]	Off-List[24]	"1,478"	Off-List[1]	"2,752"	"13,130"	2	4
+		Sunnyvista City	3	Off-List[4]	Off-List[40]	"1,905"	Off-List[4]	"2,492"	"12,189"	2	2
+		The Case of the Dead Batsman	3	Off-List[8]	Off-List[64]	"2,280"	Off-List[12]	"7,419"	"25,642"	2	6
+		The Collector	2	Off-List[7]	Off-List[25]	Off-List[1]	Off-List[9]	"3,666"	"13,308"	3	6
+		The Hitchhiker	3	1960	Off-List[28]	"1,384"	"2,754"	"1,964"	"5,981"	1	2
+		The Locked Room	2	2017	Off-List[9]	"1,440"	Off-List[2]	"1,225"	"2,988"	1	2
+		The Visit	2	2236	Off-List[14]	"1,612"	Off-List[2]	"7,175"	"14,721"	1	5
+		The Watchers	2	1671	Off-List[5]	"2,226"	Off-List[1]	"11,548"	"25,089"	1	4
+		Underground	2	Off-List[1]	Off-List[20]	"2,169"	Off-List[3]	"5,257"	"13,185"	2	5
+		Zoo Diary	2	Off-List[1]	Off-List[12]	"2,079"	Off-List[3]	"2,703"	"13,046"	2	33
+Grass Roots
+	Biographies
+		Althea Gibson	4	Off-List[1]	Off-List[6]	"1,915"	Off-List[1]	"55,482"	"55,482"	23	23
+		Amelia Earhart	3	1904	Off-List[5]	"1,432"	Off-List[2]	"3,713"	"11,790"	2	3
+		Big Bear	4	Off-List[3]	Off-List[15]	Off-List[1]	Off-List[5]	"11,445"	"19,509"	3	10
+		Bruce Lee	4	Off-List[2]	Off-List[14]	Off-List[1]	Off-List[6]	"12,803"	"24,568"	3	6
+		Cesar Chavez	4	Off-List[5]	Off-List[21]	"2,587"	Off-List[5]	"3,993"	"15,474"	2	5
+		Charles Lindbergh	3	2219	Off-List[4]	"1,615"	"2,668"	"47,692"	"53,338"	2	3
+		Clara Hughes	4	Off-List[6]	Off-List[19]	Off-List[1]	Off-List[6]	"15,032"	"15,032"	3	4
+		Dalai Lama	4	Off-List[2]	Off-List[19]	Off-List[1]	Off-List[9]	"20,727"	"30,888"	5	16
+		David Suzuki	4	Off-List[3]	Off-List[20]	"2,020"	Off-List[7]	"10,610"	"12,574"	2	4
+		Edmund Hillary & Tenzing	3	2308	Off-List[11]	"1,772"	Off-List[3]	"13,826"	"20,469"	2	15
+		Eleanor Roosevelt	3	2386	Off-List[9]	"1,431"	Off-List[1]	"16,180"	"16,180"	2	2
+		Elizabeth Fry	4	Off-List[1]	Off-List[12]	"1,664"	Off-List[2]	"12,499"	"12,499"	1	2
+		Emily Carr	4	Off-List[1]	Off-List[12]	"2,195"	Off-List[6]	"13,757"	"13,757"	2	4
+		Fannie Lou Hamer	4	Off-List[1]	Off-List[13]	"1,622"	Off-List[3]	"11,548"	"14,740"	2	4
+		First Women in Space	3	1933	Off-List[8]	"1,290"	"2,596"	"15,461"	"22,613"	2	3
+		Harriet Tubman	4	Off-List[1]	Off-List[10]	"2,423"	Off-List[1]	"4,238"	"5,776"	2	4
+		Helen Keller	3	1626	Off-List[2]	"1,423"	"2,261"	"2,783"	"12,960"	1	2
+		Jane Goodall	4	Off-List[4]	Off-List[19]	Off-List[2]	Off-List[8]	"12,690"	"12,690"	6	6
+		Jean Vanier	4	2378	Off-List[8]	"1,828"	Off-List[2]	"3,305"	"10,389"	2	3
+		Jimi Hendrix	3	Off-List[1]	Off-List[19]	"2,212"	"2,586"	"18,127"	"18,127"	2	3
+		June Callwood	4	Off-List[6]	Off-List[29]	"2,126"	Off-List[5]	"3,909"	"10,252"	2	4
+		Laura Secord	4	2137	Off-List[6]	"1,926"	Off-List[1]	"13,283"	"13,283"	2	3
+		Louis Riel	4	Off-List[3]	Off-List[23]	"2,106"	Off-List[5]	"73,159"	"73,159"	18	18
+		Lucy Maud Montomgery	4	Off-List[2]	Off-List[19]	"2,601"	Off-List[6]	"4,255"	"40,345"	3	4
+		Mahatma Gandhi	4	Off-List[7]	Off-List[27]	"2,577"	Off-List[9]	"10,612"	"14,322"	2	3
+		Malala Yousafzai	3	1758	Off-List[4]	"1,445"	"2,673"	"8,261"	"14,009"	9	13
+		Maria Tallchief	3	Off-List[5]	Off-List[22]	Off-List[1]	Off-List[6]	"13,225"	"13,225"	4	10
+		Marilyn Monroe	4	2143	Off-List[8]	"1,367"	"2,694"	"15,011"	"15,011"	2	3
+		Martin Luther King Jr.	4	Off-List[1]	Off-List[10]	"1,874"	Off-List[3]	"7,005"	"14,236"	2	5
+		Matthew Henson & Robert Peary	4	Off-List[2]	Off-List[17]	"1,997"	Off-List[4]	"18,125"	"27,840"	2	4
+		Michae_lle Jean	4	Off-List[2]	Off-List[15]	"2,052"	Off-List[2]	"9,106"	"17,746"	2	3
+		Mother Teresa	4	Off-List[1]	Off-List[13]	Off-List[1]	Off-List[6]	"9,318"	"13,750"	3	5
+		Muhammad Ali	4	Off-List[12]	Off-List[28]	Off-List[1]	Off-List[8]	"3,052"	"7,265"	4	4
+		Nancy Greene	4	Off-List[6]	Off-List[17]	Off-List[1]	Off-List[5]	"13,293"	"13,293"	3	4
+		Nelson Mandela	4	Off-List[1]	Off-List[15]	"1,460"	Off-List[1]	"17,895"	"17,895"	2	3
+		Norman Bethune	4	Off-List[1]	Off-List[18]	"1,714"	Off-List[2]	"13,263"	"13,992"	2	3
+		Oskar Schindler	4	Off-List[2]	Off-List[14]	"2,264"	Off-List[3]	"20,748"	"24,224"	2	3
+		Poundmaker	4	Off-List[3]	Off-List[18]	Off-List[1]	Off-List[5]	"19,509"	"65,791"	5	33
+		Rick Hansen	4	Off-List[4]	Off-List[23]	"2,170"	Off-List[5]	"9,438"	"9,438"	2	5
+		Rosa Parks	4	Off-List[2]	Off-List[13]	"1,496"	Off-List[2]	"12,411"	"14,842"	2	5
+		Terry Fox	4	Off-List[3]	Off-List[26]	"2,668"	Off-List[13]	"19,371"	"19,371"	3	5
+		The Famous Five	4	1772	Off-List[2]	"1,015"	"2,212"	"6,050"	"13,333"	2	2
+		Tom Longboat	4	2284	Off-List[15]	"1,528"	Off-List[1]	"12,602"	"12,602"	2	3
+		Tommy Prince	4	Off-List[7]	Off-List[31]	"2,634"	Off-List[9]	"13,996"	"13,996"	2	4
+		Walt Disney	3	2059	Off-List[9]	"1,570"	Off-List[1]	"33,244"	"33,244"	2	3
+		Wangari Maathai	4	Off-List[4]	Off-List[23]	"2,020"	Off-List[1]	"2,429"	"8,412"	2	33
+		Wayne Gretzky	4	2379	Off-List[10]	"1,761"	Off-List[1]	"13,046"	"13,046"	4	25
+		Will Rogers	3	Off-List[2]	Off-List[17]	"1,943"	Off-List[6]	"5,979"	"20,632"	2	4
+	Good Reads
+		All Night	4	Off-List[66]	Off-List[288]	"2,672"	Off-List[84]	"3,002"	"10,252"	2	5
+		Bed and Breakfast	4	Off-List[47]	Off-List[242]	"2,631"	Off-List[69]	"3,224"	"11,565"	2	5
+		Coyote's Song	4	Off-List[8]	Off-List[93]	"2,213"	Off-List[17]	"3,430"	"11,548"	2	5
+		Home Invasion	4	Off-List[75]	Off-List[276]	Off-List[4]	Off-List[92]	"3,548"	"12,229"	2	7
+		In from the Cold	4	Off-List[107]	Off-List[373]	Off-List[3]	Off-List[127]	"3,707"	"5,552"	4	8
+		Listen!	4	Off-List[60]	Off-List[246]	"2,781"	Off-List[73]	"9,406"	"16,213"	2	5
+		Love You to Death	4	Off-List[198]	Off-List[535]	Off-List[21]	Off-List[237]	"5,060"	"12,879"	4	6
+		Missing	4	Off-List[37]	Off-List[183]	Off-List[2]	Off-List[58]	"4,253"	"16,486"	2	4
+		New Year's Eve	4	Off-List[128]	Off-List[419]	Off-List[5]	Off-List[161]	"4,131"	"12,605"	3	7
+		Picture This	4	Off-List[77]	Off-List[318]	"2,709"	Off-List[89]	"6,095"	"20,501"	3	8
+		Shipwreck	4	Off-List[137]	Off-List[432]	Off-List[15]	Off-List[181]	"5,587"	"13,149"	3	6
+		The Break-In	4	Off-List[186]	Off-List[489]	Off-List[27]	Off-List[204]	"11,210"	"14,249"	3	7
+		The Clear-Out	4	Off-List[46]	Off-List[244]	Off-List[1]	Off-List[64]	"2,866"	"11,360"	2	6
+		The Day the Rebels Came to Town	4	Off-List[168]	Off-List[465]	Off-List[22]	Off-List[188]	"3,673"	"9,314"	3	6
+		The Picture of Nobody	4	Off-List[79]	Off-List[363]	"2,680"	Off-List[131]	"3,789"	"15,053"	3	7
+		The Stalker	4	Off-List[56]	Off-List[294]	Off-List[3]	Off-List[92]	"5,025"	"14,176"	3	6
+		Tribb's Troubles	4	Off-List[60]	Off-List[197]	Off-List[4]	Off-List[67]	"3,065"	"12,107"	3	5
+	Photostories
+		A Bad Car Day	2	1703	Off-List[1]	799	"1,602"	"17,548"	"17,548"	1	1
+		A Good Nights Sleep	2	Off-List[1]	Off-List[6]	"2,292"	Off-List[4]	"14,742"	"14,742"	2	3
+		Animal Shelter	2	2027	Off-List[2]	"1,960"	Off-List[1]	"12,816"	"19,612"	12	16
+		Bald Eagles	2	Off-List[4]	Off-List[8]	Off-List[4]	Off-List[7]	"6,291"	"6,291"	5	5
+		Bears	2	Off-List[2]	Off-List[5]	Off-List[1]	Off-List[2]	"2,592"	"4,928"	5	10
+		Cake Date	2	1955	2457	"1,812"	"2,171"	"16,868"	"16,868"	2	2
+		Daycare Centre	2	2137	Off-List[3]	"1,366"	Off-List[1]	"15,749"	"15,749"	1	33
+		Fad Diets	2	Off-List[3]	Off-List[9]	Off-List[2]	Off-List[6]	"2,572"	"15,441"	3	8
+		Frans Story	2	Off-List[2]	Off-List[7]	"1,812"	Off-List[1]	"2,890"	"12,079"	1	2
+		Gardening	2	Off-List[3]	Off-List[5]	"2,166"	Off-List[1]	"1,560"	"1,630"	2	2
+		Grey Seals	2	Off-List[7]	Off-List[13]	Off-List[1]	Off-List[3]	"4,622"	"5,154"	2	2
+		Grey Wolves	2	Off-List[4]	Off-List[7]	Off-List[2]	Off-List[3]	"3,733"	"5,154"	2	5
+		How to Be Good to Yourself	2	1628	Off-List[2]	"2,688"	"2,688"	"1,112"	"1,630"	2	2
+		How to Build Community	2	1928	Off-List[4]	"1,220"	Off-List[1]	"1,177"	"2,620"	2	4
+		How to Check an Apartment	2	Off-List[10]	Off-List[14]	Off-List[4]	Off-List[7]	"12,079"	"18,767"	4	9
+		How to Clean Green	2	Off-List[12]	Off-List[17]	Off-List[4]	Off-List[7]	"13,851"	"13,851"	13	13
+		How to find a Good Used Car	2	Off-List[4]	Off-List[10]	"1,908"	Off-List[4]	"2,635"	"4,220"	2	5
+		How to Live Green	2	Off-List[6]	Off-List[13]	Off-List[1]	Off-List[7]	"3,269"	"13,096"	2	3
+		How to Save Time	2	1890	Off-List[1]	"1,329"	"2,289"	"1,112"	"1,201"	1	2
+		How to Stop Hiccups	2	Off-List[8]	Off-List[14]	Off-List[6]	Off-List[12]	"4,638"	"4,638"	9	9
+		Inside Out	2	1672	Off-List[3]	"1,678"	Off-List[2]	"16,447"	"16,447"	4	5
+		Just Good Friends	2	2268	Off-List[6]	"1,630"	"2,415"	"12,189"	"14,234"	1	2
+		Late Again!	2	Off-List[2]	Off-List[6]	Off-List[1]	Off-List[5]	"12,013"	"14,541"	1	2
+		Love of My Life	2	Off-List[2]	Off-List[5]	Off-List[1]	Off-List[3]	"8,668"	"8,668"	12	12
+		Mandys Garage Sale	2	Off-List[1]	Off-List[7]	"1,992"	"2,660"	"1,173"	"2,766"	2	2
+		Potluck	2	Off-List[4]	Off-List[7]	Off-List[1]	Off-List[3]	"12,605"	"15,068"	2	2
+		Saying No	2	1983	Off-List[2]	932	"1,811"	"21,778"	"21,778"	1	1
+		Senior Centre	2	Off-List[1]	Off-List[4]	"1,597"	"2,766"	"14,176"	"14,176"	8	8
+		Soup Kitchen	2	Off-List[2]	Off-List[5]	Off-List[1]	Off-List[3]	"1,907"	"14,252"	2	2
+		Stress	2	2137	Off-List[3]	"2,292"	Off-List[3]	"12,816"	"13,096"	1	2
+		The Big Goof	2	Off-List[2]	Off-List[7]	924	Off-List[1]	"11,512"	"11,512"	2	3
+		The Big Question	2	Off-List[2]	Off-List[6]	Off-List[1]	Off-List[4]	"15,068"	"15,068"	1	2
+		The Big Snore	2	Off-List[3]	Off-List[6]	"2,133"	Off-List[2]	"46,810"	"46,810"	2	4
+		The Big Surprise	2	Off-List[3]	Off-List[8]	Off-List[1]	Off-List[5]	"14,357"	"17,144"	4	33
+		The Change	2	Off-List[3]	Off-List[6]	Off-List[1]	Off-List[4]	"13,851"	"13,851"	13	13
+		The Coffee Lover	2	Off-List[3]	Off-List[6]	Off-List[1]	Off-List[2]	"1,786"	"12,189"	2	5
+		The E-mail	2	Off-List[1]	Off-List[2]	"2,104"	Off-List[1]	"16,622"	"16,622"	2	2
+		The Hike	2	2373	Off-List[2]	"2,224"	"2,280"	"6,369"	"6,369"	2	2
+		The Map	2	2137	Off-List[1]	"1,210"	Off-List[1]	"17,299"	"17,299"	2	5
+		The Mix-up	2	Off-List[7]	Off-List[10]	Off-List[5]	Off-List[7]	"14,203"	"14,203"	6	33
+		The New Shoes	2	1758	1758	"1,474"	"1,474"	537	794	1	1
+		The Perfect Man	2	Off-List[3]	Off-List[4]	Off-List[2]	Off-List[3]	"18,537"	0[1]	3	6
+		The Phone Call	2	Off-List[2]	Off-List[3]	Off-List[1]	Off-List[2]	"44,054"	"44,054"	2	5
+		The Test	2	1507	1878	884	"1,303"	"12,189"	"12,189"	1	2
+		Thrift Store	2	Off-List[2]	Off-List[4]	"1,569"	"1,992"	"18,439"	"18,439"	2	2
+		Tonys Deal	2	1322	Off-List[2]	892	"1,852"	"3,286"	"10,746"	1	2
+HALICO
+	Pocket Readers
+		Campfire Ghost Stories	3	1877	Off-List[9]	"1,351"	"2,586"	"1,717"	"12,079"	1	2
+		Consiracy Theories	3	Off-List[2]	Off-List[21]	"1,877"	Off-List[4]	"10,964"	"24,449"	2	8
+		Culture Shock Japan	3	Off-List[8]	Off-List[64]	"2,171"	Off-List[19]	"2,436"	"11,370"	2	7
+		Homestay in Australia	3	Off-List[1]	Off-List[41]	"1,664"	Off-List[8]	"10,402"	"18,579"	1	6
+		Homestay in the UK	3	Off-List[7]	Off-List[50]	"1,817"	Off-List[7]	"11,680"	"12,429"	2	4
+		Homestay in the USA	3	Off-List[6]	Off-List[60]	"1,867"	Off-List[15]	"14,143"	"16,274"	2	6
+		Ice Station at the End of the World	3	2447	Off-List[23]	"1,760"	Off-List[1]	"1,799"	"4,570"	2	3
+		Japanese Communities Around the World	3	Off-List[2]	Off-List[32]	"2,508"	Off-List[8]	"11,370"	"16,019"	2	4
+		Kuchisake Onna Story 1	3	1877	Off-List[7]	"1,311"	"2,654"	"1,630"	"20,731"	1	2
+		Kuchisake Onna Story 2	3	1993	Off-List[13]	"1,393"	"2,654"	"1,192"	"2,366"	1	2
+		Language Learning Tips - Listening	2	Off-List[2]	Off-List[10]	"1,239"	Off-List[4]	"1,754"	"3,410"	2	3
+		Language Learning Tips - Pronunciation	2	Off-List[6]	Off-List[18]	Off-List[1]	Off-List[6]	"2,890"	"14,346"	2	7
+		Language Learning Tips - Speaking	2	Off-List[1]	Off-List[6]	"1,657"	Off-List[1]	"2,061"	"2,967"	2	3
+		Language Learning Tips - Test Preparation	2	1362	Off-List[2]	822	"1,657"	"1,722"	"2,492"	2	2
+		Language Learning Tips - Vocabulary	2	2145	Off-List[8]	"1,657"	Off-List[3]	"2,237"	"3,867"	3	4
+		This is Facebook	4	2346	Off-List[22]	"1,798"	Off-List[5]	"2,730"	"4,058"	3	7
+	Pocket Readers - 10 Ways
+		10 Ways to Achieve Work-Life Balance	2	2049	Off-List[14]	"1,238"	Off-List[3]	"1,592"	"3,653"	2	3
+		10 Ways to be Assertive	2	Off-List[3]	Off-List[12]	"2,294"	Off-List[3]	"2,492"	"22,070"	2	3
+		10 Ways to Be Creative	2	2324	Off-List[16]	"2,207"	Off-List[6]	"2,492"	"5,777"	2	4
+		10 Ways to be Environmentally 1friendly	2	Off-List[4]	Off-List[26]	Off-List[1]	Off-List[15]	"2,148"	"6,006"	2	6
+		10 Ways to be Healthy	2	2184	Off-List[12]	"1,708"	Off-List[5]	"1,810"	"3,889"	2	5
+		10 Ways to Be Polite	2	Off-List[3]	Off-List[16]	"2,611"	Off-List[5]	"2,366"	"4,247"	2	3
+		10 Ways to be Productive	2	Off-List[1]	Off-List[14]	"2,439"	Off-List[7]	"3,090"	"6,463"	3	10
+		10 Ways to be Smart Online	2	Off-List[5]	Off-List[18]	Off-List[1]	Off-List[10]	"2,962"	"5,176"	5	33
+		10 Ways to be Successful in Love	2	1567	Off-List[4]	988	"2,631"	"1,530"	"2,641"	2	3
+		10 Ways to Choose your Career	2	1770	Off-List[6]	"1,201"	"2,750"	"2,142"	"4,157"	2	3
+		10 Ways to Collaborate	2	Off-List[1]	Off-List[9]	"1,798"	Off-List[2]	"3,063"	"11,451"	3	3
+		10 Ways to Communicate	2	1970	Off-List[7]	"1,311"	"2,488"	"1,601"	"2,754"	2	3
+		10 Ways to Control your Emotions	2	Off-List[1]	Off-List[13]	"1,811"	Off-List[1]	"1,939"	"2,366"	2	2
+		10 Ways to Cook	2	Off-List[19]	Off-List[53]	Off-List[5]	Off-List[25]	"2,139"	"4,690"	3	9
+		10 Ways to Influence People	2	2321	Off-List[8]	"1,811"	Off-List[3]	"2,733"	"7,895"	2	3
+		10 Ways to Learn English	2	1858	Off-List[10]	"1,613"	Off-List[3]	"3,486"	"9,165"	2	5
+		10 Ways to Live Cheaply	2	2399	Off-List[13]	"1,792"	Off-List[5]	"2,015"	"4,542"	2	7
+		10 Ways to Make Friends	2	1479	Off-List[4]	"1,510"	Off-List[1]	"1,377"	"2,492"	2	4
+		10 ways to Manage Money	2	1634	Off-List[3]	"1,364"	"2,651"	"2,521"	"4,830"	2	3
+		10 Ways to Manage Stress	2	Off-List[1]	Off-List[16]	"1,717"	Off-List[3]	"1,810"	"3,259"	2	3
+		10 Ways to Negotiate	2	2413	Off-List[7]	"1,859"	Off-List[1]	"2,259"	"11,858"	2	3
+		10 Ways to Organize a Trip	2	2132	Off-List[15]	"1,432"	Off-List[3]	"2,149"	"2,829"	2	4
+		10 Ways to Solve Problems	2	1723	Off-List[6]	"1,219"	Off-List[1]	"2,366"	"2,641"	2	3
+		10 Ways to Speak in Public	2	Off-List[2]	Off-List[17]	"2,116"	Off-List[6]	"2,741"	"3,620"	3	4
+		10 Ways to Stay Safe	2	2306	Off-List[24]	"2,012"	Off-List[12]	"2,161"	"4,673"	2	6
+		10 Ways to Succeed in an Interview	2	Off-List[1]	Off-List[9]	"1,584"	Off-List[1]	"3,189"	"5,271"	2	2
+		10 Ways to Think Critically	2	2175	Off-List[10]	"1,960"	Off-List[5]	"2,259"	"4,718"	2	3
+		10 Ways to Understand the News	2	1694	Off-List[7]	"1,180"	Off-List[3]	"2,555"	"4,121"	2	4
+		10 Ways to Work in a Team	2	1508	Off-List[5]	"1,073"	Off-List[2]	"2,366"	"3,653"	2	4
+		10 Ways to Write Well	2	2340	Off-List[11]	"1,641"	Off-List[1]	"2,366"	"4,449"	2	3
+	Pocket Readers - Business
+		Email The	2	Off-List[4]	Off-List[25]	"1,641"	Off-List[6]	"11,331"	"20,269"	4	9
+		Entertaining Overseas Visitors	2	Off-List[4]	Off-List[38]	"1,824"	Off-List[6]	"4,617"	"21,002"	2	33
+		First Business Trip Overseas	2	Off-List[8]	Off-List[42]	Off-List[2]	Off-List[15]	"9,434"	"21,002"	4	33
+		First Week on the Job The	2	2485	Off-List[23]	"1,506"	Off-List[4]	"5,057"	"12,128"	2	4
+		Job Interview The	2	Off-List[2]	Off-List[28]	"1,701"	Off-List[6]	"4,094"	"39,493"	2	8
+		Meeting The	2	Off-List[2]	Off-List[22]	"2,028"	Off-List[4]	"6,079"	"35,149"	4	8
+		Mentor The	2	2316	Off-List[27]	"1,348"	Off-List[3]	"12,189"	"18,579"	2	6
+		Office Conflict The	2	Off-List[2]	Off-List[19]	"1,679"	Off-List[4]	"11,210"	"21,002"	2	8
+		Presentation The	2	Off-List[8]	Off-List[32]	"2,582"	Off-List[10]	"4,936"	"20,269"	4	16
+		Product Launch The	2	Off-List[2]	Off-List[23]	Off-List[1]	Off-List[9]	"5,032"	"20,269"	4	8
+Helbling
+	Helbling Classics - Blue
+		Call of the Wild The	3	Off-List[123]	Off-List[421]	Off-List[5]	Off-List[124]	"4,655"	"12,175"	2	5
+		Canterville Ghost The	4	Off-List[237]	Off-List[494]	Off-List[61]	Off-List[266]	"6,869"	"12,618"	3	6
+		Daisy Miller	4	Off-List[138]	Off-List[431]	Off-List[21]	Off-List[214]	"11,723"	"52,057"	4	8
+		Emma	3	Off-List[4]	Off-List[82]	"1,399"	Off-List[5]	"7,502"	"12,690"	1	2
+		Garden Party and Sixpence The	3	Off-List[152]	Off-List[378]	Off-List[16]	Off-List[167]	"8,332"	"13,509"	2	5
+		Great Gatsby The	4	Off-List[15]	Off-List[188]	"1,831"	Off-List[27]	"3,948"	"12,602"	2	6
+		Heart of Darkness	4	Off-List[105]	Off-List[357]	Off-List[9]	Off-List[170]	"4,816"	"19,764"	3	5
+		Strange Case of Dr Jekyll and Mr Hyde The	4	Off-List[20]	Off-List[215]	"2,203"	Off-List[35]	"4,292"	"11,758"	2	3
+		Tales of Mystery	4	Off-List[303]	Off-List[553]	Off-List[97]	Off-List[318]	"7,556"	"15,266"	4	6
+		Wuthering Heights	3	Off-List[23]	Off-List[183]	"2,301"	Off-List[51]	"8,049"	"26,155"	2	5
+	Helbling Classics - Red
+		Alice's Adventures in Wonderland	2	Off-List[19]	Off-List[98]	"2,415"	Off-List[27]	"3,167"	"11,463"	2	7
+		Black Beauty	2	Off-List[15]	Off-List[88]	"2,191"	Off-List[19]	"5,726"	"12,960"	2	5
+		Christmas Carol A	3	Off-List[87]	Off-List[297]	Off-List[9]	Off-List[169]	"39,415"	0[29]	3	Off-List[24]
+		Fisherman and his Soul The	2	Off-List[19]	Off-List[113]	"2,423"	Off-List[29]	"3,171"	"5,002"	5	33
+		Gullivers Travels	3	Off-List[15]	Off-List[127]	"2,380"	Off-List[32]	"2,890"	"6,191"	2	4
+		Little Women	2	Off-List[14]	Off-List[103]	"2,451"	Off-List[20]	"11,210"	"14,252"	2	4
+		Oliver Twist	3	Off-List[10]	Off-List[109]	"2,221"	Off-List[17]	"13,871"	"25,901"	2	5
+		Peter Pan	2	Off-List[15]	Off-List[107]	"2,687"	Off-List[28]	"8,605"	"12,690"	2	13
+	Helbling Fiction - Blue
+		Albatross The	4	Off-List[42]	Off-List[213]	Off-List[1]	Off-List[51]	"9,111"	"19,701"	3	6
+		Boy Who Could Fly The	3	Off-List[12]	Off-List[178]	"2,091"	Off-List[57]	"11,139"	"20,269"	2	17
+		Coconut Seller The	4	Off-List[101]	Off-List[323]	Off-List[5]	Off-List[175]	"5,451"	"34,475"	3	33
+		Danger in the Sun	4	Off-List[26]	Off-List[240]	"2,541"	Off-List[92]	"4,523"	"15,450"	2	25
+		Green Room The	3	Off-List[1]	Off-List[77]	"1,619"	Off-List[7]	"7,349"	"35,919"	2	6
+		Jam	3	Off-List[6]	Off-List[95]	"2,593"	Off-List[15]	"3,423"	"12,960"	2	4
+		Mystery at the Mill	4	Off-List[30]	Off-List[190]	"2,730"	Off-List[44]	"11,642"	"26,636"	2	6
+		Operation Osprey	3	Off-List[18]	Off-List[158]	"2,215"	Off-List[27]	"4,091"	"13,003"	2	4
+		Red Water	4	Off-List[28]	Off-List[245]	"2,534"	Off-List[91]	"7,454"	"19,331"	3	8
+	Helbling Fiction - Red
+		Anti-bully Squad The	2	Off-List[38]	Off-List[181]	Off-List[2]	Off-List[89]	"12,602"	"22,109"	4	Off-List[1]
+		Dan and The Missing Dogs	2	Off-List[1]	Off-List[34]	"1,896"	Off-List[6]	"11,565"	"12,189"	2	5
+		Dan and the Village Fte	2	2253	Off-List[21]	"1,586"	Off-List[3]	"12,189"	"12,292"	2	3
+		Mr Football	3	Off-List[25]	Off-List[193]	"2,241"	Off-List[60]	"12,662"	"13,283"	2	13
+		New Home for Socks A	2	Off-List[4]	Off-List[44]	Off-List[1]	Off-List[15]	"2,958"	"14,107"	2	5
+		Princess on the Run	2	Off-List[6]	Off-List[59]	"1,932"	Off-List[10]	"4,613"	"15,931"	2	5
+		Stubs Grows Up	3	Off-List[12]	Off-List[129]	"1,911"	Off-List[21]	"6,669"	"12,079"	3	8
+		Time Capsule The	2	Off-List[8]	Off-List[131]	Off-List[1]	Off-List[28]	"11,512"	"12,602"	2	9
+		Twins	3	Off-List[13]	Off-List[169]	"2,364"	Off-List[41]	"12,103"	"23,834"	3	10
+	Helbling Fiction Short Reads - Red
+		African Mask The	2	2287	Off-List[10]	"1,602"	Off-List[1]	"2,391"	"14,278"	2	2
+		Clever Woman The	2	Off-List[6]	Off-List[11]	"2,739"	Off-List[5]	"2,150"	"13,268"	2	4
+		Fireball's Heart	2	2048	Off-List[7]	"1,718"	"2,672"	"2,369"	"2,996"	2	7
+		Surprise The	2	Off-List[9]	Off-List[34]	Off-List[2]	Off-List[14]	"7,349"	"13,466"	2	17
+	Rudyard Kipling
+		Mowglis Brothers	2	Off-List[38]	Off-List[167]	Off-List[3]	Off-List[52]	"2,851"	"7,299"	3	5
+I Talk-You Talk Press
+	English Graded Readers
+		Adventure in Rome	3	2049	Off-List[26]	"1,402"	Off-List[4]	"5,489"	"15,267"	2	6
+		Adventure on the Mountain	2	Off-List[1]	Off-List[21]	"1,525"	Off-List[4]	"1,447"	"2,366"	2	3
+		Akiko and Amy Part 1	4	Off-List[12]	Off-List[53]	"2,617"	Off-List[14]	"9,165"	"13,149"	2	6
+		Akiko and Amy Part 2	4	Off-List[3]	Off-List[56]	"1,586"	Off-List[12]	"9,165"	"13,149"	2	4
+		Akiko and Amy Part 3	4	Off-List[1]	Off-List[54]	"1,442"	Off-List[8]	"2,895"	"13,149"	2	3
+		Andre's Dream	3	2355	Off-List[39]	"1,487"	Off-List[3]	"9,165"	"15,116"	1	2
+		Be My Valentine	4	Off-List[13]	Off-List[99]	"2,617"	Off-List[27]	"3,175"	"12,991"	2	7
+		Birthdays to Remember	4	Off-List[11]	Off-List[81]	"2,413"	Off-List[24]	"3,092"	"15,192"	2	8
+		Blue Lace Curtain The	5	Off-List[7]	Off-List[131]	"1,811"	Off-List[19]	"10,965"	"13,696"	2	4
+		Box The	5	Off-List[3]	Off-List[125]	"1,864"	Off-List[18]	"10,612"	"13,211"	2	3
+		Business Trip to New York A	2	Off-List[9]	Off-List[50]	"2,211"	Off-List[17]	"5,995"	"16,497"	2	5
+		Chi-obaa and Friends	5	Off-List[10]	Off-List[92]	"2,105"	Off-List[23]	"3,829"	"18,927"	2	5
+		Chi-obaa and Her Town	5	Off-List[1]	Off-List[88]	"2,021"	Off-List[15]	"4,851"	"18,927"	2	4
+		Christmas Present The	2	2353	Off-List[22]	"1,602"	Off-List[1]	"11,210"	"12,292"	1	3
+		Christmas Tales	3	Off-List[9]	Off-List[69]	"2,280"	Off-List[20]	"4,522"	"15,099"	2	4
+		Cruise Ship The	3	2237	Off-List[18]	"1,564"	Off-List[4]	"8,605"	"12,351"	2	3
+		Curse The	4	Off-List[4]	Off-List[44]	"2,014"	Off-List[3]	"13,121"	"14,903"	2	3
+		Danger in Seattle	3	2058	Off-List[28]	"1,393"	Off-List[2]	"1,607"	"4,094"	1	3
+		Dangerous Weekend A	4	Off-List[19]	Off-List[116]	"2,236"	Off-List[31]	"2,816"	"6,794"	2	8
+		Dear Ellen	2	2207	Off-List[31]	"1,387"	Off-List[2]	"14,157"	"14,157"	1	4
+		Diary The	4	Off-List[1]	Off-List[32]	"2,155"	Off-List[6]	"2,789"	"10,022"	2	4
+		Different Seas	4	Off-List[25]	Off-List[194]	"2,303"	Off-List[47]	"2,366"	"5,387"	2	4
+		Don't Come Back	3	Off-List[1]	Off-List[20]	"1,683"	Off-List[1]	"2,910"	"13,947"	1	2
+		Dressed for Success	3	Off-List[4]	Off-List[69]	"1,905"	Off-List[20]	"15,253"	"16,960"	2	5
+		Elspeth and the Visitor	3	Off-List[5]	Off-List[34]	"2,053"	Off-List[7]	"3,820"	"25,200"	1	3
+		Emily's Bag	2	1872	Off-List[9]	"1,250"	"2,053"	"10,965"	"15,301"	1	2
+		End House	5	Off-List[5]	Off-List[139]	"1,806"	Off-List[21]	"10,965"	"12,351"	2	4
+		Enjoy Your Business Trip	4	Off-List[6]	Off-List[39]	"1,913"	Off-List[8]	"10,674"	0[1]	3	Off-List[1]
+		Enjoy Your Homestay	4	Off-List[11]	Off-List[72]	Off-List[2]	Off-List[23]	"4,022"	0[1]	3	Off-List[2]
+		Everyday Heroes	2	Off-List[7]	Off-List[38]	"2,154"	Off-List[7]	"3,201"	"13,871"	2	4
+		Finders Keepers...	3	Off-List[4]	Off-List[38]	"2,105"	Off-List[10]	"2,510"	"13,133"	2	5
+		Haruna's Story Part 1	2	Off-List[4]	Off-List[28]	"2,076"	Off-List[8]	"14,465"	"58,063"	2	24
+		Haruna's Story Part 2	2	Off-List[6]	Off-List[43]	"2,690"	Off-List[15]	"4,891"	"14,752"	3	24
+		Haruna's Story Part 3	2	Off-List[5]	Off-List[31]	"2,214"	Off-List[5]	"4,299"	"10,610"	3	6
+		Holiday to Remember A	4	Off-List[12]	Off-List[94]	"1,888"	Off-List[15]	"2,015"	"3,572"	2	5
+		Homestay in Auckland A	2	Off-List[4]	Off-List[67]	"1,641"	Off-List[16]	"2,258"	"11,370"	2	3
+		House in the Forest The	3	Off-List[6]	Off-List[48]	"1,948"	Off-List[8]	"2,815"	"13,607"	2	4
+		Hunted in Hong Kong	3	2117	Off-List[11]	"1,396"	"2,601"	"1,607"	"10,610"	1	2
+		I Need a Friend	4	Off-List[8]	Off-List[105]	"2,166"	Off-List[23]	"6,355"	"12,013"	2	5
+		I'm Late! 	4	Off-List[4]	Off-List[51]	"1,893"	Off-List[9]	"2,890"	"14,766"	2	4
+		Jimmy Luther	2	Off-List[7]	Off-List[54]	"2,214"	Off-List[16]	"13,172"	"13,172"	2	6
+		John Sees a Murder	3	2284	Off-List[22]	"1,635"	Off-List[1]	"1,983"	"5,874"	2	2
+		Ken's Story Part 1	2	Off-List[2]	Off-List[26]	"1,552"	Off-List[4]	"19,957"	"19,957"	2	4
+		Ken's Story Part 2	2	Off-List[1]	Off-List[35]	"1,664"	Off-List[7]	"19,957"	"21,849"	2	23
+		Killer	5	Off-List[2]	Off-List[96]	"1,688"	Off-List[10]	"10,965"	"17,186"	2	4
+		Kindness of Strangers The	3	Off-List[4]	Off-List[44]	"2,082"	Off-List[13]	"2,436"	"13,338"	2	6
+		Legacy The	5	Off-List[7]	Off-List[137]	"1,812"	Off-List[21]	"4,379"	"14,234"	2	4
+		Life is Surprising!	2	Off-List[3]	Off-List[49]	"1,664"	Off-List[3]	"3,653"	"18,087"	2	3
+		Lincoln Takes a Trip	4	Off-List[1]	Off-List[43]	"1,646"	Off-List[4]	"12,786"	"14,752"	2	6
+		Marcy's Bakery	3	Off-List[2]	Off-List[14]	Off-List[1]	Off-List[3]	"4,601"	"19,471"	2	4
+		Match Day	4	Off-List[4]	Off-List[38]	"2,055"	Off-List[4]	"6,222"	"14,046"	5	6
+		Men's Konkatsu Tales	3	Off-List[5]	Off-List[31]	"1,536"	Off-List[7]	"2,366"	"11,886"	2	6
+		Message in a Bottle	3	1931	Off-List[15]	"1,438"	"2,664"	"5,985"	"16,861"	1	2
+		Murder in Marrakech	3	Off-List[1]	Off-List[17]	"2,677"	Off-List[4]	"2,436"	"13,629"	2	5
+		Murder on Whale Island	3	Off-List[2]	Off-List[36]	"2,139"	Off-List[7]	"11,139"	"12,690"	2	4
+		Old Hospital The	2	2440	Off-List[9]	"1,718"	Off-List[1]	"2,988"	"11,758"	1	2
+		Old Jack's Ghost Stories from England (1)	4	Off-List[4]	Off-List[50]	"2,601"	Off-List[11]	"3,164"	"11,680"	2	4
+		Old Jack's Ghost Stories from England (2)	4	Off-List[7]	Off-List[35]	"2,670"	Off-List[7]	"2,916"	"14,752"	2	4
+		Old Jack's Ghost Stories from Ireland	4	Off-List[6]	Off-List[54]	"2,497"	Off-List[5]	"3,835"	"11,937"	2	3
+		Old Jack's Ghost Stories from Japan	4	Off-List[5]	Off-List[46]	"2,669"	Off-List[14]	"3,721"	"11,210"	2	11
+		Old Jack's Ghost Stories from Scotland	4	Off-List[9]	Off-List[57]	"2,449"	Off-List[13]	"2,917"	"9,165"	2	6
+		Old Jack's Ghost Stories from Wales	4	Off-List[5]	Off-List[51]	"2,322"	Off-List[6]	"1,972"	"5,081"	2	2
+		On the Run	5	Off-List[24]	Off-List[241]	"2,143"	Off-List[56]	"8,309"	"12,676"	2	4
+		Other Sisters The	5	Off-List[1]	Off-List[101]	"1,564"	Off-List[9]	"8,508"	"13,133"	2	3
+		Party Time!	4	Off-List[10]	Off-List[118]	"2,015"	Off-List[20]	"3,288"	"16,235"	2	4
+		Passion for Music A	3	Off-List[1]	Off-List[20]	"2,303"	Off-List[1]	"11,331"	"12,079"	2	5
+		Perfect Wedding The	3	Off-List[1]	Off-List[40]	"1,703"	Off-List[4]	"3,452"	"14,766"	1	2
+		Pretty and Bright	4	Off-List[1]	Off-List[78]	"1,742"	Off-List[8]	"2,958"	"11,905"	2	4
+		Ryokan Life	2	Off-List[1]	Off-List[22]	"1,563"	Off-List[4]	"1,917"	"12,991"	2	2
+		Salaryman Secrets!	3	Off-List[11]	Off-List[48]	"2,379"	Off-List[15]	"3,293"	"13,516"	2	3
+		Saori and the Storm	2	2355	Off-List[35]	"1,652"	Off-List[4]	"7,349"	"16,528"	1	4
+		School on Bolt Street The	3	Off-List[1]	Off-List[51]	"1,664"	Off-List[12]	"5,953"	"15,503"	2	6
+		Stories for Christmas	4	Off-List[22]	Off-List[137]	"2,332"	Off-List[36]	"4,961"	"13,438"	2	4
+		Stories for Halloween	3	Off-List[6]	Off-List[55]	"2,261"	Off-List[6]	"1,935"	"6,270"	2	5
+		Strange Stories	2	Off-List[10]	Off-List[81]	"2,166"	Off-List[16]	"2,700"	"19,957"	2	8
+		Summer Days	4	Off-List[9]	Off-List[58]	"1,820"	Off-List[6]	"2,492"	"12,571"	2	4
+		Temple Treasure The	5	Off-List[5]	Off-List[53]	Off-List[1]	Off-List[14]	"2,357"	"4,634"	2	4
+		Time to Go	4	2304	Off-List[38]	"1,718"	Off-List[3]	"10,767"	"13,293"	2	3
+		Together Again	4	Off-List[2]	Off-List[84]	"1,832"	Off-List[12]	"1,907"	"4,109"	2	5
+		Train Travel	3	Off-List[3]	Off-List[70]	"1,597"	Off-List[11]	"9,546"	"13,516"	2	4
+		Trapped	5	Off-List[8]	Off-List[132]	"1,965"	Off-List[26]	"11,491"	"15,890"	2	4
+		Trip to London A	2	Off-List[21]	Off-List[71]	Off-List[1]	Off-List[24]	"10,610"	"11,680"	2	5
+		Trouble in Paris	3	Off-List[3]	Off-List[53]	"2,166"	Off-List[12]	"2,492"	"11,370"	2	6
+		Vanished Away	5	Off-List[20]	Off-List[130]	"2,669"	Off-List[29]	"2,601"	"6,628"	2	4
+		We Met Online	2	2304	Off-List[31]	"1,563"	Off-List[3]	"3,501"	"12,169"	2	3
+		Wei's Part-Time Job	2	Off-List[1]	Off-List[15]	"2,106"	Off-List[4]	"2,988"	"15,100"	2	6
+		Who is Holly?	4	Off-List[4]	Off-List[89]	"1,635"	Off-List[16]	"5,809"	"19,012"	2	5
+		Who's There?	3	Off-List[5]	Off-List[41]	"2,166"	Off-List[8]	"2,282"	"13,595"	2	5
+		Witches of Nakashige The	5	Off-List[9]	Off-List[93]	"2,289"	Off-List[15]	"2,778"	"17,849"	2	3
+		Women's Konkatsu Tales	3	Off-List[4]	Off-List[37]	"1,393"	Off-List[8]	"2,237"	"8,177"	2	6
+ILTS
+	Robin Readers
+		A Dangerous Race	1	Off-List[15]	Off-List[34]	Off-List[2]	Off-List[14]	"12,602"	"24,750"	7	17
+		A Second Chance	3	Off-List[7]	Off-List[72]	"1,811"	Off-List[5]	"4,528"	"12,169"	2	4
+		Adventure in the Alps	1	Off-List[6]	Off-List[19]	"2,591"	"2,699"	"12,602"	"12,886"	2	3
+		Between the Flags	2	Off-List[4]	Off-List[34]	"2,154"	Off-List[4]	"11,778"	"12,676"	2	5
+		Blown Away	3	Off-List[14]	Off-List[115]	"2,369"	Off-List[17]	"3,190"	"8,516"	2	5
+		Blue Moon Beach	2	2371	Off-List[8]	"2,104"	Off-List[1]	"6,059"	"12,103"	2	3
+		Body on the Rocks	4	Off-List[22]	Off-List[163]	"2,361"	Off-List[25]	"3,882"	"11,598"	2	5
+		Broken Wings	4	Off-List[30]	Off-List[176]	"2,236"	Off-List[31]	"3,925"	"12,618"	2	4
+		CHOIR Boy	2	Off-List[6]	Off-List[52]	"2,283"	Off-List[9]	"15,038"	"15,038"	2	4
+		Cousins and Crocodiles	1	Off-List[2]	Off-List[15]	"2,691"	Off-List[3]	"10,610"	"13,747"	2	7
+		Deadly Holiday	2	Off-List[1]	Off-List[42]	"1,864"	Off-List[6]	"10,767"	"14,329"	2	2
+		Death at Hadrians Wall	2	Off-List[3]	Off-List[28]	"2,146"	Off-List[4]	"2,356"	"13,685"	2	3
+		Divers in Danger	1	Off-List[14]	Off-List[34]	Off-List[2]	Off-List[10]	"7,556"	"12,079"	3	8
+		Double Trouble	2	Off-List[11]	Off-List[67]	"2,451"	Off-List[16]	"10,499"	"18,439"	2	17
+		Gone!	2	2252	Off-List[33]	"1,729"	Off-List[6]	"3,002"	"11,210"	1	2
+		Grizzly	1	Off-List[7]	Off-List[23]	"2,181"	Off-List[6]	"11,531"	"12,351"	2	5
+		Hot Air	2	Off-List[3]	Off-List[36]	Off-List[1]	Off-List[6]	"7,787"	"13,975"	2	4
+		In Sarahs Dreams	2	1852	Off-List[7]	"1,343"	"2,784"	"12,351"	"13,644"	1	2
+		Kidnapped in Cornwall	3	Off-List[12]	Off-List[83]	"2,451"	Off-List[20]	"13,757"	"40,366"	2	4
+		Land of Gold	1	2287	Off-List[7]	"1,825"	Off-List[3]	"11,762"	"19,101"	2	18
+		Lost in the Rain	1	2090	Off-List[11]	"1,668"	Off-List[3]	"14,357"	"20,269"	1	7
+		Lucky for Some	2	2215	Off-List[25]	"1,536"	Off-List[2]	"3,242"	"13,434"	1	3
+		Murder Weekend	3	Off-List[7]	Off-List[82]	"2,136"	Off-List[13]	"2,619"	"12,829"	2	3
+		Mystery at Lion Rock	2	Off-List[3]	Off-List[72]	"1,675"	Off-List[9]	"2,409"	"14,252"	2	4
+		Pirates!	2	Off-List[5]	Off-List[26]	"2,438"	Off-List[6]	"11,210"	"13,996"	3	5
+		Planespotting	1	Off-List[1]	Off-List[20]	"1,794"	Off-List[3]	"12,662"	"13,508"	2	8
+		Playing with Fire	2	Off-List[2]	Off-List[22]	"1,811"	Off-List[2]	"3,976"	"14,672"	2	4
+		Racing the Tide	3	Off-List[6]	Off-List[90]	"2,297"	Off-List[12]	"5,248"	"16,528"	2	5
+		Ride for Your Life	2	Off-List[1]	Off-List[27]	"2,359"	Off-List[2]	"8,964"	"14,329"	2	5
+		River of Dreams	3	Off-List[23]	Off-List[161]	"2,266"	Off-List[23]	"2,492"	"6,688"	2	4
+		Road to Nowhere	3	Off-List[5]	Off-List[65]	"1,880"	Off-List[7]	"7,175"	"13,964"	5	8
+		Ruby's Gift	2	Off-List[5]	Off-List[33]	"2,112"	Off-List[7]	"11,918"	"14,752"	2	9
+		Shopping for Trouble	2	Off-List[1]	Off-List[23]	"1,437"	Off-List[3]	"9,406"	"21,329"	1	3
+		Skeleton Island	1	Off-List[13]	Off-List[34]	Off-List[5]	Off-List[16]	"4,884"	"23,499"	4	6
+		Sorrow	3	Off-List[27]	Off-List[217]	"2,586"	Off-List[40]	"2,918"	"4,713"	2	5
+		Stars of Tomorrow	1	2156	Off-List[10]	"1,412"	"2,586"	"14,157"	"14,157"	1	5
+		Stop that Musketeer!	1	Off-List[2]	Off-List[16]	"2,654"	Off-List[5]	"13,792"	"14,792"	4	6
+		Stranger Danger	2	2284	Off-List[40]	"1,630"	Off-List[1]	"6,369"	"11,491"	1	2
+		The Alati Collection	3	Off-List[11]	Off-List[84]	"2,194"	Off-List[15]	"4,286"	"14,828"	2	4
+		The Art Show	4	Off-List[4]	Off-List[135]	"1,788"	Off-List[5]	"3,015"	"9,406"	2	3
+		The Black Night	2	Off-List[6]	Off-List[30]	"2,592"	Off-List[9]	"3,897"	"17,186"	2	4
+		The Bookshop	2	2407	Off-List[20]	"1,664"	Off-List[3]	"3,118"	"5,618"	2	5
+		The Bride Wore Black	2	Off-List[2]	Off-List[32]	"1,736"	Off-List[5]	"11,565"	"14,691"	2	3
+		The Cave of the Jaguar	2	Off-List[17]	Off-List[77]	Off-List[3]	Off-List[25]	"11,548"	"13,975"	3	6
+		The Creature	4	Off-List[42]	Off-List[171]	Off-List[3]	Off-List[35]	"4,990"	"8,484"	4	6
+		The Day of the Flood	2	Off-List[3]	Off-List[35]	"2,111"	Off-List[5]	"7,349"	"16,175"	2	3
+		The Fast Lane	1	2008	Off-List[6]	"1,525"	"2,253"	"1,173"	"7,556"	1	2
+		The Football Match	1	Off-List[1]	Off-List[12]	"1,824"	Off-List[2]	"17,999"	"18,025"	2	4
+		The Game	1	Off-List[10]	Off-List[29]	Off-List[1]	Off-List[10]	"1,748"	"4,134"	2	5
+		The Key	2	2037	Off-List[24]	"1,361"	"2,796"	"2,127"	"11,210"	1	2
+		The Man Next Door	2	Off-List[4]	Off-List[58]	"1,736"	Off-List[6]	"6,457"	"14,329"	2	4
+		The Rainbow Girl	2	Off-List[3]	Off-List[32]	"2,181"	Off-List[4]	"1,907"	"20,011"	2	5
+		The Right Team	1	1703	Off-List[9]	"1,217"	"2,763"	"11,210"	"18,943"	1	2
+		The Secret by the Lake	2	Off-List[6]	Off-List[40]	"2,166"	Off-List[10]	"14,357"	"20,269"	2	5
+		The Secret in the Farmhouse	2	2008	Off-List[23]	"1,384"	Off-List[2]	"11,905"	"12,480"	2	13
+		The Show Must Go On	2	2283	Off-List[20]	"1,367"	Off-List[1]	"12,602"	"12,662"	1	2
+		The Singing Stones	3	Off-List[27]	Off-List[100]	Off-List[1]	Off-List[25]	"24,680"	"49,555"	2	19
+		The Sky Readers	3	Off-List[10]	Off-List[77]	"2,589"	Off-List[14]	"3,285"	"26,989"	2	5
+		The Winning Shot	1	Off-List[5]	Off-List[19]	"2,691"	Off-List[10]	"7,556"	"16,581"	5	11
+		The Young Riders	1	2490	Off-List[13]	"1,748"	Off-List[1]	"1,509"	"8,964"	1	2
+		What Happened at Seacliffe	3	Off-List[8]	Off-List[89]	"2,415"	Off-List[15]	"7,556"	"20,926"	2	24
+		What Rose Saw	2	Off-List[1]	Off-List[40]	"1,630"	Off-List[5]	"2,162"	"11,531"	2	3
+		When the Sea Came In	3	Off-List[2]	Off-List[73]	"1,718"	Off-List[5]	"2,391"	"10,767"	2	2
+		Wild Water	3	Off-List[18]	Off-List[117]	"2,511"	Off-List[15]	"9,438"	"15,609"	2	5
+		Worm Juice	2	Off-List[3]	Off-List[27]	Off-List[1]	Off-List[6]	"13,069"	"14,703"	2	4
+Independent
+	Mid-frequency Readers
+		A Christmas Carol (Level 1)	5	Off-List[490]	Off-List[1155]	Off-List[99]	Off-List[538]	"6,775"	"21,392"	3	5
+		A Christmas Carol (Level 2)	6	Off-List[646]	Off-List[1422]	Off-List[204]	Off-List[775]	"8,489"	"35,326"	4	6
+		A Christmas Carol (Level 3)	6	Off-List[665]	Off-List[1456]	Off-List[213]	Off-List[793]	"8,605"	"35,326"	4	6
+		A Modest Proposal (Level 1)	5	Off-List[184]	Off-List[288]	Off-List[67]	Off-List[171]	"8,200"	"16,506"	3	5
+		A Modest Proposal (Level 2)	6	Off-List[203]	Off-List[306]	Off-List[89]	Off-List[192]	"9,883"	"21,079"	4	6
+		A Modest Proposal (Level 3)	6	Off-List[213]	Off-List[316]	Off-List[101]	Off-List[204]	"10,660"	"24,853"	4	7
+		Alice's Adventures in Wonderland (Level 1)	5	Off-List[106]	Off-List[401]	"2,739"	Off-List[137]	"3,876"	"11,463"	3	5
+		Alice's Adventures in Wonderland (Level 2)	6	Off-List[125]	Off-List[441]	Off-List[4]	Off-List[174]	"4,232"	"12,993"	3	6
+		Alice's Adventures in Wonderland (Level 3)	6	Off-List[133]	Off-List[470]	Off-List[7]	Off-List[193]	"4,509"	"13,303"	3	6
+		Glimpses of an Unfamiliar Japan (Level 1)	5	Off-List[1141]	Off-List[2493]	Off-List[449]	Off-List[1304]	"11,370"	"34,909"	5	11
+		Glimpses of an Unfamiliar Japan (Level 2)	6	Off-List[1376]	Off-List[2971]	Off-List[615]	Off-List[1654]	"13,264"	"40,590"	5	10
+		Glimpses of an Unfamiliar Japan (Level 3)	6	Off-List[1557]	Off-List[3353]	Off-List[749]	Off-List[1893]	"15,852"	"48,341"	6	13
+		Metamorphosis (Level 1)	5	Off-List[73]	Off-List[433]	"2,417"	Off-List[104]	"3,123"	"5,659"	2	4
+		Metamorphosis (Level 2)	6	Off-List[97]	Off-List[512]	"2,654"	Off-List[155]	"3,328"	"6,667"	2	4
+		Metamorphosis (Level 3)	6	Off-List[106]	Off-List[541]	"2,680"	Off-List[190]	"3,452"	"7,344"	2	4
+		More William	5	Off-List[662]	Off-List[1550]	Off-List[235]	Off-List[775]	"11,025"	"15,266"	4	6
+		More William	6	Off-List[734]	Off-List[1726]	Off-List[295]	Off-List[939]	"11,025"	"19,200"	4	6
+		More William	6	Off-List[795]	Off-List[1827]	Off-List[329]	Off-List[1045]	"11,025"	"22,309"	4	7
+		The Adventures of Sherlock Holmes (Level 1)	5	Off-List[444]	Off-List[1460]	Off-List[42]	Off-List[603]	"5,301"	"11,482"	3	4
+		The Adventures of Sherlock Holmes (Level 2)	6	Off-List[574]	Off-List[1745]	Off-List[103]	Off-List[840]	"5,950"	"12,921"	3	5
+		The Adventures of Sherlock Holmes (Level 3)	6	Off-List[668]	Off-List[1945]	Off-List[153]	Off-List[1007]	"6,630"	"15,093"	3	6
+		The Art of War (Level 1)	5	Off-List[219]	Off-List[521]	Off-List[63]	Off-List[257]	"20,596"	0[2]	5	Off-List[2]
+		The Art of War (Level 2)	6	Off-List[290]	Off-List[617]	Off-List[111]	Off-List[362]	"35,255"	0[2]	7	Off-List[2]
+		The Art of War (Level 3)	6	Off-List[321]	Off-List[648]	Off-List[126]	Off-List[392]	"39,509"	0[2]	8	Off-List[2]
+		Wuthering Heights (Level 1)	5	Off-List[976]	Off-List[2311]	Off-List[334]	Off-List[1219]	"9,406"	"20,185"	4	5
+		Wuthering Heights (Level 2)	6	Off-List[1119]	Off-List[2570]	Off-List[437]	Off-List[1479]	"10,790"	"25,802"	4	6
+		Wuthering Heights (Level 3)	6	Off-List[1217]	Off-List[2833]	Off-List[507]	Off-List[1660]	"11,292"	"26,155"	4	7
+	Special
+		100 Days at Sea	2	Off-List[7]	Off-List[72]	"2,154"	Off-List[14]	"4,735"	"15,510"	2	5
+		War Hero	4	Off-List[11]	Off-List[40]	"2,404"	Off-List[11]	"10,965"	"16,862"	2	4
+Macmillan
+	Macmillan Readers
+		Adventures of Huckleberry Finn_ The	2	Off-List[4]	Off-List[45]	"1,998"	Off-List[7]	"5,694"	"11,548"	2	4
+		Adventures of Tom Sawyer_ The	2	Off-List[17]	Off-List[68]	"2,665"	Off-List[16]	"12,602"	"19,924"	2	5
+		Anna and the Fighter	2	Off-List[4]	Off-List[26]	"1,773"	Off-List[3]	"17,299"	"17,299"	1	4
+		Anna Karenina	4	Off-List[5]	Off-List[123]	"1,912"	Off-List[9]	"4,095"	"13,133"	2	4
+		Around the World in Eighty Days	1	Off-List[2]	Off-List[13]	"1,909"	Off-List[4]	"11,210"	"24,932"	2	3
+		Billy Budd 	2	Off-List[16]	Off-List[59]	Off-List[4]	Off-List[21]	"13,121"	"22,309"	2	8
+		Black Cat_ The	3	Off-List[5]	Off-List[44]	"2,056"	Off-List[8]	"2,851"	"14,724"	2	4
+		Black Tulip_ The	2	Off-List[2]	Off-List[22]	"2,547"	Off-List[2]	"5,874"	"14,842"	2	9
+		Bleak House	4	Off-List[8]	Off-List[107]	"1,920"	Off-List[13]	"11,210"	"14,252"	2	4
+		Blue Fins 	1	Off-List[10]	Off-List[20]	Off-List[2]	Off-List[8]	"9,438"	"14,203"	5	6
+		Bristol Murder	4	Off-List[3]	Off-List[53]	"2,170"	Off-List[4]	"8,605"	"13,003"	2	4
+		Call of the Wild	3	Off-List[16]	Off-List[110]	"2,387"	Off-List[16]	"4,282"	"12,028"	2	5
+		Canterville Ghost and Other Stories_ The	3	Off-List[23]	Off-List[107]	"2,755"	Off-List[25]	"4,585"	"12,107"	2	4
+		Christmas Carol_ A	3	Off-List[8]	Off-List[62]	"2,598"	Off-List[9]	"6,369"	"39,415"	2	2
+		Claws 	3	Off-List[2]	Off-List[24]	"1,948"	Off-List[2]	"4,570"	"12,948"	2	4
+		Cut Glass Bowl and Other Stories_ The	4	Off-List[31]	Off-List[148]	"2,192"	Off-List[22]	"7,904"	"13,768"	2	5
+		Daisy Miller	3	Off-List[8]	Off-List[78]	"1,988"	Off-List[13]	"9,406"	"62,593"	2	8
+		Dangerous Journey	2	Off-List[1]	Off-List[16]	"1,996"	Off-List[2]	"11,531"	"14,624"	2	2
+		David Copperfield	4	Off-List[4]	Off-List[97]	"1,817"	Off-List[11]	"11,210"	"31,559"	1	3
+		Dr Jekyll and Mr Hyde	3	Off-List[1]	Off-List[36]	"1,747"	Off-List[1]	"11,758"	"37,649"	2	3
+		Dracula 	4	Off-List[9]	Off-List[61]	"2,215"	Off-List[6]	"3,242"	"13,016"	2	7
+		Emma 	4	Off-List[2]	Off-List[64]	"1,399"	Off-List[4]	"11,210"	"12,690"	1	2
+		Enchanted April_ The	4	Off-List[9]	Off-List[83]	"1,727"	Off-List[11]	"11,680"	"23,628"	1	2
+		Far from the Madding Crowd	3	Off-List[12]	Off-List[109]	"2,033"	Off-List[17]	"11,210"	"45,969"	2	4
+		Frankenstein	3	Off-List[1]	Off-List[37]	"1,727"	Off-List[3]	"2,391"	"6,806"	2	3
+		Gandhi	3	Off-List[12]	Off-List[106]	"2,198"	Off-List[18]	"10,612"	"20,878"	2	3
+		Goldfinger	4	Off-List[43]	Off-List[233]	"2,466"	Off-List[62]	"11,210"	"24,761"	4	33
+		Good Wives 	2	1788	Off-List[17]	"1,563"	"2,582"	"13,149"	"14,252"	1	2
+		Great Expectations	4	Off-List[28]	Off-List[180]	"2,361"	Off-List[41]	"9,406"	"23,016"	2	5
+		Gulliver's Travel in Lilliput	1	Off-List[1]	Off-List[7]	Off-List[1]	Off-List[2]	"1,952"	"5,002"	2	4
+		Hamlet 	4	Off-List[56]	Off-List[229]	Off-List[8]	Off-List[84]	"12,270"	"20,941"	5	7
+		Hawk-eye_ the Pathfinder	2	Off-List[9]	Off-List[34]	"2,734"	Off-List[11]	"13,003"	"34,137"	4	18
+		Heidi	3	Off-List[14]	Off-List[83]	"2,638"	Off-List[21]	"5,694"	"15,032"	2	4
+		House on the Hill_ The	2	1983	Off-List[14]	"1,259"	"2,203"	"10,746"	"13,225"	1	2
+		Importance of Being Earnest_ The	4	Off-List[50]	Off-List[238]	Off-List[1]	Off-List[76]	"11,210"	"57,098"	2	7
+		In The Frame	1	1694	Off-List[3]	895	Off-List[1]	"1,987"	"12,886"	2	4
+		Jane Eyre 	2	2184	Off-List[28]	"1,510"	"2,777"	"11,210"	"12,690"	1	2
+		King Arthur and the Knights of the Round Table	4	Off-List[26]	Off-List[134]	Off-List[1]	Off-List[34]	"4,134"	"26,528"	3	5
+		L. A. Movie	4	Off-List[21]	Off-List[205]	"2,023"	Off-List[33]	"3,722"	"14,329"	2	4
+		L. A. Winners	3	Off-List[6]	Off-List[48]	"2,058"	Off-List[7]	"3,897"	"8,799"	2	5
+		L.A. Detective	1	1577	Off-List[2]	"1,010"	"1,932"	"16,622"	"19,188"	1	1
+		L.A. Raid 	2	Off-List[7]	Off-List[31]	Off-List[2]	Off-List[12]	"3,442"	"11,960"	2	4
+		Last Leaf & Other Stories_ The	2	Off-List[5]	Off-List[60]	"1,936"	Off-List[14]	"9,406"	"13,311"	2	5
+		Last of the Mohicans_ The	2	Off-List[4]	Off-List[22]	"1,759"	Off-List[4]	"9,165"	"30,022"	2	5
+		Legends of Sleepy Hollow and Rip Van Winkle_ The 	3	Off-List[8]	Off-List[81]	"2,191"	Off-List[14]	"4,975"	"32,555"	2	5
+		Little Women	2	Off-List[1]	Off-List[29]	"1,811"	Off-List[2]	"14,234"	"14,252"	1	2
+		Long Tunnel_ The	2	Off-List[10]	Off-List[41]	"2,722"	Off-List[7]	"10,746"	"15,856"	2	4
+		Lorna Doone 	2	2017	Off-List[22]	"1,578"	"2,413"	"2,361"	"11,512"	1	2
+		Lost Ship_ The	1	Off-List[5]	Off-List[13]	Off-List[1]	Off-List[3]	"1,623"	"3,014"	2	4
+		Lost World_ The	3	Off-List[8]	Off-List[65]	"2,169"	Off-List[9]	"3,857"	"10,125"	2	6
+		Love by Design	3	Off-List[2]	Off-List[61]	"1,642"	Off-List[2]	"12,602"	"15,503"	2	2
+		Lucky Number	1	Off-List[3]	Off-List[8]	"2,629"	Off-List[2]	"12,916"	"12,916"	2	4
+		Macbeth	4	Off-List[123]	Off-List[341]	Off-List[19]	Off-List[135]	"5,921"	"26,210"	4	6
+		Magic Barber_ The	1	Off-List[5]	Off-List[13]	Off-List[1]	Off-List[4]	"3,031"	"7,340"	2	5
+		Marco 	2	Off-List[1]	Off-List[23]	"1,847"	Off-List[2]	"15,267"	"15,267"	1	3
+		Meet Me In Istanbul	4	Off-List[4]	Off-List[66]	"1,847"	Off-List[13]	"7,265"	"12,602"	2	5
+		Merchant of Venice_ The	4	Off-List[31]	Off-List[207]	"2,638"	Off-List[49]	"4,495"	"22,157"	2	5
+		Michael Jackson: The King of Pop	3	2416	Off-List[115]	"1,788"	Off-List[5]	"11,531"	"16,903"	2	4
+		Middlemarch	4	Off-List[3]	Off-List[117]	"1,705"	Off-List[8]	"4,734"	"14,714"	2	3
+		Mill on the Floss_ The	2	1864	Off-List[15]	"1,378"	"2,691"	"12,442"	"12,602"	1	2
+		Moby Dick	4	Off-List[43]	Off-List[186]	Off-List[2]	Off-List[42]	"4,605"	"33,216"	3	6
+		Money for a Motorbike	2	Off-List[7]	Off-List[35]	Off-List[2]	Off-List[11]	"5,257"	"13,003"	2	6
+		Much Ado About Nothing	4	Off-List[23]	Off-List[126]	"2,669"	Off-List[24]	"3,242"	"19,765"	2	5
+		Nelson Mandela	3	Off-List[16]	Off-List[107]	"1,888"	Off-List[16]	"9,385"	"17,895"	2	3
+		Newspaper Boy	2	Off-List[3]	Off-List[23]	"1,825"	Off-List[1]	"15,931"	"15,931"	2	3
+		Northanger Abbey	2	2143	Off-List[20]	"1,366"	Off-List[1]	"13,808"	"16,180"	1	2
+		Officially Dead	4	Off-List[30]	Off-List[216]	"2,117"	Off-List[36]	"5,874"	"13,629"	2	4
+		Oliver Twist	4	Off-List[19]	Off-List[93]	"2,448"	Off-List[21]	"13,871"	"26,715"	2	5
+		Our Mutual Friend	4	Off-List[8]	Off-List[132]	"1,746"	Off-List[9]	"9,406"	"18,025"	2	9
+		Owl Creek Bridge and Other Stories	3	Off-List[27]	Off-List[141]	"2,459"	Off-List[29]	"3,855"	"14,742"	2	5
+		Owl Hall	3	Off-List[2]	Off-List[81]	"1,972"	Off-List[10]	"12,645"	"16,530"	2	4
+		Persuasion	3	1705	Off-List[37]	"1,329"	"2,669"	"9,406"	"12,960"	1	2
+		Phantom of the Opera_ The	2	Off-List[7]	Off-List[35]	"2,203"	Off-List[6]	"4,147"	"21,126"	2	4
+		Photo Finish	1	Off-List[5]	Off-List[17]	Off-List[1]	Off-List[5]	"4,562"	"12,886"	2	5
+		Picture of Dorian Grey_ The	3	Off-List[8]	Off-List[56]	"1,847"	Off-List[2]	"6,027"	"14,721"	2	8
+		Picture Puzzle	2	Off-List[2]	Off-List[18]	"1,863"	Off-List[5]	"13,149"	"13,543"	2	5
+		Pride and Prejudice	4	Off-List[4]	Off-List[67]	"1,554"	Off-List[9]	"12,499"	"17,547"	1	2
+		Princess Diana 	2	2217	Off-List[50]	"1,563"	Off-List[4]	"14,283"	"15,266"	2	3
+		Promise_ The	3	Off-List[4]	Off-List[54]	"1,728"	Off-List[7]	"4,172"	"17,385"	2	3
+		Queen of Death_ The	4	Off-List[6]	Off-List[81]	"2,557"	Off-List[19]	"11,512"	"35,920"	4	19
+		Quest_ The	3	Off-List[13]	Off-List[68]	"2,541"	Off-List[14]	"5,874"	"25,697"	2	5
+		Rebecca	4	Off-List[3]	Off-List[130]	"1,789"	Off-List[15]	"4,337"	"15,266"	2	6
+		Red and the Black_ The	4	Off-List[16]	Off-List[123]	"2,638"	Off-List[32]	"13,750"	"19,157"	3	5
+		Rich Man_ Poor Man	2	1777	Off-List[7]	"1,585"	Off-List[1]	"2,512"	"7,120"	1	2
+		Robin Hood	3	Off-List[16]	Off-List[82]	Off-List[3]	Off-List[24]	"5,081"	"14,157"	5	6
+		Robinson Crusoe	3	Off-List[8]	Off-List[71]	"2,260"	Off-List[15]	"2,492"	"5,081"	2	4
+		Romeo & Juliet	3	Off-List[38]	Off-List[161]	Off-List[1]	Off-List[41]	"10,552"	"29,148"	2	5
+		Room 13 and Other Ghost Stories	3	Off-List[13]	Off-List[84]	"2,629"	Off-List[19]	"4,570"	"12,503"	2	6
+		Secret Garden_ The 	3	Off-List[14]	Off-List[116]	"1,969"	Off-List[21]	"11,210"	"14,138"	1	4
+		Selected Short Stories by D H Lawrence	3	Off-List[32]	Off-List[171]	"2,669"	Off-List[31]	"6,603"	"19,981"	2	6
+		Sense and Sensibility	4	Off-List[1]	Off-List[66]	"1,524"	Off-List[6]	"12,772"	"22,362"	1	2
+		Seven Stories of Mystery and Horror	3	Off-List[35]	Off-List[144]	"2,688"	Off-List[32]	"2,526"	"11,210"	2	4
+		Shooting Stars	1	2314	Off-List[8]	"1,440"	Off-List[1]	"12,123"	"12,886"	2	13
+		Signalman and Ghost at the Trial_ The	2	Off-List[8]	Off-List[29]	"2,602"	Off-List[3]	"4,038"	"8,470"	2	6
+		Silver Blaze and Other Stories	3	Off-List[12]	Off-List[79]	"2,654"	Off-List[15]	"7,020"	"14,724"	4	5
+		Ski Race 	1	Off-List[8]	Off-List[22]	"2,591"	Off-List[5]	"6,878"	"13,135"	2	4
+		Smuggler_ The	4	Off-List[11]	Off-List[107]	"2,369"	Off-List[15]	"4,601"	"19,068"	4	4
+		Space Invaders_ The	4	Off-List[7]	Off-List[42]	Off-List[1]	Off-List[13]	"5,893"	"34,245"	4	10
+		Speckled Band and Other Stories_ The	4	Off-List[12]	Off-List[85]	"1,939"	Off-List[16]	"6,365"	"12,658"	2	5
+		Story of the Olympics: An Unofficial History_ The	3	Off-List[31]	Off-List[125]	Off-List[2]	Off-List[40]	"6,504"	"17,408"	3	5
+		Stranger_ The	3	2037	Off-List[28]	"1,343"	Off-List[2]	"12,175"	"13,133"	1	2
+		Tale of Two Cities_ A	2	2408	Off-List[22]	"1,675"	Off-List[3]	"11,937"	"35,920"	3	8
+		Tales of Horror	3	Off-List[11]	Off-List[67]	"2,606"	Off-List[9]	"3,091"	"12,446"	2	3
+		Tenant of Wildfell Hall_ The	3	2252	Off-List[59]	"1,478"	Off-List[3]	"3,118"	"11,680"	1	2
+		This is London	2	Off-List[6]	Off-List[56]	"2,164"	Off-List[13]	"11,680"	"28,000"	3	6
+		Three Musketeers_ The	2	Off-List[2]	Off-List[26]	"1,874"	Off-List[6]	"12,960"	"23,497"	2	9
+		Treasure Island	3	Off-List[19]	Off-List[85]	Off-List[1]	Off-List[18]	"6,642"	"23,650"	4	7
+		Treasure of Monte Cristo_ The	3	Off-List[20]	Off-List[117]	"2,415"	Off-List[24]	"4,360"	"18,195"	2	5
+		Trumpet-Major_ The	2	Off-List[1]	Off-List[29]	"1,600"	Off-List[4]	"11,352"	"12,960"	2	3
+		Truth Machine_ The	2	Off-List[4]	Off-List[15]	"1,760"	Off-List[1]	"9,406"	"15,953"	3	4
+		Umbrella_ The	1	Off-List[2]	Off-List[8]	Off-List[1]	Off-List[1]	"16,613"	"16,613"	2	5
+		Vanity Fair	4	Off-List[30]	Off-List[203]	"2,136"	Off-List[56]	"4,286"	"12,690"	2	4
+		Washington Square	2	1777	Off-List[14]	"1,106"	"2,777"	"13,636"	"13,808"	1	2
+		White Fang	3	Off-List[11]	Off-List[69]	"2,318"	Off-List[8]	"5,975"	"7,299"	5	8
+		Wizard of Oz_ The	3	Off-List[5]	Off-List[62]	"2,007"	Off-List[13]	"3,034"	"7,859"	4	7
+		Woman in Black_ The	3	Off-List[16]	Off-List[86]	"2,260"	Off-List[21]	"3,208"	"11,680"	3	7
+		Woman Who Disappeared_ The	4	Off-List[1]	Off-List[49]	"1,772"	Off-List[5]	"2,587"	"13,003"	2	4
+		Woodlanders_ The	4	Off-List[9]	Off-List[84]	Off-List[1]	Off-List[18]	"5,478"	"23,582"	2	4
+		Wuthering Heights	4	Off-List[6]	Off-List[83]	"1,817"	Off-List[13]	"7,473"	"26,155"	2	4
+	Read Smart Readers
+		Bradfield Push_ The - New Sherlock Holmes 1	4	2015	Off-List[19]	"1,259"	"2,638"	"1,955"	"5,081"	1	2
+		Click and Other Japanese Tales	4	2077	Off-List[52]	"1,432"	Off-List[2]	"2,366"	"9,406"	2	4
+		Danger Road	4	Off-List[2]	Off-List[15]	"2,111"	Off-List[7]	"12,675"	"12,676"	2	4
+		Haircuts and Another Japanese Tale	4	2067	Off-List[51]	"1,393"	Off-List[1]	"2,084"	"11,210"	1	2
+		Motorcycle Girl	4	Off-List[3]	Off-List[14]	Off-List[1]	Off-List[7]	"4,949"	"15,839"	2	33
+		Story of the Kennedys_ The	5	Off-List[62]	Off-List[314]	"2,763"	Off-List[126]	"12,229"	"27,088"	3	5
+		The Missing Character	4	Off-List[3]	Off-List[18]	"2,113"	Off-List[7]	"27,806"	"47,290"	2	11
+		World of Anne of Green Gables_ The	4	2457	Off-List[60]	"1,642"	Off-List[6]	"12,960"	"14,283"	2	3
+MPI
+	Building Blocks Library
+		Amy's Song	1	Off-List[1]	Off-List[2]	"1,664"	"2,180"	"13,149"	"13,149"	2	4
+		And First Prize Goes to	2	Off-List[1]	Off-List[7]	"2,003"	"2,129"	"14,330"	"16,379"	12	12
+		Ben Has Ten Pens	1	Off-List[1]	Off-List[1]	"2,318"	"2,318"	"14,203"	"16,622"	2	2
+		Chores Are Stupid!	2	Off-List[2]	Off-List[17]	"2,023"	Off-List[1]	"12,602"	"12,602"	1	3
+		DANGER! KEEP OUT!	2	Off-List[2]	Off-List[13]	"2,014"	Off-List[2]	"6,669"	"12,602"	2	4
+		Dog Wash	2	Off-List[6]	Off-List[17]	"2,292"	Off-List[1]	"13,149"	"16,379"	2	12
+		Double Take	2	Off-List[6]	Off-List[32]	"2,557"	Off-List[5]	"7,120"	"12,676"	3	8
+		Downhill Race	1	Off-List[4]	Off-List[13]	"1,664"	Off-List[1]	"12,602"	"20,782"	1	1
+		Drop the Ball Bob!	1	Off-List[1]	Off-List[3]	Off-List[1]	Off-List[1]	"12,602"	"13,149"	8	8
+		Easy Come Easy Go	2	Off-List[4]	Off-List[65]	"2,081"	Off-List[10]	"6,669"	"12,079"	2	8
+		Extreme Fire Danger	2	Off-List[13]	Off-List[58]	"2,269"	Off-List[9]	"13,149"	"16,379"	3	12
+		First Day at School	1	2184	Off-List[3]	987	"2,129"	"16,379"	"16,379"	12	12
+		Flea and Bee	1	Off-List[4]	Off-List[6]	Off-List[1]	Off-List[2]	"6,528"	"6,528"	7	7
+		Fox and Bug	1	Off-List[3]	Off-List[3]	Off-List[3]	Off-List[3]	"4,111"	"4,111"	6	6
+		Get Up Pup!	1	Off-List[1]	Off-List[2]	Off-List[1]	Off-List[2]	"6,369"	"7,556"	2	2
+		Good Sports	2	Off-List[6]	Off-List[47]	"2,160"	Off-List[7]	"12,602"	"20,782"	2	4
+		Is It?	1	Off-List[2]	Off-List[3]	Off-List[2]	Off-List[3]	"15,450"	"15,450"	4	Off-List[1]
+		It's Natalie Nevada!	1	Off-List[1]	Off-List[3]	"2,660"	Off-List[1]	"13,149"	"13,149"	8	8
+		Jay's Great Idea	2	Off-List[3]	Off-List[14]	"2,129"	Off-List[1]	"6,669"	"6,669"	5	8
+		Kat's Decision	2	Off-List[13]	Off-List[93]	"2,023"	Off-List[21]	"16,274"	"22,068"	2	12
+		Kat's Surprise	1	Off-List[1]	Off-List[5]	"1,824"	"2,617"	"16,379"	"17,356"	8	12
+		Ken and Tim	1	Off-List[1]	Off-List[2]	Off-List[1]	Off-List[2]	"19,957"	"19,957"	2	7
+		Lick! Lick! Yummy!	1	Off-List[6]	Off-List[12]	Off-List[2]	Off-List[7]	"12,079"	"12,602"	4	9
+		Lost	2	Off-List[9]	Off-List[24]	"2,088"	Off-List[5]	"11,565"	"13,149"	2	8
+		Max and Min	1	Off-List[2]	Off-List[2]	Off-List[2]	Off-List[2]	"18,087"	"18,087"	13	13
+		Meet the Mummy	1	1983	Off-List[6]	"1,245"	Off-List[1]	"12,446"	"15,988"	8	8
+		Mice Like Rice	1	Off-List[1]	Off-List[2]	"2,692"	"2,692"	"3,909"	"13,543"	2	2
+		Mom Dad and Tom	1	Off-List[3]	Off-List[3]	Off-List[2]	Off-List[2]	"12,602"	"12,602"	2	2
+		Mysterious Alex	2	Off-List[10]	Off-List[64]	"2,160"	Off-List[11]	"12,480"	"13,283"	2	9
+		Nat Likes Nuts	1	Off-List[5]	Off-List[7]	Off-List[5]	Off-List[7]	"15,450"	"15,450"	6	9
+		Nobody Understands Me!	2	Off-List[6]	Off-List[54]	"1,989"	Off-List[4]	"12,079"	"12,079"	2	5
+		Octopus Attack! 	1	Off-List[1]	Off-List[3]	Off-List[1]	Off-List[2]	"12,602"	"13,149"	2	9
+		Out of Control	2	Off-List[18]	Off-List[98]	"2,180"	Off-List[35]	"12,480"	"13,149"	2	6
+		Outback Adventure	2	Off-List[29]	Off-List[91]	"2,680"	Off-List[27]	"6,669"	"12,415"	5	8
+		Punk Pop Hip and Hop	1	Off-List[6]	Off-List[9]	Off-List[1]	Off-List[3]	"1,712"	"2,177"	3	6
+		Rich Girls	2	Off-List[5]	Off-List[54]	"1,824"	Off-List[7]	"13,149"	"13,283"	2	5
+		Ring Ring... No Answer	1	2184	Off-List[4]	987	"2,129"	"12,079"	"17,144"	8	8
+		School's Out	2	Off-List[2]	Off-List[49]	"1,851"	Off-List[8]	"12,415"	"16,379"	8	12
+		Snack Attack	1	Off-List[14]	Off-List[18]	Off-List[10]	Off-List[14]	"6,669"	"6,669"	8	8
+		Storm Warning!	2	Off-List[8]	Off-List[34]	"2,719"	Off-List[11]	"3,067"	"12,079"	2	8
+		Stranger Danger	2	2485	Off-List[20]	"2,215"	Off-List[2]	"9,585"	"13,149"	2	6
+		That's Life! 	2	Off-List[5]	Off-List[69]	"2,125"	Off-List[8]	"12,079"	"16,274"	2	6
+		The Bees Knees	1	Off-List[1]	Off-List[2]	Off-List[1]	Off-List[1]	"1,327"	"2,289"	2	2
+		The Big Wig	1	Off-List[1]	Off-List[1]	Off-List[1]	Off-List[1]	"12,675"	"12,675"	6	6
+		The Dog and the Cat	1	2135	2135	"2,329"	"2,329"	"1,609"	"1,609"	1	1
+		The New Teacher 	1	1719	Off-List[3]	988	"2,796"	"11,331"	"13,149"	1	8
+		The Red Mat	1	Off-List[2]	Off-List[6]	"1,811"	Off-List[2]	"19,957"	"19,957"	1	4
+		The Visit	2	Off-List[1]	Off-List[29]	"2,129"	Off-List[5]	"8,049"	"16,379"	5	12
+		Tig Likes to Dig	1	Off-List[3]	Off-List[5]	Off-List[2]	Off-List[4]	"21,888"	"21,888"	6	8
+		Tom Kicks a Can	1	Off-List[2]	Off-List[4]	"1,728"	"2,415"	"12,602"	"12,602"	2	2
+		Trouble for Tom	2	2263	Off-List[15]	"1,305"	"2,159"	"12,602"	"12,602"	2	6
+		Try Out for the Musical!	2	2184	Off-List[11]	"1,628"	Off-List[2]	"12,079"	"13,149"	2	8
+		Txt Msg	1	1983	Off-List[3]	"1,026"	"1,820"	"15,988"	"16,379"	9	12
+		We want Ice Cream !	1	Off-List[1]	Off-List[3]	"2,386"	Off-List[2]	"2,380"	"2,628"	4	5
+		Where's Liam?	1	Off-List[1]	Off-List[4]	"1,664"	"2,617"	"16,379"	"17,356"	2	12
+		White Water	2	Off-List[29]	Off-List[100]	Off-List[1]	Off-List[27]	"7,522"	"15,637"	6	8
+		Who's There? 	1	Off-List[1]	Off-List[8]	"1,665"	Off-List[1]	"13,149"	"13,149"	8	12
+Oxford University Press
+	Dominoes 2nd Edition
+		Drive to Dubai The	2	2229	Off-List[19]	"1,586"	Off-List[3]	"1,523"	"2,918"	2	4
+		From the Heart	2	1877	Off-List[15]	"1,630"	Off-List[1]	"2,492"	"12,690"	1	2
+		Housemates	2	2371	Off-List[23]	"1,678"	Off-List[6]	"5,613"	"17,299"	1	6
+		Mystery in Muscat	2	2047	Off-List[14]	"1,383"	Off-List[1]	"5,053"	"13,960"	1	2
+		Pretty Face A	1	1941	Off-List[13]	"1,391"	Off-List[2]	"14,329"	"16,617"	2	3
+		Studio Five	2	1440	Off-List[6]	"1,329"	"2,007"	"9,406"	"12,618"	1	2
+		V is for Vampire	2	2088	Off-List[39]	"1,563"	Off-List[4]	"14,497"	"16,331"	1	2
+	Oxford Bookworms Library
+		Adventures of Tom Sawyer The	2	Off-List[4]	Off-List[15]	"2,592"	Off-List[4]	"11,531"	"19,924"	2	3
+		Agatha Christie Woman of Mystery	2	Off-List[1]	Off-List[39]	"1,384"	Off-List[2]	"4,562"	"16,497"	2	2
+		Aladdin and the Enchanted Lamp	2	Off-List[2]	Off-List[16]	"2,423"	Off-List[3]	"1,717"	"7,733"	2	5
+		Alice's Adventures in Wonderland	2	Off-List[6]	Off-List[44]	"1,874"	Off-List[8]	"2,237"	"7,716"	2	5
+		American Crime Stories	5	Off-List[46]	Off-List[282]	"2,354"	Off-List[53]	"3,854"	"12,829"	2	5
+		Anne of Green Gables	2	1979	Off-List[26]	"1,378"	Off-List[1]	"12,960"	"29,560"	1	2
+		As the Inspector Said and Other Stories	3	Off-List[7]	Off-List[73]	"2,031"	Off-List[12]	"4,379"	"16,747"	2	5
+		Black Beauty	3	Off-List[24]	Off-List[122]	"2,260"	Off-List[20]	"3,763"	"11,531"	2	4
+		Brat Farrar	4	Off-List[2]	Off-List[142]	"1,711"	Off-List[7]	"4,607"	"12,658"	2	9
+		Bride Price The	4	Off-List[38]	Off-List[207]	"2,589"	Off-List[48]	"2,492"	"7,393"	2	4
+		Bronte Story The	3	2470	Off-List[49]	"1,664"	Off-List[2]	"3,666"	"12,960"	1	3
+		Call of the Wild The	3	Off-List[7]	Off-List[75]	"1,948"	Off-List[5]	"4,282"	"16,079"	2	5
+		Card The	3	Off-List[1]	Off-List[76]	"1,564"	Off-List[5]	"2,918"	"13,254"	1	3
+		Cat The	1	2037	Off-List[4]	"1,417"	"1,824"	"4,335"	"17,299"	1	5
+		Chemical Secret	3	2460	Off-List[50]	"1,528"	"2,709"	"3,911"	"11,210"	1	2
+		Children of the New Forest The	2	Off-List[3]	Off-List[38]	"1,874"	Off-List[4]	"2,960"	"12,772"	2	2
+		Christmas Carol A	3	Off-List[23]	Off-List[119]	"2,289"	Off-List[24]	"3,854"	"39,415"	2	2
+		Christmas in Prague	2	1788	Off-List[9]	"1,274"	"2,110"	"3,242"	"11,512"	2	4
+		Cold Comfort Farm	5	Off-List[149]	Off-List[513]	"2,777"	Off-List[152]	"7,005"	"16,285"	3	6
+		Coldest Place on Earth The	2	Off-List[6]	Off-List[26]	"2,587"	Off-List[4]	"11,778"	"24,453"	2	7
+		Connecticut Yankee in King Arthur's Court A	1	2304	Off-List[11]	"1,874"	Off-List[2]	"3,909"	"16,388"	2	2
+		Cranford	3	Off-List[23]	Off-List[142]	"2,199"	Off-List[33]	"9,406"	"20,621"	2	3
+		Crown of Violet The	3	Off-List[17]	Off-List[107]	"2,204"	Off-List[14]	"2,248"	"6,806"	2	4
+		Cry Freedom	5	Off-List[46]	Off-List[264]	"2,413"	Off-List[57]	"3,954"	"12,613"	2	4
+		David Copperfield	4	Off-List[28]	Off-List[180]	"2,216"	Off-List[40]	"5,301"	"16,779"	2	3
+		Dead Man's Island	2	2023	Off-List[18]	"1,295"	"2,180"	"7,349"	"13,947"	1	2
+		Dead of Jericho The	4	Off-List[14]	Off-List[140]	"2,117"	Off-List[18]	"11,372"	"16,084"	2	4
+		Deadlock	4	Off-List[44]	Off-List[243]	"2,542"	Off-List[41]	"4,415"	"17,210"	2	4
+		Death in the Freezer	2	2371	Off-List[31]	"1,506"	Off-List[2]	"1,557"	"4,379"	1	2
+		Death of Karen Silkwood The	2	2300	Off-List[17]	"1,535"	Off-List[1]	"3,561"	"13,001"	2	3
+		Decline and Fall	5	Off-List[72]	Off-List[402]	"2,384"	Off-List[95]	"6,473"	"12,244"	2	4
+		Do Androids Dream of Electric Sheep?	4	Off-List[6]	Off-List[132]	"2,126"	Off-List[10]	"6,093"	"17,110"	2	5
+		Dracula	2	2182	Off-List[26]	"1,789"	Off-List[1]	"1,623"	"8,394"	1	4
+		Drive into Danger	1	Off-List[2]	Off-List[15]	"2,111"	Off-List[7]	"12,675"	"12,676"	2	4
+		Ear-rings from Frankfurt	2	1842	Off-List[19]	"1,257"	"2,590"	"3,242"	"12,620"	1	2
+		Elephant Man The	2	1878	Off-List[12]	"1,437"	"2,523"	"2,451"	"11,680"	1	2
+		Enemy The	5	2398	Off-List[126]	"1,590"	Off-List[7]	"2,988"	"11,758"	2	3
+		Ethan Frome	3	Off-List[17]	Off-List[107]	"1,950"	Off-List[17]	"4,482"	"15,637"	2	4
+		Far From the Madding Crowd	4	Off-List[60]	Off-List[255]	"2,669"	Off-List[64]	"5,694"	"25,230"	2	4
+		Fifteenth Character The	1	Off-List[3]	Off-List[18]	"2,113"	Off-List[7]	"27,806"	"47,290"	2	11
+		Five Children and It	2	Off-List[4]	Off-List[28]	"1,811"	Off-List[6]	"2,238"	"11,352"	1	2
+		Frankenstein	3	Off-List[1]	Off-List[37]	"1,703"	Off-List[2]	"2,318"	"5,309"	1	2
+		Garden Party and Other Stories The	4	Off-List[56]	Off-List[248]	"2,260"	Off-List[39]	"2,739"	"13,122"	2	4
+		Ghost Stories	4	Off-List[58]	Off-List[242]	"2,703"	Off-List[58]	"3,275"	"9,406"	2	3
+		Girl with Green Eyes The	1	1864	Off-List[4]	"1,193"	Off-List[2]	"3,671"	"17,688"	2	5
+		Girl with Red Hair The	1	1788	Off-List[4]	956	"1,748"	"1,308"	"11,907"	1	2
+		Give us the Money	1	2017	Off-List[4]	"1,514"	Off-List[2]	"4,653"	"12,013"	2	10
+		Go Lovely Rose and Other Stories	3	Off-List[16]	Off-List[93]	"2,113"	Off-List[17]	"3,286"	"19,634"	2	4
+		Goodbye Mr Hollywood	2	1779	Off-List[10]	"1,250"	"2,590"	"4,109"	"13,185"	2	8
+		Grace Darling	2	Off-List[5]	Off-List[35]	"1,865"	Off-List[3]	"2,492"	"11,025"	2	2
+		Great Expectations	4	Off-List[32]	Off-List[200]	"2,146"	Off-List[38]	"4,147"	"11,531"	2	4
+		Gulliver's Travels	3	Off-List[19]	Off-List[140]	"2,114"	Off-List[30]	"2,410"	"4,370"	2	3
+		Henry VIII and his Six Wives	2	1832	Off-List[14]	"1,642"	"2,691"	"9,165"	"16,486"	1	2
+		Hound of the Baskervilles The	3	Off-List[3]	Off-List[90]	"2,136"	Off-List[8]	"3,511"	"13,283"	2	4
+		Huckleberry Finn	2	1983	Off-List[16]	"1,437"	"2,777"	"2,992"	"12,351"	1	2
+		Jane Eyre	5	Off-List[63]	Off-List[313]	"2,432"	Off-List[69]	"4,634"	"11,210"	2	4
+		Jungle Book The	2	Off-List[7]	Off-List[39]	Off-List[1]	Off-List[8]	"1,835"	"8,394"	2	5
+		Justice	3	Off-List[3]	Off-List[60]	"1,772"	Off-List[5]	"7,175"	"13,133"	2	3
+		Kidnapped	3	Off-List[20]	Off-List[114]	"2,136"	Off-List[25]	"9,204"	"20,614"	2	4
+		Kiss The: Love Stories From America	3	Off-List[53]	Off-List[202]	"2,738"	Off-List[54]	"3,703"	"12,991"	2	4
+		Last Chance	1	1904	Off-List[4]	"1,388"	Off-List[1]	"5,613"	"11,210"	1	4
+		Last Sherlock Holmes Story The	3	Off-List[2]	Off-List[53]	"1,612"	Off-List[4]	"2,451"	"5,309"	2	2
+		Little Lord Fauntleroy	2	2408	Off-List[25]	"1,399"	Off-List[3]	"7,440"	"11,210"	1	4
+		Little Princess A	2	Off-List[3]	Off-List[25]	"1,861"	Off-List[5]	"10,612"	"14,176"	1	3
+		Little Women	3	Off-List[7]	Off-List[91]	"1,888"	Off-List[9]	"11,210"	"14,252"	1	2
+		Long White Cloud: Stories from New Zealand The	3	Off-List[14]	Off-List[111]	"1,977"	Off-List[17]	"2,882"	"13,377"	2	4
+		Lord Jim	3	Off-List[48]	Off-List[218]	"2,366"	Off-List[52]	"3,857"	"11,548"	2	3
+		Lottery Winner The	2	2237	Off-List[10]	"1,460"	Off-List[1]	"11,025"	"12,408"	2	4
+		Love of a King The	2	1811	Off-List[20]	"1,727"	"2,402"	"9,406"	"12,772"	1	2
+		Love Story	3	2370	Off-List[54]	"1,472"	Off-List[2]	"4,258"	"13,871"	1	2
+		Mary Queen of Scots	2	1878	Off-List[15]	"1,378"	"2,670"	"2,891"	"11,482"	1	2
+		Matty Doolin	2	2225	Off-List[34]	"1,597"	"2,719"	"11,210"	"20,621"	1	2
+		Meteor and Other Stories	5	Off-List[50]	Off-List[311]	"2,219"	Off-List[64]	"2,831"	"5,893"	2	4
+		Moonspinners The	3	Off-List[3]	Off-List[90]	"1,675"	Off-List[5]	"2,492"	"14,138"	1	2
+		Morbid Taste For Bones A	3	Off-List[27]	Off-List[136]	"2,636"	Off-List[32]	"3,956"	"10,433"	2	4
+		Mr Midshipman Hornblower	3	Off-List[67]	Off-List[197]	Off-List[12]	Off-List[65]	"18,256"	"28,130"	3	10
+		Mutiny on the Bounty	2	Off-List[6]	Off-List[31]	"2,136"	Off-List[7]	"10,380"	"21,817"	2	3
+		Mysterious Death of Charles Bravo The	3	2386	Off-List[40]	"1,598"	Off-List[2]	"11,758"	"12,916"	2	9
+		Mystery of Allegra The	2	2075	Off-List[20]	"1,459"	Off-List[4]	"1,643"	"9,165"	1	2
+		Mystery of Manor Hall The	1	Off-List[2]	Off-List[11]	"2,596"	Off-List[2]	"12,602"	"20,706"	1	5
+		New York Cafe	1	Off-List[1]	Off-List[6]	"1,718"	Off-List[3]	"12,618"	0[1]	2	7
+		New Yorkers - Short Stories	2	2111	Off-List[19]	"1,391"	Off-List[1]	"2,492"	"11,548"	1	4
+		Omega Files - Short Stories The	2	Off-List[5]	Off-List[40]	"2,088"	Off-List[6]	"13,694"	"27,379"	4	9
+		On the Edge	3	Off-List[7]	Off-List[71]	"2,033"	Off-List[12]	"4,427"	"31,647"	2	4
+		One-Way Ticket - Short Stories	2	2075	Off-List[15]	"1,675"	Off-List[2]	"3,286"	"13,130"	1	2
+		Orca	1	Off-List[3]	Off-List[16]	"1,742"	Off-List[3]	"2,381"	"20,652"	1	4
+		Pair of Ghostly Hands and Other Stories A	3	Off-List[3]	Off-List[82]	"1,864"	Off-List[8]	"2,429"	"9,406"	1	4
+		Phantom of the Opera The	2	Off-List[2]	Off-List[15]	"1,820"	"2,669"	"3,463"	"21,126"	1	2
+		Piano Man The	2	1936	Off-List[11]	"1,468"	"2,592"	"2,492"	"20,400"	1	2
+		Piano The	2	2433	Off-List[25]	"1,612"	"2,627"	"9,406"	"16,581"	1	2
+		Picture of Dorian Gray The	3	2352	Off-List[44]	"1,688"	"2,795"	"3,448"	"14,721"	1	3
+		Police T.V.	1	1983	Off-List[6]	"1,259"	Off-List[1]	"11,548"	"12,189"	1	2
+		President's Murderer The	2	2115	Off-List[14]	"1,417"	Off-List[1]	"7,175"	"15,583"	1	2
+		Pride and Prejudice	5	Off-List[73]	Off-List[299]	"2,611"	Off-List[92]	"11,210"	"14,697"	2	3
+		Prisoner of Zenda The	3	2284	Off-List[46]	"1,874"	Off-List[3]	"5,141"	"26,210"	1	3
+		Railway Children The	3	Off-List[4]	Off-List[49]	"1,817"	Off-List[5]	"2,492"	"11,548"	2	4
+		Red Roses	1	Off-List[2]	Off-List[8]	"2,586"	Off-List[2]	"13,133"	"53,206"	2	4
+		Reflex	3	Off-List[14]	Off-List[108]	"2,033"	Off-List[15]	"3,900"	"11,210"	2	4
+		Remember Miranda	2	1757	Off-List[6]	"1,274"	"1,811"	"1,584"	"4,109"	1	8
+		Robinson Crusoe	2	2441	Off-List[25]	"1,668"	Off-List[1]	"1,657"	"3,544"	1	2
+		Sally's Phone	1	2119	Off-List[6]	"1,250"	"2,796"	"20,269"	"20,269"	1	2
+		Scarlet Letter The	3	Off-List[19]	Off-List[141]	"2,694"	Off-List[24]	"3,721"	"11,907"	2	4
+		Secret Garden The	3	Off-List[10]	Off-List[71]	"1,864"	Off-List[11]	"6,743"	"14,130"	1	4
+		Sense and Sensibility	4	Off-List[60]	Off-List[270]	"2,663"	Off-List[91]	"9,406"	"21,035"	2	3
+		Sherlock Holmes and the Duke's Son	2	Off-List[1]	Off-List[23]	"1,589"	Off-List[4]	"4,562"	"11,210"	2	4
+		Sherlock Holmes and the Sport of Kings	2	Off-List[1]	Off-List[23]	"1,867"	Off-List[2]	"7,345"	"14,239"	2	4
+		Sherlock Holmes: More Short Stories	2	Off-List[1]	Off-List[30]	"1,664"	Off-List[2]	"2,492"	"11,680"	1	2
+		Shirley Homes and the Cyber Thief	2	Off-List[3]	Off-List[40]	"2,260"	Off-List[13]	"7,535"	"15,633"	2	7
+		Silas Marner	3	Off-List[14]	Off-List[130]	"2,136"	Off-List[27]	"3,655"	"13,293"	2	3
+		Silver Sword The	3	Off-List[14]	Off-List[118]	"2,031"	Off-List[13]	"3,941"	"13,960"	2	2
+		Sister Love and Other Crime Stories	2	Off-List[1]	Off-List[34]	"1,736"	Off-List[5]	"12,645"	"17,201"	1	4
+		Skyjack!	3	Off-List[4]	Off-List[50]	"1,913"	Off-List[7]	"3,769"	"12,574"	2	4
+		Songs of Distant Earth and Other Stories The	3	Off-List[24]	Off-List[175]	"2,191"	Off-List[25]	"2,561"	"6,693"	2	3
+		Star Reporter	1	1757	Off-List[2]	"1,421"	"1,913"	"3,131"	"11,565"	1	2
+		Starman	1	1904	Off-List[10]	"1,351"	"2,796"	"3,286"	"13,506"	1	2
+		Tales of Mystery and Imagination	3	Off-List[20]	Off-List[119]	"2,138"	Off-List[15]	"2,237"	"5,649"	2	3
+		Taxi of Terror	1	Off-List[4]	Off-List[21]	"2,247"	Off-List[8]	"1,661"	"2,988"	2	33
+		Thirty-Nine Steps The	3	Off-List[8]	Off-List[123]	"1,863"	Off-List[15]	"2,492"	"9,165"	2	3
+		This Rough Magic	4	Off-List[11]	Off-List[146]	"1,950"	Off-List[17]	"2,283"	"6,522"	2	4
+		Three Men in a Boat	3	2478	Off-List[73]	"1,664"	Off-List[6]	"2,304"	"11,139"	1	2
+		Three Strangers and Other Stories The	3	Off-List[16]	Off-List[112]	"2,472"	Off-List[27]	"3,242"	"10,610"	2	5
+		Through the Looking-Glass	3	Off-List[11]	Off-List[99]	"2,160"	Off-List[29]	"2,237"	"6,667"	2	7
+		Unquiet Grave The	3	Off-List[7]	Off-List[128]	"1,863"	Off-List[20]	"3,668"	"11,726"	2	4
+		Voodoo Island	2	1997	Off-List[15]	"1,417"	Off-List[2]	"3,190"	"19,838"	1	3
+		Washington Square	3	Off-List[3]	Off-List[79]	"1,642"	Off-List[8]	"5,497"	"13,808"	1	2
+		White Death	2	2068	Off-List[8]	"1,460"	Off-List[1]	"10,767"	"13,133"	1	5
+		Who Sir? Me Sir?	3	Off-List[7]	Off-List[78]	"1,811"	Off-List[7]	"3,561"	"11,815"	2	9
+		William Shakespeare	2	2225	Off-List[39]	"1,391"	Off-List[1]	"5,874"	"15,931"	1	2
+		Wind in the Willows The	3	Off-List[26]	Off-List[134]	"2,709"	Off-List[27]	"3,368"	"7,292"	5	7
+		Witches of Pendle The	2	2191	Off-List[11]	"1,696"	Off-List[1]	"2,778"	"11,210"	1	4
+		Withered Arm The	2	Off-List[4]	Off-List[30]	"1,787"	Off-List[7]	"3,551"	"22,498"	2	5
+		Wizard of Oz The	2	1920	Off-List[14]	"1,635"	Off-List[3]	"2,467"	"8,371"	4	7
+		Wuthering Heights	4	Off-List[29]	Off-List[163]	"2,214"	Off-List[35]	"5,616"	"20,389"	2	4
+		Wyatt's Hurricane	3	Off-List[10]	Off-List[90]	"2,082"	Off-List[8]	"2,995"	"12,175"	2	3
+		Year of Sharing The	2	Off-List[1]	Off-List[18]	"1,787"	Off-List[2]	"1,474"	"2,452"	1	2
+	Oxford Bookworms Library: Factfiles
+		USA The	3	Off-List[4]	Off-List[74]	"1,911"	Off-List[8]	"12,822"	"21,953"	2	4
+Penguin / Pearson
+	Pearson English Active Readers
+		About a Boy	4	2155	Off-List[78]	"1,536"	Off-List[2]	"3,252"	"14,249"	1	2
+		Anne of Green Gables	2	1877	Off-List[14]	"1,330"	"2,777"	"12,960"	"29,560"	1	2
+		Call of the Wild The	2	Off-List[1]	Off-List[17]	"1,664"	Off-List[2]	"4,282"	"16,079"	2	5
+		Crime Story Collection	4	2483	Off-List[112]	"1,652"	Off-List[5]	"3,367"	"13,509"	2	4
+		Earthquake The	2	2111	Off-List[27]	"1,417"	Off-List[1]	"3,727"	"19,834"	1	2
+		Frankenstein	3	Off-List[2]	Off-List[43]	"1,783"	Off-List[5]	"2,460"	"7,662"	2	3
+		Full Monty The	4	Off-List[8]	Off-List[109]	"1,748"	Off-List[8]	"2,492"	"12,175"	2	3
+		Horse Whisperer The	3	2163	Off-List[49]	"1,506"	Off-List[1]	"5,465"	"14,329"	2	2
+		Island for Sale	1	Off-List[1]	Off-List[8]	"2,012"	Off-List[1]	"19,841"	"34,176"	1	2
+		Mysteries of the Unexplained	3	Off-List[7]	Off-List[65]	"2,194"	Off-List[13]	"4,634"	"18,057"	2	5
+		Newspaper Chase	1	Off-List[1]	Off-List[8]	"2,111"	Off-List[2]	"14,721"	"23,205"	2	4
+		Oliver Twist	4	Off-List[7]	Off-List[79]	"1,863"	Off-List[5]	"11,210"	"17,024"	2	3
+		Stories of Courage	3	Off-List[5]	Off-List[63]	"1,847"	Off-List[12]	"6,097"	"17,385"	2	2
+		Three Great Plays of Shakespeare	4	Off-List[11]	Off-List[84]	"2,234"	Off-List[19]	"4,721"	"20,198"	2	3
+		Titanic!	3	Off-List[3]	Off-List[41]	"2,103"	Off-List[5]	"7,084"	"15,392"	3	7
+		Young King and Other Stories The	3	Off-List[10]	Off-List[60]	"2,225"	Off-List[9]	"1,557"	"3,244"	2	4
+	Pearson English Kids Readers
+		Robin Hood	2	Off-List[1]	Off-List[16]	"2,361"	Off-List[8]	"5,060"	"11,907"	4	6
+	Pearson English Readers
+		1984	4	Off-List[8]	Off-List[145]	"1,888"	Off-List[12]	"3,368"	"15,034"	2	4
+		Adventures of Tom Sawyer The	1	2132	Off-List[6]	"1,351"	"2,777"	"12,602"	"19,924"	1	2
+		Alexander the Great	4	Off-List[46]	Off-List[195]	Off-List[1]	Off-List[46]	"12,815"	"27,013"	2	4
+		Amistad	3	Off-List[1]	Off-List[34]	"1,714"	Off-List[3]	"9,264"	"21,850"	2	4
+		Beatles The	3	2327	Off-List[22]	"1,708"	Off-List[1]	"11,139"	"21,279"	2	3
+		Body The	4	Off-List[47]	Off-List[250]	"2,361"	Off-List[45]	"4,354"	"11,491"	2	6
+		Client The	4	2438	Off-List[53]	"1,652"	Off-List[3]	"3,310"	"13,398"	2	3
+		Count of Monte Cristo The	3	2454	Off-List[34]	"1,683"	Off-List[2]	"2,318"	"11,886"	1	2
+		Dangerous Game	3	Off-List[1]	Off-List[33]	"1,664"	Off-List[3]	"1,937"	"8,164"	1	2
+		Dr Zhivago	4	Off-List[5]	Off-List[199]	"1,812"	Off-List[16]	"3,359"	"16,418"	2	3
+		Emil and the Detectives	3	Off-List[4]	Off-List[40]	"1,811"	Off-List[4]	"3,066"	"19,576"	2	2
+		Fall of the House of Usher and Other Stories The	3	Off-List[4]	Off-List[72]	"1,812"	Off-List[7]	"3,013"	"18,527"	2	5
+		Famous Women in Business	4	2059	Off-List[40]	"1,512"	Off-List[4]	"4,891"	"13,696"	2	3
+		Firm The	4	Off-List[3]	Off-List[129]	"1,663"	Off-List[8]	"3,625"	"13,968"	2	3
+		Forrest Gump	3	2438	Off-List[43]	"1,506"	Off-List[4]	"2,492"	"13,944"	1	4
+		Four Weddings and a Funeral	4	Off-List[28]	Off-List[173]	"2,139"	Off-List[22]	"10,610"	"12,602"	2	3
+		Ghost in the Guitar	3	2382	Off-List[32]	"1,642"	"2,627"	"2,492"	"12,602"	2	3
+		Girl Meets Boy	1	2237	Off-List[8]	"1,438"	Off-List[3]	"3,242"	"21,850"	1	4
+		Gladiator	4	Off-List[23]	Off-List[149]	"2,592"	Off-List[19]	"18,944"	"42,366"	2	4
+		Grey Owl	3	2284	Off-List[21]	"1,847"	Off-List[2]	"8,997"	"17,186"	2	4
+		Gulliver's Travels	2	Off-List[1]	Off-List[9]	Off-List[1]	Off-List[4]	"1,952"	"5,002"	2	4
+		House of Stairs The	4	1993	Off-List[65]	"1,697"	"2,774"	"1,781"	"3,596"	2	2
+		How to be an Alien	3	Off-List[8]	Off-List[68]	"2,638"	Off-List[18]	"7,474"	"16,486"	2	3
+		Ideal Husband An	3	Off-List[1]	Off-List[38]	"2,033"	Off-List[5]	"12,287"	"24,419"	1	2
+		Invisible Man The	4	Off-List[37]	Off-List[221]	"2,589"	Off-List[33]	"3,896"	"11,210"	2	6
+		King Arthur and the Knights of the Round Table	2	Off-List[1]	Off-List[11]	"2,173"	Off-List[2]	"2,492"	"16,388"	2	5
+		Lady in the Lake The	2	2058	Off-List[17]	"1,384"	"2,669"	"2,988"	"11,548"	1	3
+		Lisa in London (Cartoon Strip)	1	1831	Off-List[7]	"1,232"	Off-List[2]	"12,886"	"12,886"	2	4
+		Locked Room and Other Horror Stories The	4	Off-List[2]	Off-List[101]	"1,863"	Off-List[6]	"3,252"	"12,351"	2	3
+		Marcel and the White Star	1	Off-List[2]	Off-List[13]	"2,203"	Off-List[4]	"3,463"	"73,728"	2	4
+		Misery	5	Off-List[64]	Off-List[338]	"2,627"	Off-List[84]	"3,836"	"10,746"	2	4
+		More Tales from Shakespeare	4	Off-List[68]	Off-List[287]	"2,784"	Off-List[79]	"5,081"	"16,573"	2	4
+		Mosquito Coast The	4	Off-List[3]	Off-List[80]	"1,727"	Off-List[8]	"2,492"	"11,210"	2	3
+		Mr. Bean in Town	2	Off-List[5]	Off-List[23]	"2,318"	Off-List[6]	"3,032"	"11,210"	2	4
+		New York	3	2314	Off-List[33]	"1,722"	Off-List[6]	"13,250"	"20,269"	2	4
+		On the Road	4	Off-List[7]	Off-List[141]	"1,817"	Off-List[17]	"11,918"	"17,153"	2	6
+		Pelican Brief The	4	Off-List[12]	Off-List[191]	"1,847"	Off-List[36]	"5,079"	"18,665"	2	5
+		Picture of Dorian Gray The	4	Off-List[7]	Off-List[92]	"1,969"	Off-List[6]	"3,135"	"11,680"	2	3
+		Pride and Prejudice	4	Off-List[43]	Off-List[276]	"2,138"	Off-List[58]	"9,406"	"12,690"	2	3
+		Princess Diana	3	2048	Off-List[33]	"1,566"	Off-List[2]	"11,937"	"14,283"	1	2
+		Ring The	3	Off-List[1]	Off-List[35]	"1,726"	Off-List[2]	"1,751"	"2,958"	1	2
+		Rip Van Winkle & the Legend of Sleepy Hollow	1	1465	Off-List[1]	"1,243"	"2,215"	"4,899"	"47,488"	2	4
+		Round the World in Eighty Days	4	2115	Off-List[18]	"1,474"	Off-List[5]	"3,306"	"14,752"	1	3
+		Sense and Sensibility	3	2015	Off-List[27]	"1,343"	Off-List[2]	"11,210"	"22,362"	1	2
+		Sherlock Holmes Short Stories	4	1833	Off-List[32]	"1,306"	"2,415"	"2,492"	"11,210"	1	2
+		Simply Suspense	2	2373	Off-List[35]	"1,597"	Off-List[6]	"1,910"	"11,310"	1	4
+		Strange Case of Dr Jekyll and Mr Hyde The	4	Off-List[1]	Off-List[51]	"1,663"	Off-List[2]	"5,081"	"19,347"	2	2
+		Strangers on a Train	4	2182	Off-List[34]	"1,384"	"2,627"	"2,492"	"12,123"	1	2
+		Tales of Mystery and Imagination	4	Off-List[96]	Off-List[397]	"2,411"	Off-List[74]	"3,252"	"8,014"	2	3
+		Taste and Other Tales	4	Off-List[44]	Off-List[286]	"2,173"	Off-List[38]	"2,842"	"9,406"	2	3
+		Three Short Stories of Sherlock Holmes	2	1707	Off-List[14]	"1,231"	"2,638"	"3,242"	"11,210"	1	2
+		Time to Kill A	4	Off-List[24]	Off-List[186]	"2,219"	Off-List[21]	"13,427"	"20,199"	2	4
+		War of the Worlds The	4	Off-List[65]	Off-List[330]	"2,500"	Off-List[56]	"3,166"	"10,466"	2	3
+		Wave The	2	1515	Off-List[1]	"1,156"	"1,825"	"12,079"	"13,250"	1	3
+		World Folk Tales	4	Off-List[33]	Off-List[188]	"2,669"	Off-List[27]	"2,632"	"9,406"	2	4
+	Penguin Active Reading
+		Romans The	3	Off-List[5]	Off-List[63]	"2,366"	Off-List[7]	"5,837"	"22,864"	2	4
+	Penguin Readers (Old)
+		Airport	4	Off-List[4]	Off-List[135]	"1,854"	Off-List[8]	"3,408"	"12,064"	2	3
+		As Time Goes By	4	2288	Off-List[83]	"1,630"	Off-List[4]	"9,438"	"17,299"	2	4
+		Benetton	4	Off-List[26]	Off-List[252]	"2,111"	Off-List[27]	"7,265"	"20,932"	2	3
+		Billy Budd Sailor	3	Off-List[10]	Off-List[62]	Off-List[1]	Off-List[16]	"4,345"	"13,121"	2	4
+		Blood Ties	3	Off-List[4]	Off-List[39]	"1,865"	Off-List[2]	"3,426"	"12,602"	2	3
+		Brazil-500 Years Voyage to Terra Papagalis	1	Off-List[1]	Off-List[2]	"1,874"	Off-List[1]	"12,990"	"22,857"	4	25
+		British Life	3	Off-List[7]	Off-List[77]	"2,772"	Off-List[12]	"12,602"	"26,210"	2	5
+		Brown Eyes	1	1878	Off-List[5]	"1,440"	"2,669"	"9,406"	"12,829"	1	2
+		Business at the Speed of Thought	5	Off-List[14]	Off-List[200]	"2,281"	Off-List[22]	"4,682"	"10,977"	3	3
+		Carnival	1	Off-List[3]	Off-List[11]	"2,414"	Off-List[4]	"13,225"	"13,947"	2	12
+		Catskill Eagle A	3	2017	Off-List[23]	"1,460"	"2,472"	"2,750"	"15,000"	2	4
+		Chance of a Lifetime	3	2007	Off-List[37]	"1,382"	Off-List[1]	"3,666"	"12,602"	1	3
+		Chrysalids The	3	2076	Off-List[37]	"1,535"	Off-List[2]	"2,264"	"13,290"	1	2
+		Cinderella Man	4	Off-List[20]	Off-List[135]	"2,237"	Off-List[13]	"11,531"	"19,840"	2	4
+		Dream and Other Stories The	4	Off-List[9]	Off-List[94]	"2,112"	Off-List[13]	"2,706"	"12,321"	2	2
+		Ghosts of Izieu The	3	2466	Off-List[67]	"1,630"	Off-List[5]	"2,155"	"10,674"	1	3
+		Godfather The	4	Off-List[6]	Off-List[122]	"1,811"	Off-List[13]	"10,973"	"18,895"	2	3
+		Grass is Singing The	4	Off-List[11]	Off-List[177]	"1,811"	Off-List[17]	"3,857"	"11,482"	2	2
+		Great Football Stories	3	2371	Off-List[35]	"1,663"	Off-List[4]	"4,431"	"16,486"	2	3
+		Gucci -- Business in Fashion	2	2283	Off-List[15]	"1,514"	Off-List[4]	"11,548"	"17,829"	2	5
+		Happy Christmas!	3	Off-List[14]	Off-List[80]	"2,224"	Off-List[18]	"8,192"	"20,878"	2	6
+		Management Gurus	4	1766	Off-List[30]	"1,303"	"2,408"	"7,265"	"15,034"	2	3
+		Manchester United	3	Off-List[2]	Off-List[43]	"2,384"	Off-List[8]	"9,512"	"17,288"	2	3
+		Muhammad Ali	1	Off-List[1]	Off-List[14]	"1,329"	"2,577"	"7,456"	"25,574"	2	4
+		My Family and Other Animals	3	Off-List[4]	Off-List[60]	"1,789"	Off-List[13]	"2,492"	"12,948"	1	4
+		Mystery of the Blue Mines	3	Off-List[5]	Off-List[61]	"1,811"	Off-List[5]	"11,565"	"12,676"	2	3
+		Oscars The	3	Off-List[1]	Off-List[30]	"1,776"	Off-List[4]	"13,338"	"20,269"	3	6
+		Primary Colors	4	Off-List[1]	Off-List[47]	"1,714"	Off-List[2]	"7,838"	"14,752"	2	4
+		Prime Suspect	4	Off-List[4]	Off-List[115]	"1,518"	Off-List[4]	"3,602"	"12,690"	2	2
+		Red Badge of Courage The	3	Off-List[11]	Off-List[60]	"2,154"	Off-List[5]	"2,492"	"12,503"	2	4
+		Royal Family The	3	Off-List[1]	Off-List[48]	"1,903"	Off-List[4]	"11,937"	"14,283"	2	3
+		Story of the Internet The	4	Off-List[1]	Off-List[76]	"1,671"	Off-List[6]	"6,527"	"15,018"	2	4
+		Yearling The	3	Off-List[9]	Off-List[67]	"2,274"	Off-List[12]	"8,077"	"17,861"	2	5
+Pomaka
+	Tips for English Language Learners
+		Conversation Skills - 10 162	3	Off-List[1]	Off-List[11]	"1,657"	Off-List[4]	"2,237"	"2,876"	2	3
+	University diaries
+		Breaking Free - A university diary: Book 1	2	2447	Off-List[38]	"1,437"	Off-List[9]	"7,556"	"17,033"	5	19
+		Breaking Free - A university diary: Book 2	2	Off-List[1]	Off-List[27]	"1,472"	Off-List[2]	"17,033"	"17,033"	19	19
+		Breaking Free - A university diary: Book 3	2	2447	Off-List[21]	"1,393"	Off-List[1]	"17,033"	"17,033"	3	19
+		Breaking Free - A university diary: Book 4	2	Off-List[1]	Off-List[25]	"1,393"	Off-List[2]	"12,936"	"17,033"	5	19
+		Breaking Free - A university diary: Book 5	2	2045	Off-List[22]	"1,472"	Off-List[2]	"17,033"	"17,033"	5	19
+Prolingua
+	Hopes and Dreams
+		A Different Home/ Cuban-Americans	3	1904	Off-List[12]	"1,302"	Off-List[1]	"3,783"	"16,666"	1	2
+		Amala's Hope/ A Family from Syria	3	Off-List[2]	Off-List[41]	"2,081"	Off-List[6]	"3,109"	"12,786"	2	5
+		For Gold and Blood/ Chinese-Americans	3	Off-List[1]	Off-List[27]	"1,811"	Off-List[3]	"10,599"	"16,621"	2	8
+		Hungry No More/ Irish-Americans	3	Off-List[7]	Off-List[61]	"2,247"	Off-List[12]	"11,482"	"13,358"	2	3
+		Little Italy/ Italian-Americans	3	1975	Off-List[23]	"1,372"	"2,547"	"10,125"	"19,599"	1	2
+		Neighbors/ A Family From El Salvador	3	Off-List[1]	Off-List[45]	"1,783"	Off-List[11]	"9,318"	"22,170"	2	6
+		Nobody Knows/ African-Americans	3	2125	Off-List[20]	"1,385"	"2,423"	"10,936"	"19,895"	1	2
+		Old Ways New Ways/ Jewish-Americans	3	1954	Off-List[18]	"1,391"	"2,636"	"2,882"	"24,224"	1	2
+		Sent Away/ Japanese-Americans	3	Off-List[2]	Off-List[54]	"1,960"	Off-List[9]	"2,387"	"9,067"	2	5
+		The Family from Vietnam	3	2120	Off-List[16]	"1,535"	Off-List[1]	"4,078"	"15,214"	1	3
+		The Magic Paper/ Mexican-Americans	3	1996	Off-List[16]	"1,471"	"2,709"	"2,580"	"21,039"	1	2
+		Two Hearts/ Greek-Americans	3	2304	Off-List[31]	"1,552"	Off-List[3]	"11,139"	"17,648"	1	3
+Seed Learning
+	Future Job Readers
+		Agricultural Engineers	4	Off-List[9]	Off-List[34]	"2,608"	Off-List[8]	"4,416"	"6,817"	3	5
+		App Developers	3	Off-List[3]	Off-List[14]	Off-List[1]	Off-List[2]	"19,744"	"19,744"	2	3
+		Asset Managers	2	2282	Off-List[2]	"1,499"	Off-List[1]	"7,885"	"7,885"	3	3
+		Computer Intelligence Engineers	3	Off-List[2]	Off-List[11]	"2,021"	"2,796"	"2,367"	"3,352"	2	3
+		Cyber Security Experts	2	Off-List[2]	Off-List[14]	"1,792"	Off-List[1]	"3,178"	"10,800"	3	Off-List[1]
+		Data Miners	3	Off-List[3]	Off-List[8]	Off-List[1]	Off-List[2]	"4,825"	"6,087"	3	3
+		Database Administrators	4	Off-List[4]	Off-List[19]	"2,143"	Off-List[4]	"3,183"	"12,944"	3	3
+		Digital Modelers	3	Off-List[8]	Off-List[22]	Off-List[1]	Off-List[5]	"10,514"	"29,260"	2	4
+		Drone Pilots	3	Off-List[3]	Off-List[21]	Off-List[1]	Off-List[2]	"9,103"	"9,103"	7	7
+		Genetic Counselors	3	Off-List[4]	Off-List[12]	Off-List[1]	Off-List[4]	"7,767"	"11,034"	3	3
+		Intellectual Property Lawyers	4	Off-List[2]	Off-List[11]	"1,979"	Off-List[4]	"6,878"	"9,199"	3	4
+		IoT Marketing Specialists	3	Off-List[1]	Off-List[4]	"1,792"	Off-List[3]	"2,551"	"9,663"	2	3
+		Medical Scientists	2	Off-List[1]	Off-List[5]	"1,759"	Off-List[1]	"3,179"	"3,841"	3	3
+		Nanotechnology Research Scientists	4	Off-List[21]	Off-List[52]	Off-List[3]	Off-List[14]	"10,914"	"34,233"	15	19
+		Quantum Computer Scientists	4	Off-List[4]	Off-List[20]	Off-List[1]	Off-List[9]	"10,977"	"20,300"	4	5
+		Robotics Engineers	2	Off-List[3]	Off-List[5]	Off-List[1]	Off-List[2]	"2,890"	"5,682"	4	4
+		Social Media Managers	2	994	Off-List[1]	"1,262"	Off-List[2]	"2,962"	"2,962"	3	5
+		Space Pilots	3	Off-List[2]	Off-List[13]	Off-List[1]	Off-List[7]	"2,798"	"11,762"	7	33
+		Water Harvesters	3	Off-List[6]	Off-List[32]	Off-List[2]	Off-List[6]	"4,057"	"24,140"	4	4
+		Wearable Technology Creators	3	Off-List[4]	Off-List[21]	Off-List[1]	Off-List[3]	"2,422"	"10,745"	2	2
+	World History Readers 
+		Alexander the Great	3	Off-List[8]	Off-List[41]	"2,451"	Off-List[13]	"12,815"	"16,389"	2	3
+		Benjamin Franklin	3	Off-List[6]	Off-List[26]	Off-List[2]	Off-List[16]	"7,265"	"12,375"	3	6
+		Calendars and the History of Time	2	Off-List[5]	Off-List[19]	Off-List[1]	Off-List[5]	"16,389"	"24,788"	4	4
+		Capitalism: Good or Evil?	5	Off-List[15]	Off-List[53]	Off-List[1]	Off-List[12]	"7,563"	"13,015"	4	4
+		China: The New Superpower	4	Off-List[21]	Off-List[65]	Off-List[1]	Off-List[27]	"14,833"	"29,090"	3	7
+		Chinas First Empire: The Qin Dynasty	5	Off-List[15]	Off-List[50]	Off-List[3]	Off-List[16]	"10,592"	"15,840"	4	5
+		Christopher Columbus	3	Off-List[4]	Off-List[24]	"2,114"	Off-List[4]	"5,271"	"13,750"	2	3
+		Cleopatra	3	Off-List[9]	Off-List[39]	Off-List[1]	Off-List[19]	"14,322"	"35,342"	2	4
+		Communication Technology	5	Off-List[37]	Off-List[82]	Off-List[15]	Off-List[47]	"7,160"	"26,176"	5	18
+		Decisive Battles of World War II	4	Off-List[25]	Off-List[66]	Off-List[5]	Off-List[22]	"11,370"	"20,878"	3	4
+		Galileo Galilei	3	Off-List[12]	Off-List[36]	"2,471"	Off-List[10]	"19,469"	"38,426"	3	5
+		Genghis Khan	3	Off-List[22]	Off-List[57]	Off-List[3]	Off-List[22]	"13,096"	"49,727"	4	8
+		Global Trade and Peace	5	Off-List[21]	Off-List[62]	"2,763"	Off-List[19]	"6,970"	"14,432"	3	4
+		Greek Culture	5	Off-List[34]	Off-List[83]	Off-List[10]	Off-List[36]	"24,139"	"37,698"	3	6
+		Korea: A Land Divided by War	3	Off-List[3]	Off-List[23]	"1,768"	Off-List[2]	"19,534"	"21,957"	2	2
+		Leonardo da Vinci	3	Off-List[20]	Off-List[53]	Off-List[5]	Off-List[27]	"7,454"	"16,308"	3	6
+		Life and Death in Ancient Egypt	3	Off-List[49]	Off-List[82]	Off-List[15]	Off-List[45]	"16,389"	"49,690"	5	12
+		Life in the Roman Army	3	Off-List[31]	Off-List[69]	Off-List[4]	Off-List[23]	"29,371"	"35,342"	3	7
+		Napoleon	5	Off-List[43]	Off-List[92]	Off-List[9]	Off-List[49]	"10,252"	"19,120"	3	4
+		Popes and Kings in the Middle Ages	4	Off-List[14]	Off-List[48]	Off-List[3]	Off-List[22]	"13,836"	"20,706"	4	4
+		Searching for El Dorado	2	Off-List[3]	Off-List[12]	"1,874"	Off-List[1]	"15,266"	"31,049"	1	3
+		Space Exploration	3	Off-List[11]	Off-List[31]	Off-List[3]	Off-List[11]	"8,002"	"20,329"	4	7
+		Tea and Wars	3	Off-List[14]	Off-List[35]	Off-List[5]	Off-List[16]	"17,865"	"31,121"	3	8
+		The Agricultural Revolution	3	Off-List[16]	Off-List[40]	Off-List[3]	Off-List[17]	"4,375"	"12,797"	3	5
+		The Battle of Salamis	3	Off-List[11]	Off-List[34]	Off-List[3]	Off-List[14]	"37,698"	"37,698"	2	6
+		The Birth of the United States of America	3	Off-List[12]	Off-List[41]	Off-List[2]	Off-List[18]	"12,574"	"17,865"	3	4
+		The British Empire Then and Now	3	Off-List[1]	Off-List[15]	"2,745"	Off-List[2]	"12,574"	"18,107"	3	3
+		The Cold War	5	Off-List[18]	Off-List[61]	Off-List[2]	Off-List[22]	"13,820"	"27,088"	3	4
+		The Crusades	3	Off-List[2]	Off-List[29]	"2,226"	Off-List[5]	"13,750"	"25,303"	4	5
+		The First Democracies	5	Off-List[17]	Off-List[59]	"2,763"	Off-List[19]	"11,680"	"32,594"	3	4
+		The French Revolution	3	Off-List[7]	Off-List[26]	Off-List[1]	Off-List[9]	"11,790"	"19,752"	3	7
+		The Great Depression	4	Off-List[1]	Off-List[32]	"2,126"	Off-List[2]	"7,386"	"13,096"	2	3
+		The Great Plague	4	Off-List[6]	Off-List[30]	Off-List[1]	Off-List[6]	"5,217"	"10,244"	2	4
+		The Great Plane Race	3	Off-List[13]	Off-List[53]	"2,633"	Off-List[14]	"11,937"	"53,338"	3	5
+		The Great Wall of China	2	Off-List[1]	Off-List[17]	"1,872"	Off-List[3]	"3,306"	"9,141"	2	3
+		The History of Printing	3	Off-List[7]	Off-List[17]	"2,661"	Off-List[6]	"2,154"	"11,680"	2	4
+		The History of Transportation	5	Off-List[37]	Off-List[85]	Off-List[7]	Off-List[42]	"6,178"	"13,759"	3	17
+		The Industrial Revolution	3	Off-List[3]	Off-List[19]	"2,624"	Off-List[6]	"4,148"	"10,125"	3	3
+		The Invention of Writing	2	Off-List[11]	Off-List[26]	Off-List[5]	Off-List[18]	"16,375"	"54,263"	4	14
+		The Magic of Numbers	2	Off-List[13]	Off-List[29]	Off-List[3]	Off-List[14]	"13,697"	0[3]	3	Off-List[2]
+		The Making of a United Europe	2	1689	Off-List[5]	"1,629"	"2,763"	"11,056"	"13,750"	2	3
+		The Medical Revolution	4	Off-List[31]	Off-List[70]	Off-List[11]	Off-List[36]	"16,486"	"48,581"	4	11
+		The Mughal Empire	4	Off-List[16]	Off-List[51]	Off-List[3]	Off-List[30]	"20,049"	"40,661"	4	13
+		The Neo-Assyrian Empire	3	Off-List[8]	Off-List[26]	"2,745"	Off-List[12]	"17,373"	"17,540"	3	4
+		The Neo-Babylonian Empire	3	Off-List[1]	Off-List[18]	"2,745"	Off-List[4]	"19,928"	"43,228"	2	3
+		The Ottomans and Their Empire	3	2100	Off-List[7]	"2,145"	Off-List[3]	"14,140"	"20,961"	2	9
+		The Persian Empire	2	Off-List[2]	Off-List[14]	"2,745"	Off-List[3]	"20,049"	"37,698"	2	4
+		The Pilgrim Fathers	2	Off-List[5]	Off-List[22]	Off-List[1]	Off-List[8]	"10,125"	"14,124"	3	6
+		The Rise and Fall of Communism	3	Off-List[5]	Off-List[24]	Off-List[1]	Off-List[11]	"13,750"	"23,613"	3	5
+		The Spanish Conquest of the Americas	3	Off-List[11]	Off-List[36]	Off-List[2]	Off-List[16]	"21,850"	"40,801"	3	7
+		The Story of the Reformation	4	Off-List[7]	Off-List[31]	Off-List[1]	Off-List[14]	"14,236"	"14,719"	3	4
+		The Story of the Renaissance	4	Off-List[4]	Off-List[30]	"1,754"	Off-List[4]	"16,308"	"38,426"	2	3
+		The Tower of Babel	2	Off-List[2]	Off-List[11]	"2,322"	Off-List[1]	"4,057"	"22,408"	2	2
+		The Trojan War	3	Off-List[1]	Off-List[15]	"2,226"	Off-List[4]	"16,146"	"37,698"	2	3
+		The Vikings and Erik the Red	3	Off-List[13]	Off-List[44]	Off-List[1]	Off-List[16]	"8,987"	"18,168"	2	4
+		The War Between the States	3	2007	Off-List[4]	"1,419"	"2,423"	"4,238"	"13,076"	2	2
+		Traveling on the Silk Road	2	Off-List[2]	Off-List[14]	"2,285"	Off-List[3]	"3,967"	"15,267"	3	6
+		Tutankhamun	4	Off-List[11]	Off-List[51]	Off-List[2]	Off-List[23]	"10,592"	"16,389"	4	5
+		Wars in the Middle East	3	Off-List[4]	Off-List[21]	"2,532"	Off-List[6]	"15,243"	"24,490"	2	3
+		World War I	5	Off-List[49]	Off-List[97]	Off-List[7]	Off-List[47]	"10,674"	"15,126"	4	6
+Sunshine Books
+	Sunshine Books
+		Along Comes Jake	1	2045	Off-List[1]	"1,977"	Off-List[1]	"12,960"	"13,947"	1	2
+		An Elephant for the Holidays	1	Off-List[1]	Off-List[4]	"2,292"	Off-List[2]	"1,032"	"1,875"	1	2
+		Are We There Yet?	1	Off-List[3]	Off-List[10]	Off-List[1]	Off-List[5]	"5,277"	"13,871"	2	10
+		At School	1	2045	Off-List[1]	672	872	571	571	1	1
+		Aunty Maria and the Cat	1	Off-List[1]	Off-List[3]	"1,748"	Off-List[1]	"13,225"	"13,225"	1	2
+		Did You Know?	1	Off-List[37]	Off-List[51]	Off-List[23]	Off-List[37]	"5,517"	"14,903"	7	13
+		Geckos	1	Off-List[7]	Off-List[10]	Off-List[5]	Off-List[7]	"14,662"	0[1]	14	14
+		Going to Lucys House	1	Off-List[1]	Off-List[2]	"2,114"	Off-List[2]	"2,492"	"2,703"	2	9
+		Grandmas Birds	1	Off-List[2]	Off-List[8]	Off-List[1]	Off-List[4]	"1,897"	"8,350"	2	4
+		Great Big Spelling Problems	1	Off-List[2]	Off-List[6]	Off-List[1]	Off-List[2]	"7,349"	"12,618"	4	5
+		Hiccups for Hippo	1	Off-List[4]	Off-List[7]	Off-List[2]	Off-List[4]	"5,403"	"5,485"	11	11
+		Horseshoes	1	Off-List[2]	Off-List[5]	Off-List[1]	Off-List[2]	"1,107"	"7,964"	2	7
+		I Go Go Go	1	1551	Off-List[1]	631	"1,116"	495	980	1	1
+		I Like	1	Off-List[4]	Off-List[5]	Off-List[4]	Off-List[5]	"1,376"	"3,880"	6	Off-List[1]
+		I Like Spinach	1	Off-List[2]	Off-List[6]	Off-List[2]	Off-List[6]	"14,176"	"21,643"	7	8
+		Im Bigger Than You!	1	309	309	184	184	"6,780"	"6,780"	7	7
+		In My Home	1	2155	2456	Off-List[2]	Off-List[3]	980	"2,158"	2	33
+		In the Middle of the Night	1	Off-List[8]	Off-List[17]	Off-List[1]	Off-List[6]	"1,952"	"5,485"	2	3
+		Just Right!	1	763	1997	705	"1,668"	969	"2,099"	1	2
+		Kangaroo	1	Off-List[4]	Off-List[5]	Off-List[1]	Off-List[2]	"1,899"	"2,996"	7	9
+		Letters for Mr James	1	1631	Off-List[1]	"1,472"	Off-List[1]	"11,210"	"27,403"	1	23
+		Lizards Grandmother	1	Off-List[1]	Off-List[5]	"2,601"	"2,728"	"4,023"	"4,023"	6	7
+		Look at Me Mum!	1	Off-List[1]	Off-List[2]	"1,935"	Off-List[1]	"3,907"	"7,349"	2	5
+		Look Out	1	Off-List[3]	Off-List[4]	Off-List[3]	Off-List[4]	"4,598"	"4,622"	5	9
+		Lucys Rooster	1	Off-List[5]	Off-List[8]	Off-List[3]	Off-List[5]	"8,528"	"52,982"	11	11
+		Magnets	1	Off-List[5]	Off-List[13]	Off-List[1]	Off-List[5]	"2,627"	"4,794"	3	4
+		Mishi-na	1	Off-List[5]	Off-List[11]	Off-List[3]	Off-List[5]	0[1]	0[1]	5	6
+		Mrs Pyes Pool	1	Off-List[5]	Off-List[7]	Off-List[1]	Off-List[3]	"9,406"	"24,725"	2	4
+		My Boat	1	Off-List[3]	Off-List[7]	"2,508"	Off-List[3]	"1,892"	"2,416"	2	4
+		My Family	1	Off-List[1]	Off-List[2]	Off-List[1]	Off-List[2]	871	"1,897"	1	1
+		My Granny Rides a Bicycle	1	Off-List[2]	Off-List[4]	Off-List[2]	Off-List[3]	"1,541"	"2,028"	6	6
+		My Superheroes	1	Off-List[1]	Off-List[2]	Off-List[1]	Off-List[1]	"3,661"	"3,661"	13	13
+		Nothing Ever Happens	1	Off-List[1]	Off-List[5]	Off-List[1]	Off-List[4]	"7,349"	"11,590"	2	4
+		Puppy Playtime	1	Off-List[1]	Off-List[3]	Off-List[1]	Off-List[2]	"1,583"	"2,051"	2	2
+		Ratty-tatty	1	Off-List[4]	Off-List[6]	Off-List[1]	Off-List[3]	"41,629"	"41,629"	14	14
+		Sams Mother Comes to School	1	Off-List[7]	Off-List[18]	"2,627"	Off-List[4]	"17,299"	"17,299"	2	5
+		Sharks	1	Off-List[4]	Off-List[6]	Off-List[2]	Off-List[4]	"1,707"	"5,239"	5	8
+		Silver Footprints	1	Off-List[3]	Off-List[9]	Off-List[1]	Off-List[3]	"7,349"	"14,234"	7	7
+		Snoopy the Snail	1	Off-List[4]	Off-List[10]	"2,567"	Off-List[1]	"4,676"	"6,590"	7	17
+		Snow World	1	Off-List[13]	Off-List[25]	Off-List[2]	Off-List[10]	"2,492"	"6,480"	4	5
+		Springtime	1	Off-List[7]	Off-List[10]	Off-List[3]	Off-List[6]	"2,175"	"8,250"	4	7
+		Strawberries for Katinka	1	Off-List[2]	Off-List[7]	Off-List[1]	Off-List[1]	"3,318"	"36,555"	2	2
+		Surf Rescue	1	Off-List[1]	Off-List[3]	"2,379"	Off-List[2]	"2,378"	"6,607"	5	8
+		Tails	1	Off-List[6]	Off-List[12]	"2,537"	Off-List[6]	"1,876"	"8,261"	2	8
+		Tess and Paddy	1	Off-List[2]	Off-List[4]	"2,191"	Off-List[1]	"1,348"	"4,029"	2	5
+		Tess and Paddy	1	Off-List[4]	Off-List[9]	Off-List[3]	Off-List[6]	"45,184"	"45,184"	10	10
+		The Bag of Smiles	1	2455	Off-List[2]	"2,337"	Off-List[2]	"1,112"	"1,599"	1	1
+		The Barbecue	1	Off-List[5]	Off-List[5]	Off-List[4]	Off-List[4]	"21,643"	"21,643"	9	9
+		The Basketball Game	1	2251	Off-List[1]	"1,199"	"1,199"	874	874	2	2
+		The Birthday Cake	1	2457	Off-List[1]	"2,236"	Off-List[1]	297	481	2	33
+		The Boy who Wanted to be Someone	1	2492	Off-List[5]	"2,332"	Off-List[2]	"8,605"	"10,252"	1	8
+		The Giant Pumpkin	1	Off-List[3]	Off-List[7]	Off-List[1]	Off-List[2]	"45,633"	"45,633"	11	11
+		The Magic Tree	1	Off-List[2]	Off-List[2]	"1,825"	"2,589"	942	"1,218"	2	2
+		The Rollercoaster Ride	1	Off-List[4]	Off-List[5]	Off-List[1]	Off-List[2]	"16,960"	"21,909"	1	14
+		The S Party	1	Off-List[8]	Off-List[11]	Off-List[7]	Off-List[10]	"17,299"	"20,269"	13	33
+		The Seed	1	Off-List[3]	Off-List[4]	"1,813"	Off-List[1]	"14,329"	"20,242"	2	5
+		The Terrible Tiger	1	Off-List[5]	Off-List[8]	Off-List[2]	Off-List[3]	"5,874"	"10,216"	4	9
+		The Traveller and the Farmer	1	Off-List[5]	Off-List[8]	Off-List[2]	Off-List[5]	"1,240"	"2,302"	2	2
+		The Walk	1	Off-List[5]	Off-List[13]	Off-List[1]	Off-List[6]	"2,198"	"4,834"	2	11
+		The Week it Rained	1	Off-List[3]	Off-List[5]	Off-List[2]	Off-List[4]	"4,783"	"6,404"	1	1
+		The Whale	1	Off-List[2]	Off-List[3]	Off-List[1]	Off-List[2]	"2,380"	"2,380"	4	4
+		Trees are Special	1	1778	Off-List[2]	"1,525"	Off-List[2]	"1,607"	"3,438"	1	6
+		Tricking Travis	1	2263	Off-List[4]	"2,082"	"2,617"	"2,882"	"7,349"	1	2
+		Two Stupid Cats	1	Off-List[2]	Off-List[6]	"2,497"	Off-List[2]	"2,492"	"3,648"	2	5
+		Wake up Mum!	1	Off-List[4]	Off-List[5]	Off-List[1]	Off-List[2]	"65,993"	"65,993"	20	20
+		Watch Me! Watch Me!	1	Off-List[3]	Off-List[7]	Off-List[2]	Off-List[4]	"11,210"	"13,293"	4	8
+		What Am I?	1	Off-List[6]	Off-List[10]	Off-List[4]	Off-List[8]	"1,584"	"2,779"	4	8
+		Where Are You Going Aja Rose?	1	1382	1904	"1,147"	"1,322"	666	666	1	1
+		Where Is My Hat?	1	Off-List[2]	Off-List[3]	Off-List[1]	Off-List[2]	768	768	2	2
+		Where is the Cabbage?	1	Off-List[1]	Off-List[2]	Off-List[1]	Off-List[2]	"2,474"	"2,474"	6	6
+		Wheres Tim?	1	Off-List[2]	Off-List[3]	Off-List[1]	Off-List[2]	953	"1,136"	33	33
+		Working Dogs	1	Off-List[15]	Off-List[26]	Off-List[4]	Off-List[13]	"5,201"	"7,189"	4	6
+		Zolar and Zina	1	1747	Off-List[1]	"1,432"	Off-List[1]	789	"1,085"	1	2
+WAO Corporation
+	WAO Waochi Picture Books
+		A Busy Man	1	Off-List[2]	Off-List[4]	"1,506"	Off-List[1]	"1,112"	"4,117"	1	2
+		A Short Trip	1	Off-List[2]	Off-List[4]	Off-List[1]	Off-List[3]	"2,685"	"29,112"	2	9
+		A Summer Day	1	Off-List[2]	Off-List[3]	Off-List[3]	Off-List[4]	"1,844"	"2,029"	8	8
+		A Windy Day	1	Off-List[3]	Off-List[4]	"1,313"	Off-List[1]	"2,072"	"2,159"	1	1
+		Antenna	1	Off-List[2]	Off-List[4]	Off-List[1]	Off-List[2]	"2,392"	"5,156"	7	18
+		Dandelion	1	Off-List[3]	Off-List[5]	Off-List[2]	Off-List[4]	"5,304"	"5,304"	4	10
+		Gentleman	1	Off-List[5]	Off-List[7]	"1,988"	Off-List[1]	995	"2,453"	2	3
+		Get	1	Off-List[1]	Off-List[2]	Off-List[1]	Off-List[1]	"3,310"	"3,310"	3	3
+		Go	1	Off-List[4]	Off-List[6]	Off-List[3]	Off-List[5]	"3,689"	"6,520"	5	10
+		Have	1	Off-List[2]	Off-List[4]	Off-List[1]	Off-List[3]	"2,169"	0[1]	2	3
+		Make	1	Off-List[1]	Off-List[2]	"2,322"	Off-List[1]	"1,093"	"1,104"	2	33
+		My Phone	1	Off-List[2]	Off-List[4]	"2,087"	Off-List[2]	"1,128"	"2,289"	2	4
+		Put	1	Off-List[4]	Off-List[5]	Off-List[2]	Off-List[3]	"1,525"	"3,984"	9	33
+		Rice Cake	1	Off-List[3]	Off-List[4]	Off-List[1]	Off-List[2]	"1,816"	"2,212"	2	5
+		Seasonal Delicacies	1	Off-List[4]	Off-List[6]	Off-List[4]	Off-List[6]	"4,617"	"22,147"	9	12
+		See	1	Off-List[4]	Off-List[7]	Off-List[2]	Off-List[5]	"4,254"	"37,517"	5	14
+		Set	1	Off-List[5]	Off-List[6]	Off-List[2]	Off-List[3]	"4,095"	"5,104"	2	2
+		Sports Day	1	Off-List[2]	Off-List[4]	Off-List[1]	Off-List[3]	"2,132"	"3,656"	3	5
+		Take	1	Off-List[2]	Off-List[4]	"2,350"	Off-List[2]	"1,679"	"2,287"	2	4
+Wayzgoose Press
+	Wayzgoose Press
+		After Twenty Years	4	Off-List[1]	Off-List[28]	"1,861"	Off-List[7]	"3,368"	"7,618"	2	4
+		At Work	2	Off-List[2]	Off-List[20]	"2,586"	Off-List[9]	"12,991"	0[1]	2	Off-List[1]
+		Cecilia's House & The Foraging Class	4	Off-List[24]	Off-List[164]	"2,292"	Off-List[40]	"3,355"	"15,729"	2	5
+		Channel Runner	4	Off-List[29]	Off-List[149]	"2,136"	Off-List[24]	"10,965"	"13,636"	2	4
+		Dead in Dublin	4	Off-List[53]	Off-List[291]	"2,797"	Off-List[84]	"6,588"	"21,780"	2	5
+		Fair Play	3	2075	Off-List[9]	"1,347"	"2,527"	"1,523"	"8,605"	1	2
+		Folktales	3	Off-List[6]	Off-List[30]	"2,289"	Off-List[5]	"1,306"	"2,336"	2	2
+		Frankenstein	4	Off-List[17]	Off-List[147]	"2,376"	Off-List[31]	"2,827"	"6,400"	2	4
+		Grandads Eleven	3	2082	Off-List[9]	"1,489"	"2,527"	"12,323"	"21,801"	1	2
+		Humans in Space	4	Off-List[12]	Off-List[127]	"2,596"	Off-List[29]	"5,614"	"19,511"	3	6
+		In Town	2	Off-List[15]	Off-List[52]	Off-List[3]	Off-List[25]	"14,497"	"16,394"	3	6
+		Interesting People	3	2241	Off-List[39]	"1,635"	Off-List[2]	"2,016"	"9,285"	2	2
+		Inventions	4	Off-List[17]	Off-List[98]	Off-List[2]	Off-List[30]	"3,465"	"12,327"	3	5
+		Lights at Chickasaw Point & The Two Garcons	4	Off-List[3]	Off-List[60]	"1,876"	Off-List[8]	"12,182"	"15,515"	2	4
+		Living at Trace	4	2407	Off-List[32]	"1,708"	Off-List[6]	"12,182"	"14,452"	2	5
+		Notable Native Americans	4	Off-List[16]	Off-List[155]	"2,567"	Off-List[27]	"8,019"	"20,706"	2	4
+		Summer in Cimarron & Lunch at the Dixie Diner	4	Off-List[1]	Off-List[55]	"1,825"	Off-List[3]	"2,789"	"17,857"	2	3
+		Take Five	4	Off-List[2]	Off-List[57]	"1,597"	Off-List[5]	"6,457"	"12,620"	2	5
+		The Bee Creek Blues & Meridian	4	Off-List[12]	Off-List[80]	"2,295"	Off-List[13]	"12,657"	"17,439"	3	6
+		The Gift of the Magi	4	Off-List[83]	Off-List[147]	Off-List[14]	Off-List[74]	"6,833"	"11,548"	3	6
+		The Lady or the Tiger?	4	Off-List[72]	Off-List[148]	Off-List[11]	Off-List[70]	"4,992"	"8,143"	3	5
+		The Monkey's Paw	4	Off-List[112]	Off-List[233]	Off-List[11]	Off-List[114]	"4,832"	"11,210"	3	5
+		The Most Dangerous Game	4	Off-List[86]	Off-List[264]	Off-List[1]	Off-List[93]	"2,797"	"6,420"	2	4
+		The Storm	4	Off-List[19]	Off-List[163]	"2,075"	Off-List[30]	"7,686"	"13,747"	2	5
+		The Visitors	4	Off-List[18]	Off-List[194]	"2,111"	Off-List[32]	"3,368"	"12,602"	2	5
+		The World of Sports	4	Off-List[27]	Off-List[201]	"2,637"	Off-List[46]	"6,448"	"16,486"	3	5
+		Urban Legends	3	Off-List[30]	Off-List[162]	Off-List[2]	Off-List[35]	"2,937"	"14,329"	3	33
+		Variety Pack/ Readers' Choice (Intermediate)	4	Off-List[40]	Off-List[246]	"2,540"	Off-List[49]	"2,958"	"8,128"	2	4
+		Variety Pack/ Readers' Choice (Low Intermediate)	4	Off-List[15]	Off-List[124]	"2,591"	Off-List[22]	"3,134"	"13,225"	2	4
