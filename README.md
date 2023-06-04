@@ -32,6 +32,6 @@ This script creates coverage tables for all books in the previously described ou
 ### Data Extraction for Research Question 6 (RQ6_final.ipynb)
 This file extracts all 2-, 3-, 4-, and 5-grams from the corpora which occur over 20 times per million tokens. It does this for the COCA as a whole, the COCA fiction corpus, the GRC, and just the fiction texts within the GRC.
 
-### Data Extraction for Research Questions 7 and 8 (RQ7-8.ipynb)
+### Data Extraction for Research Questions 7 and 8 (RQ7.py and RQ8.py)
 This extracts the counts for all PHRASE list items (Martinez & Schmitt, 2012) and PHaVE list items (Garnier & Schmitt, 2015) within the GRC. 
 
